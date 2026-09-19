@@ -1,6 +1,55 @@
 {
-  "generated_at": null,
-  "date": null,
-  "weekday": null,
-  "restaurants": []
+  "generated_at": "2026-09-19T18:57:45+00:00",
+  "date": "2026-09-19",
+  "weekday": "saturday",
+  "restaurants": [
+    {
+      "id": "hortus",
+      "name": "Hortus Kitchen",
+      "url": "https://hortus.ch/en/kitchen/",
+      "menus": {},
+      "pdf_url": null,
+      "error": "closed on weekends"
+    },
+    {
+      "id": "biobistro",
+      "name": "Bio Bistro (Bachgraben)",
+      "url": "https://biobistro.bsb.ch/standorte/bachgraben",
+      "menus": {},
+      "pdf_url": null,
+      "error": "closed on weekends"
+    },
+    {
+      "id": "yaye",
+      "name": "YAYE",
+      "url": "https://www.zfv.ch/de/essen-gehen/yaye",
+      "menus": {},
+      "pdf_url": null,
+      "error": "closed on weekends"
+    },
+    {
+      "id": "belo-cafe",
+      "name": "Belo Café Swiss TPH",
+      "url": "https://www.zfv.ch/de/essen-gehen/belo-cafe-swiss-tph",
+      "menus": {},
+      "pdf_url": null,
+      "error": "closed on weekends"
+    },
+    {
+      "id": "misterwong",
+      "name": "Mister Wong (Allschwil)",
+      "url": "https://www.misterwong.ch/standorte/allschwil/",
+      "menus": {},
+      "pdf_url": null,
+      "error": "closed on weekends"
+    },
+    {
+      "id": "vandermerwe",
+      "name": "Van der Merwe",
+      "url": "https://vandermerwe.ch/gastronomie/",
+      "menus": {},
+      "pdf_url": null,
+      "error": "closed on weekends"
+    }
+  ]
 }
