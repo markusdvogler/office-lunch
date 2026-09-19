@@ -1,0 +1,225 @@
+:root {
+  --bg: #fafaf7;
+  --surface: #ffffff;
+  --ink: #1c1c1a;
+  --ink-dim: #62615c;
+  --border: #e6e4dc;
+  --accent: #b64424;
+  --accent-ink: #ffffff;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.04), 0 4px 12px rgba(0, 0, 0, 0.04);
+  --radius: 12px;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17171a;
+    --surface: #21212a;
+    --ink: #f2f0ea;
+    --ink-dim: #a8a69e;
+    --border: #333340;
+    --accent: #ff6a41;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 4px 12px rgba(0, 0, 0, 0.35);
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--accent); }
+a:hover { text-decoration: none; }
+
+.topbar {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.topbar-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.brand {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.brand-emoji { font-size: 24px; }
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.today {
+  margin: 0;
+  color: var(--ink-dim);
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+.lang-switch {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  overflow: hidden;
+  background: var(--bg);
+}
+.lang-switch button {
+  border: 0;
+  background: transparent;
+  color: var(--ink-dim);
+  padding: 6px 12px;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  letter-spacing: 0.02em;
+}
+.lang-switch button:hover { color: var(--ink); }
+.lang-switch button[aria-pressed="true"] {
+  background: var(--accent);
+  color: var(--accent-ink);
+}
+
+.wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+.status {
+  color: var(--ink-dim);
+  font-size: 14px;
+  min-height: 1.5em;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.card-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+.card-title {
+  margin: 0;
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+}
+.card-link {
+  font-size: 12px;
+  color: var(--ink-dim);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.card-link:hover { color: var(--accent); text-decoration: underline; }
+.card-note {
+  margin: 0;
+  font-size: 12px;
+  color: var(--ink-dim);
+  background: var(--bg);
+  border-radius: 8px;
+  padding: 6px 10px;
+}
+.card-error {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ink-dim);
+  font-style: italic;
+}
+.menu-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.menu-item {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.menu-item-title {
+  font-weight: 600;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+.menu-item-title .price {
+  color: var(--ink-dim);
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.menu-item-desc {
+  color: var(--ink-dim);
+  font-size: 14px;
+}
+.menu-item-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 2px;
+}
+.tag {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-dim);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 1px 8px;
+}
+
+.footer {
+  margin: 32px 0 0;
+  color: var(--ink-dim);
+  font-size: 12px;
+  text-align: center;
+}
+
+@media (max-width: 520px) {
+  .topbar-inner { padding: 10px 12px; }
+  .brand { font-size: 18px; }
+  .controls { gap: 10px; }
+  .today { display: none; }
+  .wrap { padding: 16px 12px 40px; }
+}

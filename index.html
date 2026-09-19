@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <title>Office Lunch</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8D%B4%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <h1 class="brand">
+        <span class="brand-emoji" aria-hidden="true">🍴</span>
+        <span class="brand-text" data-i18n="brand">Office Lunch</span>
+      </h1>
+      <div class="controls">
+        <p class="today" id="today"></p>
+        <div class="lang-switch" role="group" aria-label="Language">
+          <button type="button" data-lang="de">DE</button>
+          <button type="button" data-lang="en">EN</button>
+          <button type="button" data-lang="fr">FR</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <p id="status" class="status" role="status"></p>
+    <div id="grid" class="grid" hidden></div>
+    <p class="footer">
+      <span data-i18n="footer-updated">Last updated:</span>
+      <time id="updated"></time>
+      &middot;
+      <a href="https://github.com/" id="repo-link" target="_blank" rel="noopener">Source</a>
+    </p>
+  </main>
+
+  <template id="card-template">
+    <article class="card">
+      <header class="card-head">
+        <h2 class="card-title"></h2>
+        <a class="card-link" target="_blank" rel="noopener" data-i18n="site-link">Website ↗</a>
+      </header>
+      <p class="card-note" hidden></p>
+      <ul class="menu-items"></ul>
+      <p class="card-error" hidden></p>
+    </article>
+  </template>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

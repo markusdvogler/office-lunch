@@ -1,0 +1,55 @@
+name: Scrape menus
+
+on:
+  schedule:
+    # 06:00 UTC on weekdays = 07:00/08:00 in Basel (CET/CEST)
+    - cron: '0 6 * * 1-5'
+  workflow_dispatch:
+
+concurrency:
+  group: scrape-menus
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Run scraper
+        run: python scripts/scrape_menus.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add data/menus.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "Update menus for $(date -u +%Y-%m-%d) [skip ci]"
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $i"
+              exit 0
+            fi
+            echo "Push attempt $i failed, rebasing..."
+            git pull --rebase origin main || exit 1
+          done
+          echo "Push failed after 5 attempts."
+          exit 1
