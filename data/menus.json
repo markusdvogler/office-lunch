@@ -1,55 +1,328 @@
 {
-  "generated_at": "2026-09-19T18:57:45+00:00",
-  "date": "2026-09-19",
-  "weekday": "saturday",
+  "generated_at": "2026-09-21T12:33:33+00:00",
+  "date": "2026-09-21",
+  "weekday": "monday",
   "restaurants": [
     {
       "id": "hortus",
       "name": "Hortus Kitchen",
       "url": "https://hortus.ch/en/kitchen/",
-      "menus": {},
+      "menus": {
+        "de": {
+          "items": [
+            {
+              "title": "Conchiglie Al Ceci (vegan)",
+              "description": "Kichererbsen, Karotten, Zwiebeln, Petersilie, Stangensellerie, Tomatensalat, Rucola",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
+            }
+          ]
+        },
+        "en": {
+          "items": [
+            {
+              "title": "Conchiglie Al Ceci (vegan)",
+              "description": "Chickpeas, Carrots, Onions, Parsley, Celery, Tomato Salad, Arugula",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "items": [
+            {
+              "title": "Conchiglie Al Ceci (vegan)",
+              "description": "Pois chiches, carottes, oignons, persil, céleri, salade de tomates, roquette",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
+            }
+          ],
+          "translated_from": "de"
+        }
+      },
       "pdf_url": null,
-      "error": "closed on weekends"
+      "error": null
     },
     {
       "id": "biobistro",
       "name": "Bio Bistro (Bachgraben)",
       "url": "https://biobistro.bsb.ch/standorte/bachgraben",
-      "menus": {},
-      "pdf_url": null,
-      "error": "closed on weekends"
+      "menus": {
+        "de": {
+          "items": [
+            {
+              "title": ", 21. September Salat oder Suppe CHF 22.00",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Arancini mit Oliven-Tomaten-Sugo,",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Krautstiel & Rucola",
+              "description": null,
+              "price": null,
+              "tags": []
+            }
+          ]
+        },
+        "en": {
+          "items": [
+            {
+              "title": ", 21 September Salad or soup CHF 22.00",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Arancini with olive-tomato-sugo,",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Krautstiel & Arugula",
+              "description": null,
+              "price": null,
+              "tags": []
+            }
+          ],
+          "translated_from": "de"
+        },
+        "fr": {
+          "items": [
+            {
+              "title": ", 21 septembre Salade ou soupe CHF 22.00",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Arancini au suco olive-tomate,",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Tige de chou & roquette",
+              "description": null,
+              "price": null,
+              "tags": []
+            }
+          ],
+          "translated_from": "de"
+        }
+      },
+      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-39.pdf",
+      "error": null
     },
     {
       "id": "yaye",
       "name": "YAYE",
       "url": "https://www.zfv.ch/de/essen-gehen/yaye",
-      "menus": {},
+      "menus": {
+        "de": {
+          "items": [
+            {
+              "title": "APPENZELLERKÄSE HÖRNLI",
+              "description": "Glocal · Schnittlauch, Apfelmus, Menüsalat",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "CHILI CON CARNE",
+              "description": "Traditional · Reis, Bohnen und Mais, Tortilla Chips",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Saisonale Salatbar: sagen Sie uns",
+              "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate \\u0026 warme Toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Schwein Cordon bleu",
+              "description": "Weekly Special und Salate · Pommes frites, Blattsalat mit Hausdressing, Ketchup, Mayonnaise",
+              "price": null,
+              "tags": []
+            }
+          ]
+        },
+        "fr": {
+          "items": [
+            {
+              "title": "Appenzellerkäse Hörnli",
+              "description": "Glocal · Ciboulette, frais (prêt à l’emploi), Compote de pomme sans sucre, conserve, Menüsalat mit Knorr",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Chili Con carne",
+              "description": "Traditional · Trockenreis, Bohnen Mais Gemüse, Tortilla Chips / Chips de maïs / Nachos",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Mélange de feuilles de salade, Salad Bowl",
+              "description": "Salate · Salade de carottes, Salade de concombre à l’aneth, Taboulé, port. à 200g, Randensalat, Sauce à salade au vinaigre balsamique",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Schweins Cordon bleu paniert, Port. 150g",
+              "description": "Weekly Special und Salate · Pommes frites, Mélange de feuilles de salade, Salad Bowl",
+              "price": null,
+              "tags": []
+            }
+          ]
+        },
+        "en": {
+          "items": [
+            {
+              "title": "APPENZELLERKASE HÖRNLI",
+              "description": "Glocal · Chives, applesauce, menu salad",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "CHILLI CON CARNE",
+              "description": "Traditional · Rice, beans and corn, tortilla chips",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Seasonal salad bar: tell us",
+              "description": "Salads · what you want on your plate!, leaf salad, homemade salads \\u0026 warm toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Pork Cordon blue",
+              "description": "Weekly special and salads · French fries, leaf salad with house dressing, ketchup, mayonnaise",
+              "price": null,
+              "tags": []
+            }
+          ],
+          "translated_from": "de"
+        }
+      },
       "pdf_url": null,
-      "error": "closed on weekends"
+      "error": null
     },
     {
       "id": "belo-cafe",
       "name": "Belo Café Swiss TPH",
       "url": "https://www.zfv.ch/de/essen-gehen/belo-cafe-swiss-tph",
-      "menus": {},
+      "menus": {
+        "de": {
+          "items": [
+            {
+              "title": "APPENZELLERKÄSE HÖRNLI",
+              "description": "Veggie Bowl · Schnittlauch, Apfelmus, Menüsalat",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "CHILI CON CARNE",
+              "description": "Traditional Bowl · Reis, Bohnen Mais Gemüse, Tortilla Chips",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "POULET STROGANOFF",
+              "description": "Soul Food · Bratkartoffeln \\\\",
+              "price": null,
+              "tags": []
+            }
+          ]
+        },
+        "fr": {
+          "items": [
+            {
+              "title": "APPENZELLERKÄSE HÖRNLI",
+              "description": "Veggie Bowl · Schnittlauch, Apfelmus, Menüsalat",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "CHILI CON CARNE",
+              "description": "Traditional Bowl · Reis, Bohnen Mais Gemüse, Tortilla Chips",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "POULET STROGANOFF",
+              "description": "Soul Food · Bratkartoffeln \\\\",
+              "price": null,
+              "tags": []
+            }
+          ]
+        },
+        "en": {
+          "items": [
+            {
+              "title": "APPENZELLERKASE HÖRNLI",
+              "description": "Veggie Bowl · Chives, applesauce, menu salad",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "CHILLI CON CARNE",
+              "description": "Traditional Bowl · Rice, Bean Corn Vegetables, Tortilla Chips",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "CHICKEN STROGANOFF",
+              "description": "Soul Food · Fried Potatoes \\\\",
+              "price": null,
+              "tags": []
+            }
+          ],
+          "translated_from": "de"
+        }
+      },
       "pdf_url": null,
-      "error": "closed on weekends"
+      "error": null
     },
     {
       "id": "misterwong",
       "name": "Mister Wong (Allschwil)",
       "url": "https://www.misterwong.ch/standorte/allschwil/",
       "menus": {},
-      "pdf_url": null,
-      "error": "closed on weekends"
+      "pdf_url": "https://www.misterwong.ch/wp-content/uploads/sites/2/2025/09/VAL_RZ_2_Mister_Wong_Speisekarte_A1_LOW.pdf",
+      "error": "Daily-Wok changes daily; full menu published as PDF only"
     },
     {
       "id": "vandermerwe",
       "name": "Van der Merwe",
       "url": "https://vandermerwe.ch/gastronomie/",
       "menus": {},
-      "pdf_url": null,
-      "error": "closed on weekends"
+      "pdf_url": "https://vandermerwe.ch/wp-content/uploads/2023/12/Speisekarte_VDM.pdf",
+      "error": "Restaurant publishes a static menu (no daily rotation online)"
     }
   ]
 }
