@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T12:33:33+00:00",
-  "date": "2026-09-21",
-  "weekday": "monday",
+  "generated_at": "2026-09-22T11:21:23+00:00",
+  "date": "2026-09-22",
+  "weekday": "tuesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -11,36 +11,30 @@
         "de": {
           "items": [
             {
-              "title": "Conchiglie Al Ceci (vegan)",
-              "description": "Kichererbsen, Karotten, Zwiebeln, Petersilie, Stangensellerie, Tomatensalat, Rucola",
+              "title": "Palak Paneer",
+              "description": "Paneer KÃ¤se, Basmati Reis, Joghurt, Koriander, Marinierter Babyspinat, Red Coleslaw",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Conchiglie Al Ceci (vegan)",
-              "description": "Chickpeas, Carrots, Onions, Parsley, Celery, Tomato Salad, Arugula",
+              "title": "Palak Paneer",
+              "description": "Paneer Cheese, Basmati Rice, Yogurt, Coriander, Marinated Baby Spinach, Red Coleslaw",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Conchiglie Al Ceci (vegan)",
-              "description": "Pois chiches, carottes, oignons, persil, céleri, salade de tomates, roquette",
+              "title": "Palak Paneer",
+              "description": "Paneer cheese, riz basmati, yaourt, coriandre, épinards marinés, Red Coleslaw",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -57,19 +51,19 @@
         "de": {
           "items": [
             {
-              "title": ", 21. September Salat oder Suppe CHF 22.00",
+              "title": ", 22. September Salat oder Suppe CHF 22.00",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Arancini mit Oliven-Tomaten-Sugo,",
+              "title": "Butternuss-Humus mit geröstetem Blumenkohl,",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Krautstiel & Rucola",
+              "title": "Sesam & Granatapfelkerne",
               "description": null,
               "price": null,
               "tags": []
@@ -79,19 +73,19 @@
         "en": {
           "items": [
             {
-              "title": ", 21 September Salad or soup CHF 22.00",
+              "title": ", 22 September Salad or soup CHF 22.00",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Arancini with olive-tomato-sugo,",
+              "title": "Butternut humus with roasted cauliflower,",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Krautstiel & Arugula",
+              "title": "Sesame & Pomegranate Seeds",
               "description": null,
               "price": null,
               "tags": []
@@ -102,19 +96,19 @@
         "fr": {
           "items": [
             {
-              "title": ", 21 septembre Salade ou soupe CHF 22.00",
+              "title": ", 22 septembre Salade ou soupe CHF 22.00",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Arancini au suco olive-tomate,",
+              "title": "Houmous de noix de beurre au chou-fleur grillé,",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Tige de chou & roquette",
+              "title": "Graines de sésame et de grenade",
               "description": null,
               "price": null,
               "tags": []
@@ -130,183 +124,17 @@
       "id": "yaye",
       "name": "YAYE",
       "url": "https://www.zfv.ch/de/essen-gehen/yaye",
-      "menus": {
-        "de": {
-          "items": [
-            {
-              "title": "APPENZELLERKÄSE HÖRNLI",
-              "description": "Glocal · Schnittlauch, Apfelmus, Menüsalat",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "CHILI CON CARNE",
-              "description": "Traditional · Reis, Bohnen und Mais, Tortilla Chips",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Saisonale Salatbar: sagen Sie uns",
-              "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate \\u0026 warme Toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Schwein Cordon bleu",
-              "description": "Weekly Special und Salate · Pommes frites, Blattsalat mit Hausdressing, Ketchup, Mayonnaise",
-              "price": null,
-              "tags": []
-            }
-          ]
-        },
-        "fr": {
-          "items": [
-            {
-              "title": "Appenzellerkäse Hörnli",
-              "description": "Glocal · Ciboulette, frais (prêt à l’emploi), Compote de pomme sans sucre, conserve, Menüsalat mit Knorr",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Chili Con carne",
-              "description": "Traditional · Trockenreis, Bohnen Mais Gemüse, Tortilla Chips / Chips de maïs / Nachos",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Salade de carottes, Salade de concombre à l’aneth, Taboulé, port. à 200g, Randensalat, Sauce à salade au vinaigre balsamique",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Schweins Cordon bleu paniert, Port. 150g",
-              "description": "Weekly Special und Salate · Pommes frites, Mélange de feuilles de salade, Salad Bowl",
-              "price": null,
-              "tags": []
-            }
-          ]
-        },
-        "en": {
-          "items": [
-            {
-              "title": "APPENZELLERKASE HÖRNLI",
-              "description": "Glocal · Chives, applesauce, menu salad",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "CHILLI CON CARNE",
-              "description": "Traditional · Rice, beans and corn, tortilla chips",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Seasonal salad bar: tell us",
-              "description": "Salads · what you want on your plate!, leaf salad, homemade salads \\u0026 warm toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Pork Cordon blue",
-              "description": "Weekly special and salads · French fries, leaf salad with house dressing, ketchup, mayonnaise",
-              "price": null,
-              "tags": []
-            }
-          ],
-          "translated_from": "de"
-        }
-      },
+      "menus": {},
       "pdf_url": null,
-      "error": null
+      "error": "de: no menu items found for 2026-09-22; fr: no menu items found for 2026-09-22"
     },
     {
       "id": "belo-cafe",
       "name": "Belo Café Swiss TPH",
       "url": "https://www.zfv.ch/de/essen-gehen/belo-cafe-swiss-tph",
-      "menus": {
-        "de": {
-          "items": [
-            {
-              "title": "APPENZELLERKÄSE HÖRNLI",
-              "description": "Veggie Bowl · Schnittlauch, Apfelmus, Menüsalat",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "CHILI CON CARNE",
-              "description": "Traditional Bowl · Reis, Bohnen Mais Gemüse, Tortilla Chips",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "POULET STROGANOFF",
-              "description": "Soul Food · Bratkartoffeln \\\\",
-              "price": null,
-              "tags": []
-            }
-          ]
-        },
-        "fr": {
-          "items": [
-            {
-              "title": "APPENZELLERKÄSE HÖRNLI",
-              "description": "Veggie Bowl · Schnittlauch, Apfelmus, Menüsalat",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "CHILI CON CARNE",
-              "description": "Traditional Bowl · Reis, Bohnen Mais Gemüse, Tortilla Chips",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "POULET STROGANOFF",
-              "description": "Soul Food · Bratkartoffeln \\\\",
-              "price": null,
-              "tags": []
-            }
-          ]
-        },
-        "en": {
-          "items": [
-            {
-              "title": "APPENZELLERKASE HÖRNLI",
-              "description": "Veggie Bowl · Chives, applesauce, menu salad",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "CHILLI CON CARNE",
-              "description": "Traditional Bowl · Rice, Bean Corn Vegetables, Tortilla Chips",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "CHICKEN STROGANOFF",
-              "description": "Soul Food · Fried Potatoes \\\\",
-              "price": null,
-              "tags": []
-            }
-          ],
-          "translated_from": "de"
-        }
-      },
+      "menus": {},
       "pdf_url": null,
-      "error": null
+      "error": "de: no menu items found for 2026-09-22; fr: no menu items found for 2026-09-22"
     },
     {
       "id": "misterwong",
