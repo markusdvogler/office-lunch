@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T11:21:23+00:00",
-  "date": "2026-09-22",
-  "weekday": "tuesday",
+  "generated_at": "2026-09-23T11:16:21+00:00",
+  "date": "2026-09-23",
+  "weekday": "wednesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -11,30 +11,36 @@
         "de": {
           "items": [
             {
-              "title": "Palak Paneer",
-              "description": "Paneer KÃ¤se, Basmati Reis, Joghurt, Koriander, Marinierter Babyspinat, Red Coleslaw",
+              "title": "Tantanmen Ramen (vegan)",
+              "description": "Ackerbohnen Hack, Chili, Knoblauch, Ramen Nudeln, Pak Choi, Mais, ErdnÃ¼sse",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Palak Paneer",
-              "description": "Paneer Cheese, Basmati Rice, Yogurt, Coriander, Marinated Baby Spinach, Red Coleslaw",
+              "title": "Tantanmen Ramen (vegan)",
+              "description": "Fava Bean Mince, Chili, Garlic, Ramen Noodles, Pak Choi, Corn, Peanuts, Spring Onions",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Palak Paneer",
-              "description": "Paneer cheese, riz basmati, yaourt, coriandre, épinards marinés, Red Coleslaw",
+              "title": "Tantanmen Ramen (vegan)",
+              "description": "Haricots hachés, piment, ail, nouilles ramen, pak choi, maïs, arachides",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -51,19 +57,37 @@
         "de": {
           "items": [
             {
-              "title": ", 22. September Salat oder Suppe CHF 22.00",
+              "title": ", 23. September Salat oder Suppe CHF 22.00",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Butternuss-Humus mit geröstetem Blumenkohl,",
+              "title": "Spiegelei mit Bratkartoffeln,",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Sesam & Granatapfelkerne",
+              "title": "Rotkraut & Kräuterquark",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Fleisch-Menu CHF 25.00",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Ragout vom Rind mit Bratkartoffeln,",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Rotkraut & Cremolata",
               "description": null,
               "price": null,
               "tags": []
@@ -73,19 +97,37 @@
         "en": {
           "items": [
             {
-              "title": ", 22 September Salad or soup CHF 22.00",
+              "title": ", 23 September Salad or soup CHF 22.00",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Butternut humus with roasted cauliflower,",
+              "title": "Fried egg with fried potatoes,",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Sesame & Pomegranate Seeds",
+              "title": "Red cabbage & herb quark",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Meat menu CHF 25.00",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Beef ragout with fried potatoes,",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Red cabbage & Cremolata",
               "description": null,
               "price": null,
               "tags": []
@@ -96,19 +138,37 @@
         "fr": {
           "items": [
             {
-              "title": ", 22 septembre Salade ou soupe CHF 22.00",
+              "title": ", 23 septembre Salade ou soupe CHF 22.00",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Houmous de noix de beurre au chou-fleur grillé,",
+              "title": "Oeuf au plat avec pommes de terre sautées,",
               "description": null,
               "price": null,
               "tags": []
             },
             {
-              "title": "Graines de sésame et de grenade",
+              "title": "Chou rouge et fromage blanc aux herbes",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Menu à base de viande CHF 25.00",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Ragoût de bœuf aux pommes de terre rôties,",
+              "description": null,
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Chou rouge et crémolata",
               "description": null,
               "price": null,
               "tags": []
@@ -126,7 +186,7 @@
       "url": "https://www.zfv.ch/de/essen-gehen/yaye",
       "menus": {},
       "pdf_url": null,
-      "error": "de: no menu items found for 2026-09-22; fr: no menu items found for 2026-09-22"
+      "error": "de: no menu items found for 2026-09-23; fr: no menu items found for 2026-09-23"
     },
     {
       "id": "belo-cafe",
@@ -134,7 +194,7 @@
       "url": "https://www.zfv.ch/de/essen-gehen/belo-cafe-swiss-tph",
       "menus": {},
       "pdf_url": null,
-      "error": "de: no menu items found for 2026-09-22; fr: no menu items found for 2026-09-22"
+      "error": "de: no menu items found for 2026-09-23; fr: no menu items found for 2026-09-23"
     },
     {
       "id": "misterwong",
