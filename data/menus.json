@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T11:30:42+00:00",
-  "date": "2026-09-24",
-  "weekday": "thursday",
+  "generated_at": "2026-09-25T11:36:41+00:00",
+  "date": "2026-09-25",
+  "weekday": "friday",
   "restaurants": [
     {
       "id": "hortus",
@@ -11,30 +11,36 @@
         "de": {
           "items": [
             {
-              "title": "Ãlpler Magronen",
-              "description": "Magronen, Kartoffeln, Bechamel, JUMI KÃ¤se, Birnenkompott, GerÃ¶stete Zwiebeln, Kresse",
+              "title": "BBQ Miso Aubergine (vegan)",
+              "description": "Hausgemachte Dattel BBQ, Lauwarmer Quinoa, Gazpacho, KrÃ¤utersalat, Haus Nuss Mix",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Ãlpler Magronen",
-              "description": "Macaroni, Potatoes, BÃ©chamel Sauce, JUMI Cheese, Pear Compote, Fried Onions, Watercress",
+              "title": "BBQ Miso Eggplant (vegan)",
+              "description": "Homemade Date BBQ Sauce, Warm Quinoa, Gazpacho, Herb Salad, House Nut Mix",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Magrons oléagineux",
-              "description": "Magrons, pommes de terre, béchamel, fromage JUMI, compote de poires, oignons rôtis, cresson",
+              "title": "BBQ Miso Aubergine (vegan)",
+              "description": "BBQ de datte maison, quinoa tiède, gaspacho, salade decranberries, mélange de noix maison",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -49,90 +55,7 @@
       "url": "https://biobistro.bsb.ch/standorte/bachgraben",
       "menus": {
         "de": {
-          "items": [
-            {
-              "title": ", 24. Septem- Salat oder Suppe CHF 22.00",
-              "description": null,
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "ber",
-              "description": null,
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Randen-Risotto mit Ziegenkäse-Mousse,",
-              "description": null,
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "gerösteten Baumnüssen & Sprossen",
-              "description": null,
-              "price": null,
-              "tags": []
-            }
-          ]
-        },
-        "en": {
-          "items": [
-            {
-              "title": ", 24 Septem- Salad or soup CHF 22.00",
-              "description": null,
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Tombs",
-              "description": null,
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Randen risotto with goat cheese mousse,",
-              "description": null,
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "roasted Tree Nuts & Sprouts",
-              "description": null,
-              "price": null,
-              "tags": []
-            }
-          ],
-          "translated_from": "de"
-        },
-        "fr": {
-          "items": [
-            {
-              "title": ", 24 septembre - Salade ou soupe CHF 22.00",
-              "description": null,
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "ber",
-              "description": null,
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Risotto à la betterave et mousse au fromage de chèvre,",
-              "description": null,
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "noix et pousses grillées",
-              "description": null,
-              "price": null,
-              "tags": []
-            }
-          ],
-          "translated_from": "de"
+          "raw": ", 25. September Salat oder Suppe CHF 22.00\nFarfalle mit Pilzcrème,\nconfierten Feigen & Parmesan-Chip\nUm Foodwaste zu verhindern sind kurzfristige Menüänderungen möglich\nReservationen und Anfragen gerne an +41 61 326 70 10,\nbio-bistro-bachgraben@bsb.ch oder über www.biobistro.bsb.ch\nUnser Fleisch stammt ausschliesslich aus der Schweiz\nAlle unsere Brot- und Backwaren stammen aus der Schweiz, mit Ausnahme derjenigen,\ndie explizit anders gekennzeichnet sind."
         }
       },
       "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-39.pdf",
@@ -144,7 +67,7 @@
       "url": "https://www.zfv.ch/de/essen-gehen/yaye",
       "menus": {},
       "pdf_url": null,
-      "error": "de: no menu items found for 2026-09-24; fr: no menu items found for 2026-09-24"
+      "error": "de: no menu items found for 2026-09-25; fr: no menu items found for 2026-09-25"
     },
     {
       "id": "belo-cafe",
@@ -152,7 +75,7 @@
       "url": "https://www.zfv.ch/de/essen-gehen/belo-cafe-swiss-tph",
       "menus": {},
       "pdf_url": null,
-      "error": "de: no menu items found for 2026-09-24; fr: no menu items found for 2026-09-24"
+      "error": "de: no menu items found for 2026-09-25; fr: no menu items found for 2026-09-25"
     },
     {
       "id": "misterwong",
