@@ -71,75 +71,101 @@ def _text_from_pdf(pdf_bytes: bytes) -> str:
         return "\n".join(page.extract_text() or "" for page in pdf.pages)
 
 
+_HEADER_PREFIX = re.compile(
+    r"^\s*(?:" + "|".join(_ALL_WEEKDAYS) + r"),?\s*\d{1,2}\.?\s*[A-Za-zäöüÄÖÜ]*\s*"
+)
+_SALAT_SUPPE = re.compile(r"\s*Salat\s*(?:oder|/)\s*Suppe\s*", re.IGNORECASE)
+_FLEISCH_HEADER = re.compile(r"^\s*Fleisch[-\s]*Men[uü]\s*$", re.IGNORECASE)
+
+
 def _extract_today_block(text: str, today_weekday: int) -> Optional[str]:
-    """Slice out today's block from the PDF text: everything from today's
-    weekday marker up to the next weekday or the shared footer."""
+    """Slice out today's block: from today's weekday marker up to the
+    next weekday or the shared footer."""
     label = _WEEKDAYS_DE[today_weekday]
     idx = text.find(label)
     if idx < 0:
         return None
-    tail = text[idx:]  # keep the weekday, we'll strip it later
+    tail = text[idx:]
     boundary = len(tail)
-
-    # Cut at the next weekday (skip label at position 0 itself)
     for wd in _ALL_WEEKDAYS:
         j = tail.find(wd, len(label))
         if 0 < j < boundary:
             boundary = j
-
-    # Cut at the first footer marker.
     for marker in _FOOTER_MARKERS:
         j = tail.find(marker)
         if 0 < j < boundary:
             boundary = j
+    return tail[:boundary]
 
-    return tail[:boundary].strip(" :\n\t-,")
 
+def _parse_block(block: str) -> list[dict]:
+    """Turn today's block into a list of MenuItem dicts.
 
-def _parse_block(block: str) -> Optional[dict]:
-    """Turn today's block into a single MenuItem.
-
-    First line is the header (weekday + date + category + price); the
-    remaining lines are the dish name, potentially wrapped across lines.
+    The PDF lays out weekday + date on the left, dish name (wrapped)
+    in the middle, and prices in a right-aligned column — so after
+    text extraction we see prices interleaved. We collect all prices
+    once, strip them out, then read what's left as the dish name.
+    Some days have both a Vegi option and a "Fleisch-Menu" separator
+    followed by a meat variant — those become two items.
     """
-    lines = [ln.strip(" ,\t") for ln in block.splitlines() if ln.strip()]
+    prices = [f"CHF {p.replace(',', '.')}"
+              for p in _PRICE_RE.findall(block)]
+
+    lines: list[str] = []
+    for raw in block.splitlines():
+        ln = raw
+        ln = _HEADER_PREFIX.sub("", ln, count=1)
+        ln = _SALAT_SUPPE.sub(" ", ln)
+        ln = _PRICE_RE.sub("", ln)
+        ln = ln.strip(" ,\t")
+        if not ln:
+            continue
+        # Skip filler lines like ", ." or ".", left after price stripping.
+        if not re.search(r"[A-Za-zäöüÄÖÜßé]", ln):
+            continue
+        lines.append(ln)
+
     if not lines:
-        return None
+        return []
 
-    header = lines[0]
-    # Drop the "Weekday, DD. Month" prefix if present.
-    for wd in _ALL_WEEKDAYS:
-        header = re.sub(rf"^{wd},?\s*\d{{1,2}}\.?\s*[A-Za-zäöüÄÖÜ]*\s*", "", header)
+    # Split into groups by "Fleisch-Menu" marker.
+    groups: list[list[str]] = [[]]
+    tag_per_group: list[Optional[str]] = [None]
+    for ln in lines:
+        if _FLEISCH_HEADER.match(ln):
+            groups.append([])
+            tag_per_group.append("meat")
+            continue
+        groups[-1].append(ln)
 
-    price = None
-    m = _PRICE_RE.search(header)
-    if m:
-        price = f"CHF {m.group(1).replace(',', '.')}"
-        header = _PRICE_RE.sub("", header)
-
-    category = header.strip(" -·,")  # e.g. "Salat oder Suppe"
-    dish_lines = lines[1:]
-
-    # Join wrapped dish lines. Commas at end of a line = wrap.
-    joined = " ".join(dish_lines).strip(" ,")
-    if not joined:
-        # Header itself contained the dish (some days have no wrap)
-        if category and category.lower() not in ("salat oder suppe", "salat/suppe"):
-            joined = category
-            category = ""
-
-    if not joined:
-        return None
-
-    tags = []
-    joined_lc = joined.lower()
-    if "vegan" in joined_lc:
-        tags.append("vegan")
-    elif "vegi" in joined_lc or "vegetarisch" in joined_lc:
-        tags.append("vegetarian")
-
-    description = f"inkl. {category}" if category else None
-    return item(title=joined, description=description, price=price, tags=tags)
+    items: list[dict] = []
+    used_prices = 0
+    for i, group in enumerate(groups):
+        if not group:
+            continue
+        title = " ".join(group).strip(" ,")
+        title = re.sub(r"\s+", " ", title).replace(" ,", ",")
+        if not title:
+            continue
+        # Attach the next unused price to this group.
+        price = prices[used_prices] if used_prices < len(prices) else None
+        used_prices += 1
+        tags = []
+        lc = title.lower()
+        if "vegan" in lc:
+            tags.append("vegan")
+        elif "vegi" in lc or "vegetarisch" in lc:
+            tags.append("vegetarian")
+        elif tag_per_group[i] is None and len(groups) > 1:
+            # Days with a Vegi + Fleisch split — the first group is Vegi.
+            tags.append("vegetarian")
+        items.append(item(
+            title=title,
+            description="inkl. Salat oder Suppe",
+            price=price,
+            tags=tags,
+        ))
+    return items
 
 
 def fetch(today: date, session, logger) -> dict:
@@ -164,9 +190,9 @@ def fetch(today: date, session, logger) -> dict:
         pdf_resp.raise_for_status()
         text = _text_from_pdf(pdf_resp.content)
         block = _extract_today_block(text, weekday) if text else None
-        parsed = _parse_block(block) if block else None
-        if parsed:
-            menus["de"] = {"items": [parsed]}
+        items = _parse_block(block) if block else []
+        if items:
+            menus["de"] = {"items": items}
     except Exception as exc:
         logger.warning("biobistro pdf: %s", exc)
 

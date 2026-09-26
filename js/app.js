@@ -34,6 +34,7 @@ const I18N = {
     "note-translated": (from) =>
       `Automatisch aus dem ${LANG_LABEL[from].de}en übersetzt — kann ungenau sein.`,
     "note-fallback": (from) => `Nur auf ${LANG_LABEL[from].de} verfügbar.`,
+    "note-standing-menu": "Standardkarte — Auswahl beliebter Gerichte, täglich verfügbar.",
   },
   en: {
     brand: "Office Lunch",
@@ -55,6 +56,7 @@ const I18N = {
     "note-translated": (from) =>
       `Auto-translated from ${LANG_LABEL[from].en} — may be imprecise.`,
     "note-fallback": (from) => `Only available in ${LANG_LABEL[from].en}.`,
+    "note-standing-menu": "Standing menu — popular dishes available every day.",
   },
   fr: {
     brand: "Déjeuner au bureau",
@@ -76,6 +78,7 @@ const I18N = {
     "note-translated": (from) =>
       `Traduit automatiquement de l'${LANG_LABEL[from].fr} — peut être imprécis.`,
     "note-fallback": (from) => `Disponible uniquement en ${LANG_LABEL[from].fr}.`,
+    "note-standing-menu": "Carte permanente — plats populaires disponibles tous les jours.",
   },
 };
 
@@ -185,10 +188,13 @@ function renderCard(restaurant) {
   }
   if (hasItems || hasRaw) stateEl.remove();
 
-  // Foot (translated badge, phone)
+  // Foot (translated badge, standing-menu note, phone)
   const foot = node.querySelector(".card-foot");
   const noteEl = node.querySelector(".card-note");
   const footBits = [];
+  if (menu?.note === "standing-menu") {
+    footBits.push(t("note-standing-menu"));
+  }
   if (menu && menu.translated_from) {
     footBits.push(t("note-translated")(menu.translated_from));
     node.classList.add("card-translated");
