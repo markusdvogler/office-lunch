@@ -19,6 +19,12 @@ NAME = "Mister Wong (Allschwil)"
 URL = "https://www.misterwong.ch/standorte/allschwil/"
 LANGUAGES = ("de",)
 
+META = {
+    "de": {"cuisine": "Asiatische Wok-Küche & Curries",  "hours": "Mo–Fr 11:00–14:00, 17:00–22:00"},
+    "en": {"cuisine": "Asian wok dishes & curries",       "hours": "Mo–Fri 11:00–14:00, 17:00–22:00"},
+    "fr": {"cuisine": "Cuisine asiatique wok & curries",  "hours": "Lu–Ve 11:00–14:00, 17:00–22:00"},
+}
+
 
 def _find_pdf(html: str) -> Optional[str]:
     soup = BeautifulSoup(html, "lxml")
@@ -44,7 +50,9 @@ def fetch(today: date, session, logger) -> dict:
         "id": ID,
         "name": NAME,
         "url": URL,
+        "meta": META,
         "menus": {},
         "pdf_url": pdf_url,
-        "error": "Daily-Wok changes daily; full menu published as PDF only",
+        "pdf_only": True,
+        "error": None,
     }

@@ -19,6 +19,12 @@ NAME = "Hortus Kitchen"
 URL = "https://hortus.ch/en/kitchen/"
 LANGUAGES = ("de", "en")
 
+META = {
+    "de": {"cuisine": "Vegetarisch, täglich frisch", "hours": "Mo–Fr 11:30–14:00"},
+    "en": {"cuisine": "Vegetarian, made daily",     "hours": "Mo–Fri 11:30–14:00"},
+    "fr": {"cuisine": "Végétarien, préparé chaque jour", "hours": "Lu–Ve 11:30–14:00"},
+}
+
 _URLS = {
     "de": "https://hortus.ch/de/kitchen/",
     "en": "https://hortus.ch/en/kitchen/",
@@ -30,9 +36,12 @@ _WEEKDAYS = {
 }
 
 
-def _parse(html: str, lang: str, today_weekday: int) -> Optional[dict]:
-    """Return a MenuItem dict for today, or None if not found."""
-    soup = BeautifulSoup(html, "lxml")
+def _parse(html, lang: str, today_weekday: int) -> Optional[dict]:
+    """Return a MenuItem dict for today, or None if not found.
+
+    `html` may be either a str or raw bytes; BeautifulSoup handles both.
+    """
+    soup = BeautifulSoup(html, "lxml", from_encoding="utf-8")
     label = _WEEKDAYS[lang][today_weekday]
 
     for acc in soup.select("div.accordion-item"):
@@ -72,7 +81,10 @@ def fetch(today: date, session, logger) -> dict:
         try:
             resp = session.get(_URLS[lang], timeout=20)
             resp.raise_for_status()
-            parsed = _parse(resp.text, lang, weekday)
+            # Hortus doesn't send a charset — requests would guess
+            # ISO-8859-1 and mangle umlauts. Pass raw bytes and let
+            # BeautifulSoup read the <meta charset> tag.
+            parsed = _parse(resp.content, lang, weekday)
             if parsed:
                 menus[lang] = {"items": [parsed]}
             else:
@@ -85,6 +97,7 @@ def fetch(today: date, session, logger) -> dict:
         "id": ID,
         "name": NAME,
         "url": URL,
+        "meta": META,
         "menus": menus,
         "pdf_url": None,
         "error": "; ".join(errors) if errors and not menus else None,

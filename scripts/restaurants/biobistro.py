@@ -1,12 +1,14 @@
 """Bio Bistro — Bachgraben, https://biobistro.bsb.ch/standorte/bachgraben
 
-Weekly menu is published as a PDF whose URL is linked from the page:
-    …/Bio-Bistro/{YY}KW-{WW}.pdf   (YY = 2-digit year, WW = ISO week)
+Weekly menu is published as a PDF whose URL is linked from the page.
+Each weekday block in the PDF looks roughly like:
 
-Strategy: fetch the page HTML, grab the first .pdf link (their template
-always points to the current week), download and text-extract it, then
-try to slice out today's block by German weekday markers. If that fails
-we still return the PDF URL so the frontend can link to it.
+    Freitag, 25. September   Salat oder Suppe   CHF 22.00
+    Farfalle mit Pilzcrème,
+    confierten Feigen & Parmesan-Chip
+
+Followed by a long shared footer (Foodwaste note, phone/email,
+meat/bread origin disclaimer) that we must strip.
 """
 from __future__ import annotations
 
@@ -25,7 +27,29 @@ NAME = "Bio Bistro (Bachgraben)"
 URL = "https://biobistro.bsb.ch/standorte/bachgraben"
 LANGUAGES = ("de",)
 
+META = {
+    "de": {"cuisine": "Bio-Küche mit Salatbuffet",     "hours": "Mo–Fr 11:00–14:00", "phone": "+41 61 326 70 10"},
+    "en": {"cuisine": "Organic dishes & salad buffet", "hours": "Mo–Fri 11:00–14:00", "phone": "+41 61 326 70 10"},
+    "fr": {"cuisine": "Bio, avec buffet de salades",   "hours": "Lu–Ve 11:00–14:00", "phone": "+41 61 326 70 10"},
+}
+
 _WEEKDAYS_DE = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag"]
+_ALL_WEEKDAYS = _WEEKDAYS_DE + ["Samstag", "Sonntag"]
+
+# Anything from here on is boilerplate, cut it.
+_FOOTER_MARKERS = (
+    "Um Foodwaste",
+    "Reservationen",
+    "+41 ",
+    "bio-bistro-",
+    "www.biobistro",
+    "Unser Fleisch",
+    "Alle unsere Brot",
+    "Menuepreis",
+    "Preise",
+)
+
+_PRICE_RE = re.compile(r"CHF\s*(\d{1,3}(?:[.,]\d{2})?)")
 
 
 def _find_pdf(html: str) -> Optional[str]:
@@ -34,30 +58,8 @@ def _find_pdf(html: str) -> Optional[str]:
         href = a.get("href")
         if href and "Bio-Bistro" in href:
             return urljoin(URL, href)
-    # Fallback: any first PDF link on the page.
     a = soup.select_one('a[href$=".pdf"]')
     return urljoin(URL, a["href"]) if a and a.get("href") else None
-
-
-def _extract_today(text: str, today_weekday: int) -> Optional[str]:
-    """Return the raw text block for today's weekday from a menu PDF."""
-    if today_weekday > 4:
-        return None
-    label = _WEEKDAYS_DE[today_weekday]
-    # Find today's marker, cut until the next weekday or end-of-doc.
-    idx = text.lower().find(label.lower())
-    if idx < 0:
-        return None
-    tail = text[idx + len(label):]
-    boundary = len(tail)
-    for wd in _WEEKDAYS_DE + ["Samstag", "Sonntag", "Preise", "Menuepreis"]:
-        j = tail.lower().find(wd.lower())
-        if 3 < j < boundary:  # skip zero-width match
-            boundary = j
-    block = tail[:boundary].strip(" :\n\t-")
-    # Collapse excessive whitespace but keep line breaks.
-    lines = [ln.strip() for ln in block.splitlines() if ln.strip()]
-    return "\n".join(lines) if lines else None
 
 
 def _text_from_pdf(pdf_bytes: bytes) -> str:
@@ -67,6 +69,77 @@ def _text_from_pdf(pdf_bytes: bytes) -> str:
         return ""
     with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
         return "\n".join(page.extract_text() or "" for page in pdf.pages)
+
+
+def _extract_today_block(text: str, today_weekday: int) -> Optional[str]:
+    """Slice out today's block from the PDF text: everything from today's
+    weekday marker up to the next weekday or the shared footer."""
+    label = _WEEKDAYS_DE[today_weekday]
+    idx = text.find(label)
+    if idx < 0:
+        return None
+    tail = text[idx:]  # keep the weekday, we'll strip it later
+    boundary = len(tail)
+
+    # Cut at the next weekday (skip label at position 0 itself)
+    for wd in _ALL_WEEKDAYS:
+        j = tail.find(wd, len(label))
+        if 0 < j < boundary:
+            boundary = j
+
+    # Cut at the first footer marker.
+    for marker in _FOOTER_MARKERS:
+        j = tail.find(marker)
+        if 0 < j < boundary:
+            boundary = j
+
+    return tail[:boundary].strip(" :\n\t-,")
+
+
+def _parse_block(block: str) -> Optional[dict]:
+    """Turn today's block into a single MenuItem.
+
+    First line is the header (weekday + date + category + price); the
+    remaining lines are the dish name, potentially wrapped across lines.
+    """
+    lines = [ln.strip(" ,\t") for ln in block.splitlines() if ln.strip()]
+    if not lines:
+        return None
+
+    header = lines[0]
+    # Drop the "Weekday, DD. Month" prefix if present.
+    for wd in _ALL_WEEKDAYS:
+        header = re.sub(rf"^{wd},?\s*\d{{1,2}}\.?\s*[A-Za-zäöüÄÖÜ]*\s*", "", header)
+
+    price = None
+    m = _PRICE_RE.search(header)
+    if m:
+        price = f"CHF {m.group(1).replace(',', '.')}"
+        header = _PRICE_RE.sub("", header)
+
+    category = header.strip(" -·,")  # e.g. "Salat oder Suppe"
+    dish_lines = lines[1:]
+
+    # Join wrapped dish lines. Commas at end of a line = wrap.
+    joined = " ".join(dish_lines).strip(" ,")
+    if not joined:
+        # Header itself contained the dish (some days have no wrap)
+        if category and category.lower() not in ("salat oder suppe", "salat/suppe"):
+            joined = category
+            category = ""
+
+    if not joined:
+        return None
+
+    tags = []
+    joined_lc = joined.lower()
+    if "vegan" in joined_lc:
+        tags.append("vegan")
+    elif "vegi" in joined_lc or "vegetarisch" in joined_lc:
+        tags.append("vegetarian")
+
+    description = f"inkl. {category}" if category else None
+    return item(title=joined, description=description, price=price, tags=tags)
 
 
 def fetch(today: date, session, logger) -> dict:
@@ -90,25 +163,19 @@ def fetch(today: date, session, logger) -> dict:
         pdf_resp = session.get(pdf_url, timeout=30)
         pdf_resp.raise_for_status()
         text = _text_from_pdf(pdf_resp.content)
-        block = _extract_today(text, weekday) if text else None
-        if block:
-            # Try to split lines into individual dishes: many bistro PDFs
-            # use two columns for menu options, joined into single lines.
-            lines = [ln for ln in block.split("\n") if ln.strip()]
-            if len(lines) <= 6:
-                items = [item(title=ln) for ln in lines]
-                menus["de"] = {"items": items}
-            else:
-                menus["de"] = {"raw": block}
+        block = _extract_today_block(text, weekday) if text else None
+        parsed = _parse_block(block) if block else None
+        if parsed:
+            menus["de"] = {"items": [parsed]}
     except Exception as exc:
         logger.warning("biobistro pdf: %s", exc)
 
-    result = {
+    return {
         "id": ID,
         "name": NAME,
         "url": URL,
+        "meta": META,
         "menus": menus,
         "pdf_url": pdf_url,
-        "error": None if menus else "PDF menu available — daily text could not be extracted",
+        "error": None,
     }
-    return result

@@ -1,38 +1,57 @@
 """Helper for zfv.ch restaurants that embed the Food2050 iframe.
 
 Food2050 is a Next.js app. Its initial HTML embeds the GraphQL query
-result for the weekly menu — dishes are nested inside
+result as a React Server Components payload; dishes are nested inside
 `week.daily[].menuItems[].dish`, keyed by `dateLocal`.
 
 We extract dishes with a regex against the (unescaped) payload; parsing
 the RSC stream properly would be more brittle than this.
+
+Category names can be either inlined (`"category":{...,"name":"..."}`)
+or, thanks to RSC deduplication, references (`"category":"$7:..."`).
+The safer signal is the `detailUrl` — its second-to-last path segment
+is a comma-separated list like `mittagsverpflegung,hauptspeisen,glocal`
+and the last piece is the category slug. We convert that back to a
+display label.
 """
 from __future__ import annotations
 
 import re
 from datetime import date
-from typing import Optional
 
 from .base import empty_result, item
 
 
+_UNICODE_ESC = re.compile(r"\\u([0-9a-fA-F]{4})")
+
+
 def _unescape(js_string: str) -> str:
+    # Order matters: first collapse \\uXXXX escapes to real chars, then
+    # normalise the JS-string escapes.
+    js_string = _UNICODE_ESC.sub(
+        lambda m: chr(int(m.group(1), 16)), js_string
+    )
     return (
         js_string
-        .replace("\\u002F", "/")
         .replace('\\"', '"')
         .replace("\\n", " ")
         .replace("\\/", "/")
     )
 
 
-# One menuItem block: category name + dish name + description + veg flags.
+# Anchor on the menuItem's dish object — every menuItem contains one
+# even when its category is a reference. We look inside the dish for
+# the veg flags, name, description in order.
 _ITEM_RE = re.compile(
-    r'"category":\{[^}]*?"name":"(?P<category>[^"]{1,60})"\}'
-    r'.*?"isVegan":(?P<vegan>true|false)'
-    r'.*?"isVegetarian":(?P<veg>true|false)'
-    r'.*?"name":"(?P<name>[^"]{1,120})"'
-    r',"description":"(?P<desc>[^"]{0,400})"',
+    r'"__typename":"OutletMenuItemDish"'
+    r'(?:(?!"__typename":"OutletMenuItemDish").)*?'
+    r'"detailUrl":"(?P<detail>[^"]+)"'
+    r'(?:(?!"__typename":"OutletMenuItemDish").)*?'
+    r'"isVegan":(?P<vegan>true|false),'
+    r'"isVegetarian":(?P<veg>true|false),'
+    r'(?:(?!"__typename":"OutletMenuItemDish").)*?'
+    r'"name":"(?P<name>[^"]{1,150})"'
+    r',"description":"(?P<desc>[^"]{0,500})"',
     re.DOTALL,
 )
 
@@ -45,6 +64,24 @@ _DAY_MARKER = re.compile(
 )
 
 
+def _category_from_detail(detail_url: str) -> str:
+    """
+    Extract a display category from a detailUrl like
+    `.../mittagsverpflegung,hauptspeisen,glocal/2026-09-25`.
+
+    Returns 'Glocal' or 'Weekly Special' or '' if unrecognised.
+    """
+    parts = detail_url.rstrip("/").split("/")
+    if len(parts) < 2:
+        return ""
+    segment = parts[-2]  # e.g. "mittagsverpflegung,hauptspeisen,glocal"
+    # Prefer the last comma-separated piece (specific category).
+    slug = segment.split(",")[-1]
+    if slug in ("mittagsverpflegung", "mittagsmenue", "hauptspeisen", "menu"):
+        return ""
+    return slug.replace("-", " ").title()
+
+
 def _parse_day(payload: str, target: date) -> list[dict]:
     target_iso = target.isoformat()
     items: list[dict] = []
@@ -53,23 +90,23 @@ def _parse_day(payload: str, target: date) -> list[dict]:
         if match.group("date") != target_iso:
             continue
         body = match.group("body")
-        # Stop at the boundary of the surrounding daily[] array to avoid
-        # bleeding into unrelated data.
+        # Trim to just this day's menuItems array (avoid bleeding into
+        # sibling days that share their category reference).
         body = body.split('"info":[', 1)[0]
         for m in _ITEM_RE.finditer(body):
             title = m.group("name").strip()
-            if title.lower() in seen_titles:
+            key = title.lower()
+            if key in seen_titles:
                 continue
-            seen_titles.add(title.lower())
+            seen_titles.add(key)
             tags = []
             if m.group("vegan") == "true":
                 tags.append("vegan")
             elif m.group("veg") == "true":
                 tags.append("vegetarian")
-            category = m.group("category").strip()
             desc = m.group("desc").strip()
-            # Prepend category to description for context.
-            description = f"{category} · {desc}" if desc else category
+            category = _category_from_detail(m.group("detail"))
+            description = f"{category} · {desc}" if category and desc else (desc or category or None)
             items.append(item(title=title, description=description, tags=tags))
     return items
 
@@ -89,10 +126,11 @@ def fetch_food2050(*, id: str, name: str, url: str,
         try:
             resp = session.get(iframe_url, timeout=30)
             resp.raise_for_status()
+            resp.encoding = resp.encoding or "utf-8"
             payload = _unescape(resp.text)
-            items = _parse_day(payload, today)
-            if items:
-                menus[lang] = {"items": items}
+            items_out = _parse_day(payload, today)
+            if items_out:
+                menus[lang] = {"items": items_out}
             else:
                 errors.append(f"{lang}: no menu items found for {today.isoformat()}")
         except Exception as exc:

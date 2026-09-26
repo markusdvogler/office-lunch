@@ -17,6 +17,12 @@ NAME = "Van der Merwe"
 URL = "https://vandermerwe.ch/gastronomie/"
 LANGUAGES = ("de",)
 
+META = {
+    "de": {"cuisine": "Hausmannskost & Fitness Food",   "hours": "Mo–Fr 11:00–14:00", "phone": "+41 61 487 98 98"},
+    "en": {"cuisine": "Swiss homestyle & fitness food",  "hours": "Mo–Fri 11:00–14:00", "phone": "+41 61 487 98 98"},
+    "fr": {"cuisine": "Cuisine suisse & fitness food",   "hours": "Lu–Ve 11:00–14:00", "phone": "+41 61 487 98 98"},
+}
+
 
 def _find_pdf(html: str) -> Optional[str]:
     soup = BeautifulSoup(html, "lxml")
@@ -42,7 +48,9 @@ def fetch(today: date, session, logger) -> dict:
         "id": ID,
         "name": NAME,
         "url": URL,
+        "meta": META,
         "menus": {},
         "pdf_url": pdf_url,
-        "error": "Restaurant publishes a static menu (no daily rotation online)",
+        "pdf_only": True,
+        "error": None,
     }

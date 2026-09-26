@@ -11,10 +11,13 @@
 <body>
   <header class="topbar">
     <div class="topbar-inner">
-      <h1 class="brand">
-        <span class="brand-emoji" aria-hidden="true">🍴</span>
-        <span class="brand-text" data-i18n="brand">Office Lunch</span>
-      </h1>
+      <div class="brand-block">
+        <h1 class="brand">
+          <span class="brand-emoji" aria-hidden="true">🍴</span>
+          <span class="brand-text" data-i18n="brand">Office Lunch</span>
+        </h1>
+        <p class="subtitle" data-i18n="subtitle">Today's lunch options near the office</p>
+      </div>
       <div class="controls">
         <p class="today" id="today"></p>
         <div class="lang-switch" role="group" aria-label="Language">
@@ -29,23 +32,30 @@
   <main class="wrap">
     <p id="status" class="status" role="status"></p>
     <div id="grid" class="grid" hidden></div>
-    <p class="footer">
+    <footer class="footer">
       <span data-i18n="footer-updated">Last updated:</span>
       <time id="updated"></time>
-      &middot;
-      <a href="https://github.com/" id="repo-link" target="_blank" rel="noopener">Source</a>
-    </p>
+      <span class="footer-sep">·</span>
+      <a href="https://github.com/markusdvogler/office-lunch" id="repo-link" target="_blank" rel="noopener">GitHub</a>
+    </footer>
   </main>
 
   <template id="card-template">
     <article class="card">
       <header class="card-head">
-        <h2 class="card-title"></h2>
-        <a class="card-link" target="_blank" rel="noopener" data-i18n="site-link">Website ↗</a>
+        <div class="card-title-block">
+          <h2 class="card-title"></h2>
+          <p class="card-subtitle"></p>
+        </div>
+        <a class="card-link" target="_blank" rel="noopener"></a>
       </header>
-      <p class="card-note" hidden></p>
-      <ul class="menu-items"></ul>
-      <p class="card-error" hidden></p>
+      <div class="card-body">
+        <ul class="menu-items"></ul>
+        <div class="card-state" hidden></div>
+      </div>
+      <footer class="card-foot" hidden>
+        <span class="card-note"></span>
+      </footer>
     </article>
   </template>
 
