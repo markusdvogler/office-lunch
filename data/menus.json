@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-09-25T11:36:41+00:00",
-  "date": "2026-09-25",
-  "weekday": "friday",
+  "generated_at": "2026-09-28T13:33:51+00:00",
+  "date": "2026-09-28",
+  "weekday": "monday",
   "restaurants": [
     {
       "id": "hortus",
       "name": "Hortus Kitchen",
       "url": "https://hortus.ch/en/kitchen/",
+      "meta": {
+        "de": {
+          "cuisine": "Vegetarisch, täglich frisch",
+          "hours": "Mo–Fr 11:30–14:00"
+        },
+        "en": {
+          "cuisine": "Vegetarian, made daily",
+          "hours": "Mo–Fri 11:30–14:00"
+        },
+        "fr": {
+          "cuisine": "Végétarien, préparé chaque jour",
+          "hours": "Lu–Ve 11:30–14:00"
+        }
+      },
       "menus": {
         "de": {
           "items": [
             {
-              "title": "BBQ Miso Aubergine (vegan)",
-              "description": "Hausgemachte Dattel BBQ, Lauwarmer Quinoa, Gazpacho, KrÃ¤utersalat, Haus Nuss Mix",
+              "title": "Rotes Thai Curry (vegan)",
+              "description": "Basmati Reis, Blumenkohl, Tofu, Broccoli, Frühlingszwiebeln, Sojasprossen, Ingwer-Karotten Relish",
               "price": null,
               "tags": [
                 "vegan"
@@ -23,8 +37,8 @@
         "en": {
           "items": [
             {
-              "title": "BBQ Miso Eggplant (vegan)",
-              "description": "Homemade Date BBQ Sauce, Warm Quinoa, Gazpacho, Herb Salad, House Nut Mix",
+              "title": "Rotes Thai Curry (vegan)",
+              "description": "Basmati Rice, Cauliflower, Tofu, Broccoli, Spring Onions, Bean Sprouts, Ginger-Carrot Relish",
               "price": null,
               "tags": [
                 "vegan"
@@ -35,8 +49,8 @@
         "fr": {
           "items": [
             {
-              "title": "BBQ Miso Aubergine (vegan)",
-              "description": "BBQ de datte maison, quinoa tiède, gaspacho, salade decranberries, mélange de noix maison",
+              "title": "Curry rouge thaïlandais (végétalien)",
+              "description": "Riz basmati, chou-fleur, tofu, brocoli, oignons nouveaux, germes de soja, carottes de gingembre Relish",
               "price": null,
               "tags": [
                 "vegan"
@@ -53,45 +67,606 @@
       "id": "biobistro",
       "name": "Bio Bistro (Bachgraben)",
       "url": "https://biobistro.bsb.ch/standorte/bachgraben",
-      "menus": {
+      "meta": {
         "de": {
-          "raw": ", 25. September Salat oder Suppe CHF 22.00\nFarfalle mit Pilzcrème,\nconfierten Feigen & Parmesan-Chip\nUm Foodwaste zu verhindern sind kurzfristige Menüänderungen möglich\nReservationen und Anfragen gerne an +41 61 326 70 10,\nbio-bistro-bachgraben@bsb.ch oder über www.biobistro.bsb.ch\nUnser Fleisch stammt ausschliesslich aus der Schweiz\nAlle unsere Brot- und Backwaren stammen aus der Schweiz, mit Ausnahme derjenigen,\ndie explizit anders gekennzeichnet sind."
+          "cuisine": "Bio-Küche mit Salatbuffet",
+          "hours": "Mo–Fr 11:00–14:00",
+          "phone": "+41 61 326 70 10"
+        },
+        "en": {
+          "cuisine": "Organic dishes & salad buffet",
+          "hours": "Mo–Fri 11:00–14:00",
+          "phone": "+41 61 326 70 10"
+        },
+        "fr": {
+          "cuisine": "Bio, avec buffet de salades",
+          "hours": "Lu–Ve 11:00–14:00",
+          "phone": "+41 61 326 70 10"
         }
       },
-      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-39.pdf",
+      "menus": {
+        "de": {
+          "items": [
+            {
+              "title": "Kürbis-Tajine mit Linsen, Süsskartoffeln Datteln & Koriander",
+              "description": "inkl. Salat oder Suppe",
+              "price": "CHF 22.00",
+              "tags": []
+            }
+          ]
+        },
+        "en": {
+          "items": [
+            {
+              "title": "Pumpkin tagine with lentils, sweet potatoes, dates & coriander",
+              "description": "incl. salad or soup",
+              "price": "CHF 22.00",
+              "tags": []
+            }
+          ],
+          "translated_from": "de"
+        },
+        "fr": {
+          "items": [
+            {
+              "title": "Tajine à la citrouille avec des lentilles, des patates douces, des dattes et de la coriandre",
+              "description": "incl. salade ou soupe",
+              "price": "CHF 22.00",
+              "tags": []
+            }
+          ],
+          "translated_from": "de"
+        }
+      },
+      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-40.pdf",
       "error": null
     },
     {
       "id": "yaye",
       "name": "YAYE",
       "url": "https://www.zfv.ch/de/essen-gehen/yaye",
-      "menus": {},
+      "menus": {
+        "de": {
+          "items": [
+            {
+              "title": "FALAFEL",
+              "description": "Glocal · Joghurt-Harissa Dip, Bulgur, Couscous-Gemüse",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "SCHWEINSGESCHNETZELTES",
+              "description": "Traditional · Paprika-Rahmsauce, Teigwaren Spiralen, Wurzelgemüse",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Saisonale Salatbar: sagen Sie uns",
+              "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate und warme Toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Yaye Cheeseburger in Sesam Buns",
+              "description": "Weekly Special · Rainbow Slaw, Essiggurke, Haussauce, Pommes frites",
+              "price": null,
+              "tags": []
+            }
+          ]
+        },
+        "fr": {
+          "items": [
+            {
+              "title": "Falafel Bällchen gebacken",
+              "description": "Glocal · Joghurt Minz Dip, Bulgur, Vegi Couscous Gemüse",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Schweins Geschnetzeltes Paprika Rahmsauce, Port. 240g",
+              "description": "Traditional · Paprika Rahmsauce, Teigwaren Hörnli gekocht vegetarisch, Wurzel Gemüse geröstet",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Mélange de feuilles de salade, Salad Bowl",
+              "description": "Salate · Salade de carottes, Salade de betterave rouge, Taboulé, port. à 200g, Salade de concombre à l’aneth, Salatsauce",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Rinds Burger mit Cheddar Käse, Port. 320g",
+              "description": "Weekly Special · Rainbow Slaw, Cocktail Sauce, Pommes frites",
+              "price": null,
+              "tags": []
+            }
+          ]
+        },
+        "en": {
+          "items": [
+            {
+              "title": "FALAFEL",
+              "description": "Glocal · Yogurt-Harissa Dip, Bulgur, Couscous Vegetables",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Pork nets",
+              "description": "Traditional · Bell pepper cream sauce, pasta spirals, root vegetables",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Seasonal salad bar: tell us",
+              "description": "Salads · what you want on your plate!, leaf lettuce, homemade salads and warm toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Yaye Cheeseburger in Sesame Buns",
+              "description": "Weekly Special · Rainbow Slaw, Pickle, House Sauce, French Fries",
+              "price": null,
+              "tags": []
+            }
+          ],
+          "translated_from": "de"
+        }
+      },
       "pdf_url": null,
-      "error": "de: no menu items found for 2026-09-25; fr: no menu items found for 2026-09-25"
+      "error": null,
+      "meta": {
+        "de": {
+          "cuisine": "Kantine: Glocal, Traditional, Salate",
+          "hours": "Mo–Fr 08:30–14:30 · Warme Küche 11:30–13:30"
+        },
+        "en": {
+          "cuisine": "Canteen: global, traditional & salads",
+          "hours": "Mo–Fri 08:30–14:30 · Hot dishes 11:30–13:30"
+        },
+        "fr": {
+          "cuisine": "Cantine : cuisine internationale & salades",
+          "hours": "Lu–Ve 08:30–14:30 · Chaud 11:30–13:30"
+        }
+      }
     },
     {
       "id": "belo-cafe",
       "name": "Belo Café Swiss TPH",
       "url": "https://www.zfv.ch/de/essen-gehen/belo-cafe-swiss-tph",
-      "menus": {},
+      "menus": {
+        "de": {
+          "items": [
+            {
+              "title": "FALAFEL",
+              "description": "Veggie Bowl · Joghurt Minz Dip, Bulgur, Menüsalat",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "SCHWEINSGESCHNETZELTES",
+              "description": "Traditional Bowl · Paprika Rahmsauce, Spiralen, Wurzelgemüse",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "GNOCCHI",
+              "description": "Soul Food · Gorgonzola Sauce, Ofenbirnen, geröstete Baumnüsse, Parmesan Hobel",
+              "price": null,
+              "tags": []
+            }
+          ]
+        },
+        "fr": {
+          "items": [
+            {
+              "title": "FALAFEL",
+              "description": "Veggie Bowl · Joghurt Minz Dip, Bulgur, Menüsalat",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "SCHWEINSGESCHNETZELTES",
+              "description": "Traditional Bowl · Paprika Rahmsauce, Spiralen, Wurzelgemüse",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "GNOCCHI",
+              "description": "Soul Food · Gorgonzola Sauce, Ofenbirnen, geröstete Baumnüsse, Parmesan Hobel",
+              "price": null,
+              "tags": []
+            }
+          ]
+        },
+        "en": {
+          "items": [
+            {
+              "title": "FALAFEL",
+              "description": "Veggie Bowl · Yogurt Mint Dip, Bulgur, Menu Salad",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Pork nets",
+              "description": "Traditional Bowl · Paprika cream sauce, spirals, root vegetables",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "GNOCCHI",
+              "description": "Soul Food · Gorgonzola Sauce, Oven Pears, Roasted Tree Nuts, Parmesan Planer",
+              "price": null,
+              "tags": []
+            }
+          ],
+          "translated_from": "de"
+        }
+      },
       "pdf_url": null,
-      "error": "de: no menu items found for 2026-09-25; fr: no menu items found for 2026-09-25"
+      "error": null,
+      "meta": {
+        "de": {
+          "cuisine": "Kantine: Veggie, Traditional, Soul Food",
+          "hours": "Mo–Fr, Mittagsverpflegung"
+        },
+        "en": {
+          "cuisine": "Canteen: veggie, traditional, soul food",
+          "hours": "Mo–Fri, lunch service"
+        },
+        "fr": {
+          "cuisine": "Cantine : végétarien, traditionnel, soul food",
+          "hours": "Lu–Ve, service de midi"
+        }
+      }
     },
     {
       "id": "misterwong",
       "name": "Mister Wong (Allschwil)",
       "url": "https://www.misterwong.ch/standorte/allschwil/",
-      "menus": {},
+      "meta": {
+        "de": {
+          "cuisine": "Asiatische Wok-Küche & Curries",
+          "hours": "Mo–Fr 11:00–14:00, 17:00–22:00"
+        },
+        "en": {
+          "cuisine": "Asian wok dishes & curries",
+          "hours": "Mo–Fri 11:00–14:00, 17:00–22:00"
+        },
+        "fr": {
+          "cuisine": "Cuisine asiatique wok & curries",
+          "hours": "Lu–Ve 11:00–14:00, 17:00–22:00"
+        }
+      },
+      "menus": {
+        "de": {
+          "items": [
+            {
+              "title": "Chicken Fried Rice",
+              "description": "Gebratener Reis, Poulet, Ei, frisches Gemüse, Sojasauce",
+              "price": "CHF 15.00",
+              "tags": []
+            },
+            {
+              "title": "Vegetable Fried Rice",
+              "description": "Gebratener Reis, Ei, schwarze Pilze, frisches Gemüse",
+              "price": "CHF 14.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Chicken Fried Noodles",
+              "description": "Gebratene Nudeln, Poulet, Ei, Gemüse, Sojasauce",
+              "price": "CHF 17.00",
+              "tags": []
+            },
+            {
+              "title": "Phad Thai (Poulet)",
+              "description": "Reisnudeln, Ei, Frühlingszwiebeln, Cashewnüsse, Sojasprossen, Limetten",
+              "price": "CHF 21.50",
+              "tags": []
+            },
+            {
+              "title": "Yellow Curry (Poulet)",
+              "description": "Mildes Curry mit Peperoni, Ananas, Kartoffeln, Tomaten, Reis",
+              "price": "CHF 21.50",
+              "tags": []
+            },
+            {
+              "title": "Green Curry (Tofu)",
+              "description": "Scharfes Curry mit Peperoni, Ananas, Kartoffeln, Tomaten, Reis",
+              "price": "CHF 21.50",
+              "tags": [
+                "vegetarian"
+              ]
+            }
+          ],
+          "note": "standing-menu"
+        },
+        "en": {
+          "items": [
+            {
+              "title": "Chicken Fried Rice",
+              "description": "Fried rice, chicken, egg, fresh vegetables, soy sauce",
+              "price": "CHF 15.00",
+              "tags": []
+            },
+            {
+              "title": "Vegetable Fried Rice",
+              "description": "Fried rice, egg, black mushrooms, fresh vegetables",
+              "price": "CHF 14.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Chicken Fried Noodles",
+              "description": "Fried noodles, chicken, egg, vegetables, soy sauce",
+              "price": "CHF 17.00",
+              "tags": []
+            },
+            {
+              "title": "Phad Thai (Chicken)",
+              "description": "Rice noodles, egg, spring onions, cashew nuts, soy sprouts, limes",
+              "price": "CHF 21.50",
+              "tags": []
+            },
+            {
+              "title": "Yellow Curry (Chicken)",
+              "description": "Mild curry with peppers, pineapple, potatoes, tomatoes, rice",
+              "price": "CHF 21.50",
+              "tags": []
+            },
+            {
+              "title": "Green Curry (Tofu)",
+              "description": "Spicy curry with peppers, pineapple, potatoes, tomatoes, rice",
+              "price": "CHF 21.50",
+              "tags": [
+                "vegetarian"
+              ]
+            }
+          ],
+          "translated_from": "de"
+        },
+        "fr": {
+          "items": [
+            {
+              "title": "Riz frit au poulet",
+              "description": "Riz frit, poulet, œuf, légumes frais, sauce soja",
+              "price": "CHF 15.00",
+              "tags": []
+            },
+            {
+              "title": "Riz frit végétal",
+              "description": "Riz frit, oeuf, champignons noirs, légumes frais",
+              "price": "CHF 14.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Chicken Fried Noodles",
+              "description": "Pâtes rôties, poulet, œuf, légumes, sauce soja",
+              "price": "CHF 17.00",
+              "tags": []
+            },
+            {
+              "title": "Phad Thai (Poulet)",
+              "description": "Nouilles de riz, œuf, oignons nouveaux, noix de cajou, germes de soja, citrons verts",
+              "price": "CHF 21.50",
+              "tags": []
+            },
+            {
+              "title": "Curry jaune (poulet)",
+              "description": "Curry doux aux poivrons, ananas, pommes de terre, tomates, riz",
+              "price": "CHF 21.50",
+              "tags": []
+            },
+            {
+              "title": "CURRY VERT AVEC TOFU",
+              "description": "Curry épicé aux poivrons, ananas, pommes de terre, tomates, riz",
+              "price": "CHF 21.50",
+              "tags": [
+                "vegetarian"
+              ]
+            }
+          ],
+          "translated_from": "de"
+        }
+      },
       "pdf_url": "https://www.misterwong.ch/wp-content/uploads/sites/2/2025/09/VAL_RZ_2_Mister_Wong_Speisekarte_A1_LOW.pdf",
-      "error": "Daily-Wok changes daily; full menu published as PDF only"
+      "error": null
     },
     {
       "id": "vandermerwe",
       "name": "Van der Merwe",
       "url": "https://vandermerwe.ch/gastronomie/",
-      "menus": {},
+      "meta": {
+        "de": {
+          "cuisine": "Hausmannskost & Fitness Food",
+          "hours": "Mo–Fr 11:00–14:00",
+          "phone": "+41 61 487 98 98"
+        },
+        "en": {
+          "cuisine": "Swiss homestyle & fitness food",
+          "hours": "Mo–Fri 11:00–14:00",
+          "phone": "+41 61 487 98 98"
+        },
+        "fr": {
+          "cuisine": "Cuisine suisse & fitness food",
+          "hours": "Lu–Ve 11:00–14:00",
+          "phone": "+41 61 487 98 98"
+        }
+      },
+      "menus": {
+        "de": {
+          "items": [
+            {
+              "title": "Fitnessteller mit Poulet",
+              "description": "Pouletbrust vom Grill mit buntem Beilagen-Salat",
+              "price": "Fr. 16.50",
+              "tags": []
+            },
+            {
+              "title": "Fitnessteller mit Lachs",
+              "description": "Lachsfilet gebraten mit buntem Beilagen-Salat",
+              "price": "Fr. 18.00",
+              "tags": []
+            },
+            {
+              "title": "Classic Burger",
+              "description": "Rindsburger mit Tomate, Gurke, Zwiebeln und Salat oder Pommes",
+              "price": "Fr. 18.00",
+              "tags": []
+            },
+            {
+              "title": "Vegi-Burger",
+              "description": "mit Gurke, Zwiebeln, Tomate und Salat oder Pommes",
+              "price": "Fr. 20.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Hausgemachte Quiche",
+              "description": "mit gemischtem Salat",
+              "price": "Fr. 14.50",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Poulet-Schnitzelbrot Provençale",
+              "description": "mit gemischtem Salat oder Pommes",
+              "price": "Fr. 13.50",
+              "tags": []
+            },
+            {
+              "title": "Tagessuppe",
+              "description": "wechselnd nach Angebot",
+              "price": "Fr. 6.00",
+              "tags": []
+            }
+          ],
+          "note": "standing-menu"
+        },
+        "en": {
+          "items": [
+            {
+              "title": "Fitness plate with chicken",
+              "description": "Chicken breast from the grill with colorful side salad",
+              "price": "Fr. 16.50",
+              "tags": []
+            },
+            {
+              "title": "Fitness plate with salmon",
+              "description": "Salmon fillet fried with colorful side salad",
+              "price": "Fr. 18.00",
+              "tags": []
+            },
+            {
+              "title": "<g id=\"pt466\">&lt;45&gt; </g><g id=\"pt467\">Classic Burger</g>",
+              "description": "Beef burger with tomato, cucumber, onions and salad or fries",
+              "price": "Fr. 18.00",
+              "tags": []
+            },
+            {
+              "title": "Vegi burger",
+              "description": "with cucumber, onions, tomato and salad or fries",
+              "price": "Fr. 20.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Homemade quiche",
+              "description": "with mixed salad",
+              "price": "Fr. 14.50",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Chicken schnitzel bread Provençale",
+              "description": "with mixed salad or fries",
+              "price": "Fr. 13.50",
+              "tags": []
+            },
+            {
+              "title": "Soup of the day",
+              "description": "alternating according to offer",
+              "price": "Fr. 6.00",
+              "tags": []
+            }
+          ],
+          "translated_from": "de"
+        },
+        "fr": {
+          "items": [
+            {
+              "title": "Assiette fitness au poulet",
+              "description": "Poitrine de poulet grillée avec salade d'accompagnement colorée",
+              "price": "Fr. 16.50",
+              "tags": []
+            },
+            {
+              "title": "Assiette fitness au saumon",
+              "description": "Filet de saumon rôti avec salade d'accompagnement colorée",
+              "price": "Fr. 18.00",
+              "tags": []
+            },
+            {
+              "title": "Burger classique",
+              "description": "Burger de bœuf avec tomate, concombre, oignons et salade ou frites",
+              "price": "Fr. 18.00",
+              "tags": []
+            },
+            {
+              "title": "Hamburger végétarien",
+              "description": "avec concombre, oignons, tomate et salade ou frites",
+              "price": "Fr. 20.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Quiche maison",
+              "description": "avec salade mélangée",
+              "price": "Fr. 14.50",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Escalope de poulet provençale",
+              "description": "avec salade ou frites mélangées",
+              "price": "Fr. 13.50",
+              "tags": []
+            },
+            {
+              "title": "Soupe du jour",
+              "description": "variable en fonction de l'offre",
+              "price": "Fr. 6.00",
+              "tags": []
+            }
+          ],
+          "translated_from": "de"
+        }
+      },
       "pdf_url": "https://vandermerwe.ch/wp-content/uploads/2023/12/Speisekarte_VDM.pdf",
-      "error": "Restaurant publishes a static menu (no daily rotation online)"
+      "error": null
     }
   ]
 }
