@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T13:33:51+00:00",
-  "date": "2026-09-28",
-  "weekday": "monday",
+  "generated_at": "2026-09-29T12:34:56+00:00",
+  "date": "2026-09-29",
+  "weekday": "tuesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Rotes Thai Curry (vegan)",
-              "description": "Basmati Reis, Blumenkohl, Tofu, Broccoli, Frühlingszwiebeln, Sojasprossen, Ingwer-Karotten Relish",
+              "title": "Spinat Risotto",
+              "description": "Frischkäse, Belperknolle, Gehobelter Champignon, Kräuter Drizzle, Jungzwieblen",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Rotes Thai Curry (vegan)",
-              "description": "Basmati Rice, Cauliflower, Tofu, Broccoli, Spring Onions, Bean Sprouts, Ginger-Carrot Relish",
+              "title": "Spinach Risotto",
+              "description": "Cream Cheese, Belper Knolle, Sliced Mushrooms, Herb Drizzle, Spring Onions",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Curry rouge thaïlandais (végétalien)",
-              "description": "Riz basmati, chou-fleur, tofu, brocoli, oignons nouveaux, germes de soja, carottes de gingembre Relish",
+              "title": "Risotto aux épinards",
+              "description": "Fromage frais, tubercule de Belper, champignon raboté, Drizzle aux herbes, jeunes oignons",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Kürbis-Tajine mit Linsen, Süsskartoffeln Datteln & Koriander",
+              "title": "Gebackene Polenta mit Tomatensugo Krautstiel & sautierten Pilzen",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -98,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Pumpkin tagine with lentils, sweet potatoes, dates & coriander",
+              "title": "Baked polenta with tomato sauce herb stalk & sautéed mushrooms",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -109,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Tajine à la citrouille avec des lentilles, des patates douces, des dattes et de la coriandre",
+              "title": "Polenta cuite au four avec tige de chou Sugo à la tomate et champignons sautés",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -129,18 +123,20 @@
         "de": {
           "items": [
             {
-              "title": "FALAFEL",
-              "description": "Glocal · Joghurt-Harissa Dip, Bulgur, Couscous-Gemüse",
+              "title": "KÜRBIS RAVIOLI",
+              "description": "Glocal · Randensauce, Rucola, Baumnüsse, Grillgemüse",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SCHWEINSGESCHNETZELTES",
-              "description": "Traditional · Paprika-Rahmsauce, Teigwaren Spiralen, Wurzelgemüse",
+              "title": "SPAGHETTI BOLOGNESE",
+              "description": "Traditional · Rindshackfleisch, Tomatensauce, Reibkäse, Menüsalat",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegetarian"
+              ]
             },
             {
               "title": "Saisonale Salatbar: sagen Sie uns",
@@ -159,22 +155,24 @@
         "fr": {
           "items": [
             {
-              "title": "Falafel Bällchen gebacken",
-              "description": "Glocal · Joghurt Minz Dip, Bulgur, Vegi Couscous Gemüse",
+              "title": "Teigwaren gefüllt mit Bärlauch 300 gr Port",
+              "description": "Glocal · Randen Rahm Sauce, Rucola-Garnitur, Baumnüsse geröstet, Légumes grillés, marinés",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Schweins Geschnetzeltes Paprika Rahmsauce, Port. 240g",
-              "description": "Traditional · Paprika Rahmsauce, Teigwaren Hörnli gekocht vegetarisch, Wurzel Gemüse geröstet",
+              "title": "Spaghetti",
+              "description": "Traditional · *Rinds Sauce Bolognese, Parmesanspäne Port. 16g, Menüsalat mit Knorr",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegetarian"
+              ]
             },
             {
               "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Salade de carottes, Salade de betterave rouge, Taboulé, port. à 200g, Salade de concombre à l’aneth, Salatsauce",
+              "description": "Salate · Salade de betterave rouge, Salade de carottes, Taboulé, port. à 200g, Salade de concombre à l’aneth, Salatsauce",
               "price": null,
               "tags": []
             },
@@ -189,18 +187,20 @@
         "en": {
           "items": [
             {
-              "title": "FALAFEL",
-              "description": "Glocal · Yogurt-Harissa Dip, Bulgur, Couscous Vegetables",
+              "title": "PUMPKIN RAVIOLI",
+              "description": "Glocal · Beaded sauce, rocket, tree nuts, grilled vegetables",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Pork nets",
-              "description": "Traditional · Bell pepper cream sauce, pasta spirals, root vegetables",
+              "title": "SPAGHETTI BOLOGNESE",
+              "description": "Traditional · minced beef, tomato sauce, grated cheese, menu salad",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegetarian"
+              ]
             },
             {
               "title": "Seasonal salad bar: tell us",
@@ -243,22 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "FALAFEL",
-              "description": "Veggie Bowl · Joghurt Minz Dip, Bulgur, Menüsalat",
+              "title": "KÜRBIS RAVIOLI",
+              "description": "Veggie Bowl · Randensauce, Rucola, Baumnüsse, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SCHWEINSGESCHNETZELTES",
-              "description": "Traditional Bowl · Paprika Rahmsauce, Spiralen, Wurzelgemüse",
+              "title": "JAMBALAYA",
+              "description": "Traditional Bowl · Poulet, Chorizo, Erbsen & Cipolotti",
               "price": null,
               "tags": []
             },
             {
-              "title": "GNOCCHI",
-              "description": "Soul Food · Gorgonzola Sauce, Ofenbirnen, geröstete Baumnüsse, Parmesan Hobel",
+              "title": "RINDS HACKBRATEN",
+              "description": "Soul Food · Kartoffel Stock, Karotten, Rahmsauce",
               "price": null,
               "tags": []
             }
@@ -267,22 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "FALAFEL",
-              "description": "Veggie Bowl · Joghurt Minz Dip, Bulgur, Menüsalat",
+              "title": "KÜRBIS RAVIOLI",
+              "description": "Veggie Bowl · Randensauce, Rucola, Baumnüsse, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SCHWEINSGESCHNETZELTES",
-              "description": "Traditional Bowl · Paprika Rahmsauce, Spiralen, Wurzelgemüse",
+              "title": "JAMBALAYA",
+              "description": "Traditional Bowl · Poulet, Chorizo, Erbsen & Cipolotti",
               "price": null,
               "tags": []
             },
             {
-              "title": "GNOCCHI",
-              "description": "Soul Food · Gorgonzola Sauce, Ofenbirnen, geröstete Baumnüsse, Parmesan Hobel",
+              "title": "RINDS HACKBRATEN",
+              "description": "Soul Food · Kartoffel Stock, Karotten, Rahmsauce",
               "price": null,
               "tags": []
             }
@@ -291,22 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "FALAFEL",
-              "description": "Veggie Bowl · Yogurt Mint Dip, Bulgur, Menu Salad",
+              "title": "PUMPKIN RAVIOLI",
+              "description": "Veggie Bowl · Beetroot sauce, rocket, tree nuts, menu salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Pork nets",
-              "description": "Traditional Bowl · Paprika cream sauce, spirals, root vegetables",
+              "title": "JAMBALAYA",
+              "description": "Traditional Bowl · Chicken, Chorizo, Peas & Cipolotti",
               "price": null,
               "tags": []
             },
             {
-              "title": "GNOCCHI",
-              "description": "Soul Food · Gorgonzola Sauce, Oven Pears, Roasted Tree Nuts, Parmesan Planer",
+              "title": "BEEF MEATLOAF",
+              "description": "Soul Food · Potato stick, carrots, cream sauce",
               "price": null,
               "tags": []
             }
