@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T12:34:56+00:00",
-  "date": "2026-09-29",
-  "weekday": "tuesday",
+  "generated_at": "2026-09-30T12:20:51+00:00",
+  "date": "2026-09-30",
+  "weekday": "wednesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Spinat Risotto",
-              "description": "Frischkäse, Belperknolle, Gehobelter Champignon, Kräuter Drizzle, Jungzwieblen",
+              "title": "Süsskartoffel Gnocchi",
+              "description": "Meerrettichsauce, Gerösteter Paneer Käse, Marinierter Rucola, Sprossen Hausmischung",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Spinach Risotto",
-              "description": "Cream Cheese, Belper Knolle, Sliced Mushrooms, Herb Drizzle, Spring Onions",
+              "title": "Sweet Potato Gnocchi",
+              "description": "Horseradish Sauce, Roasted Paneer Cheese, Marinated Arugula, House-Blend Sprouts",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Risotto aux épinards",
-              "description": "Fromage frais, tubercule de Belper, champignon raboté, Drizzle aux herbes, jeunes oignons",
+              "title": "Gnocchis à la patate douce",
+              "description": "Sauce au raifort, fromage pané grillé, roquette marinée, mélange maison de germes",
               "price": null,
               "tags": []
             }
@@ -82,9 +82,17 @@
         "de": {
           "items": [
             {
-              "title": "Gebackene Polenta mit Tomatensugo Krautstiel & sautierten Pilzen",
+              "title": "Hausgemachter Burger mit Kidney-Bohnen Bergkäse & Rotkraut Cole-Slaw",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Hausgemachter Burger mit Rindfleisch Bergkäse & Rotkraut Cole-Slaw",
+              "description": "inkl. Salat oder Suppe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -92,9 +100,17 @@
         "en": {
           "items": [
             {
-              "title": "Baked polenta with tomato sauce herb stalk & sautéed mushrooms",
+              "title": "Homemade Burger with Kidney Beans Mountain Cheese & Red Herb Cole-Slaw",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Homemade burger with beef mountain cheese & red cabbage Cole-Slaw",
+              "description": "incl. salad or soup",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -103,9 +119,17 @@
         "fr": {
           "items": [
             {
-              "title": "Polenta cuite au four avec tige de chou Sugo à la tomate et champignons sautés",
+              "title": "Burger maison aux haricots rouges Fromage de montagne & chou rouge Cole-Slaw",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Burger maison au bœuf Fromage de montagne & chou rouge Cole-Slaw",
+              "description": "incl. salade ou soupe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -123,20 +147,18 @@
         "de": {
           "items": [
             {
-              "title": "KÜRBIS RAVIOLI",
-              "description": "Glocal · Randensauce, Rucola, Baumnüsse, Grillgemüse",
+              "title": "DIRTY FRIES",
+              "description": "Glocal · Linsen, Bohnen-Chili, Pommes Frites, Gewürz Dip, Zwiebel Pickles, Mais Snack, Menüsalat",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "SPAGHETTI BOLOGNESE",
-              "description": "Traditional · Rindshackfleisch, Tomatensauce, Reibkäse, Menüsalat",
+              "title": "RINDFLEISCHVOGEL",
+              "description": "Traditional · Polenta Bramata mit getrockneten Pilzen, Rosenkohl",
               "price": null,
-              "tags": [
-                "vegetarian"
-              ]
+              "tags": []
             },
             {
               "title": "Saisonale Salatbar: sagen Sie uns",
@@ -155,24 +177,22 @@
         "fr": {
           "items": [
             {
-              "title": "Teigwaren gefüllt mit Bärlauch 300 gr Port",
-              "description": "Glocal · Randen Rahm Sauce, Rucola-Garnitur, Baumnüsse geröstet, Légumes grillés, marinés",
+              "title": "Pommes frites Chili Sin Carne Bohnen Linsen Zwiebeln, Port. 440g",
+              "description": "Glocal · Linsen, Bohnen-Chili, Pommes Frites, Gewürz Dip, Zwiebel Pickles, Mais Snack, Menüsalat, Menüsalat mit Knorr, Menüsalat",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Spaghetti",
-              "description": "Traditional · *Rinds Sauce Bolognese, Parmesanspäne Port. 16g, Menüsalat mit Knorr",
+              "title": "Rinds Fleischvogel geschmort, Port. 200g",
+              "description": "Traditional · Polenta Bramata mit getrockneten Pilzen, vegan, Rosenkohl sautiert, Allergène lait",
               "price": null,
-              "tags": [
-                "vegetarian"
-              ]
+              "tags": []
             },
             {
               "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Salade de betterave rouge, Salade de carottes, Taboulé, port. à 200g, Salade de concombre à l’aneth, Salatsauce",
+              "description": "Salate · Salade de carottes, Salade de betterave rouge, Taboulé, port. à 200g, Salade de concombre à l’aneth, Salatsauce",
               "price": null,
               "tags": []
             },
@@ -187,20 +207,18 @@
         "en": {
           "items": [
             {
-              "title": "PUMPKIN RAVIOLI",
-              "description": "Glocal · Beaded sauce, rocket, tree nuts, grilled vegetables",
+              "title": "DIRTY FRIES",
+              "description": "Glocal · Lentils, bean chili, French fries, spice dip, onion pickles, corn snack, menu salad",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "SPAGHETTI BOLOGNESE",
-              "description": "Traditional · minced beef, tomato sauce, grated cheese, menu salad",
+              "title": "Beef bird",
+              "description": "Traditional · Polenta Bramata with dried mushrooms, Brussels sprouts",
               "price": null,
-              "tags": [
-                "vegetarian"
-              ]
+              "tags": []
             },
             {
               "title": "Seasonal salad bar: tell us",
@@ -243,22 +261,22 @@
         "de": {
           "items": [
             {
-              "title": "KÜRBIS RAVIOLI",
-              "description": "Veggie Bowl · Randensauce, Rucola, Baumnüsse, Menüsalat",
+              "title": "LINSEN & KARTOFFELN",
+              "description": "Veggie Bowl · Linsen, Bohnen-Chili, Brätler, Gewürz Dip, Zwiebel Pickles, Mais Snack, Menüsalat",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "JAMBALAYA",
-              "description": "Traditional Bowl · Poulet, Chorizo, Erbsen & Cipolotti",
+              "title": "RINDSFLEISCHVOGEL",
+              "description": "Traditional Bowl · Polenta Bramata & Pilzen, Rosenkohl",
               "price": null,
               "tags": []
             },
             {
-              "title": "RINDS HACKBRATEN",
-              "description": "Soul Food · Kartoffel Stock, Karotten, Rahmsauce",
+              "title": "POULET RIZ CASIMIR",
+              "description": "Soul Food · Langkornreis, Früchte",
               "price": null,
               "tags": []
             }
@@ -267,22 +285,22 @@
         "fr": {
           "items": [
             {
-              "title": "KÜRBIS RAVIOLI",
-              "description": "Veggie Bowl · Randensauce, Rucola, Baumnüsse, Menüsalat",
+              "title": "LINSEN & KARTOFFELN",
+              "description": "Veggie Bowl · Linsen, Bohnen-Chili, Brätler, Gewürz Dip, Zwiebel Pickles, Mais Snack, Menüsalat",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "JAMBALAYA",
-              "description": "Traditional Bowl · Poulet, Chorizo, Erbsen & Cipolotti",
+              "title": "RINDSFLEISCHVOGEL",
+              "description": "Traditional Bowl · Polenta Bramata & Pilzen, Rosenkohl",
               "price": null,
               "tags": []
             },
             {
-              "title": "RINDS HACKBRATEN",
-              "description": "Soul Food · Kartoffel Stock, Karotten, Rahmsauce",
+              "title": "POULET RIZ CASIMIR",
+              "description": "Soul Food · Langkornreis, Früchte",
               "price": null,
               "tags": []
             }
@@ -291,22 +309,22 @@
         "en": {
           "items": [
             {
-              "title": "PUMPKIN RAVIOLI",
-              "description": "Veggie Bowl · Beetroot sauce, rocket, tree nuts, menu salad",
+              "title": "LENTILS & POTATOES",
+              "description": "Veggie Bowl · Lentils, bean chili, patties, spice dip, onion pickles, corn snack, menu salad",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "JAMBALAYA",
-              "description": "Traditional Bowl · Chicken, Chorizo, Peas & Cipolotti",
+              "title": "Beef bird",
+              "description": "Traditional Bowl · Polenta Bramata & Mushrooms, Brussels sprouts",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEF MEATLOAF",
-              "description": "Soul Food · Potato stick, carrots, cream sauce",
+              "title": "POULET RIZ CASIMIR",
+              "description": "Soul Food · Long grain rice, fruits",
               "price": null,
               "tags": []
             }
