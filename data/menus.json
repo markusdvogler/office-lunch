@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T12:20:51+00:00",
-  "date": "2026-09-30",
-  "weekday": "wednesday",
+  "generated_at": "2026-10-01T12:55:48+00:00",
+  "date": "2026-10-01",
+  "weekday": "thursday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Süsskartoffel Gnocchi",
-              "description": "Meerrettichsauce, Gerösteter Paneer Käse, Marinierter Rucola, Sprossen Hausmischung",
+              "title": "Tofu Sofritas",
+              "description": "Borlotti Bohnen, Langkornreis, Guacamole, Koriander, Grillierte Pimientos, Mais, Gerächerte Paprika, Chipotle",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Sweet Potato Gnocchi",
-              "description": "Horseradish Sauce, Roasted Paneer Cheese, Marinated Arugula, House-Blend Sprouts",
+              "title": "Tofu Sofritas",
+              "description": "Borlotti Beans, Long-Grain Rice, Guacamole, Cilantro, Grilled Pimientos, Corn, Smoked Paprika, Chipotle",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Gnocchis à la patate douce",
-              "description": "Sauce au raifort, fromage pané grillé, roquette marinée, mélange maison de germes",
+              "title": "Tofu Sofritas",
+              "description": "Haricots Borlotti, riz à grains longs, guacamole, coriandre, pimientos grillés, maïs, poivrons râpés, chipotle",
               "price": null,
               "tags": []
             }
@@ -82,17 +82,9 @@
         "de": {
           "items": [
             {
-              "title": "Hausgemachter Burger mit Kidney-Bohnen Bergkäse & Rotkraut Cole-Slaw",
+              "title": "Hausgemachte Falafel mit Erbsenpürée Jogurt & Minze",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Hausgemachter Burger mit Rindfleisch Bergkäse & Rotkraut Cole-Slaw",
-              "description": "inkl. Salat oder Suppe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -100,17 +92,9 @@
         "en": {
           "items": [
             {
-              "title": "Homemade Burger with Kidney Beans Mountain Cheese & Red Herb Cole-Slaw",
+              "title": "Homemade falafel with pea puree yogurt & mint",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Homemade burger with beef mountain cheese & red cabbage Cole-Slaw",
-              "description": "incl. salad or soup",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -119,17 +103,9 @@
         "fr": {
           "items": [
             {
-              "title": "Burger maison aux haricots rouges Fromage de montagne & chou rouge Cole-Slaw",
+              "title": "Falafel maison avec purée de petits pois Yaourt & Menthe",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Burger maison au bœuf Fromage de montagne & chou rouge Cole-Slaw",
-              "description": "incl. salade ou soupe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -147,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "DIRTY FRIES",
-              "description": "Glocal · Linsen, Bohnen-Chili, Pommes Frites, Gewürz Dip, Zwiebel Pickles, Mais Snack, Menüsalat",
+              "title": "PALAK TOFU",
+              "description": "Glocal · Indisches Spinatgericht mit Tofu, Garam Masala, Ingwer, Granatapfel, Basmati Reis, Koriander, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "RINDFLEISCHVOGEL",
-              "description": "Traditional · Polenta Bramata mit getrockneten Pilzen, Rosenkohl",
+              "title": "FISCHSTÄBCHEN",
+              "description": "Traditional · Broccoli, Petersilienkartoffeln, Cocktail Sauce, Zitronenschnitz",
               "price": null,
               "tags": []
             },
@@ -177,16 +153,16 @@
         "fr": {
           "items": [
             {
-              "title": "Pommes frites Chili Sin Carne Bohnen Linsen Zwiebeln, Port. 440g",
-              "description": "Glocal · Linsen, Bohnen-Chili, Pommes Frites, Gewürz Dip, Zwiebel Pickles, Mais Snack, Menüsalat, Menüsalat mit Knorr, Menüsalat",
+              "title": "Palak Tofu, Port. 300g",
+              "description": "Glocal · Basmati Reis gedämpft Steamer, Grains de grenade, Coriandre, frais, Menüsalat mit Knorr",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Rinds Fleischvogel geschmort, Port. 200g",
-              "description": "Traditional · Polenta Bramata mit getrockneten Pilzen, vegan, Rosenkohl sautiert, Allergène lait",
+              "title": "Fisch Stäbchen gebacken, Port. 150g",
+              "description": "Traditional · Citron / citron vert, Cocktail Sauce, Kartoffeln gedämpft mit Petersilie, Broccoli",
               "price": null,
               "tags": []
             },
@@ -207,16 +183,16 @@
         "en": {
           "items": [
             {
-              "title": "DIRTY FRIES",
-              "description": "Glocal · Lentils, bean chili, French fries, spice dip, onion pickles, corn snack, menu salad",
+              "title": "PALAK TOFU",
+              "description": "Glocal · Indian spinach dish with tofu, garam masala, ginger, pomegranate, basmati rice, coriander, menu salad",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Beef bird",
-              "description": "Traditional · Polenta Bramata with dried mushrooms, Brussels sprouts",
+              "title": "FISH FINGERS",
+              "description": "Traditional · Broccoli, parsley potatoes, cocktail sauce, lemon wedge",
               "price": null,
               "tags": []
             },
@@ -261,22 +237,22 @@
         "de": {
           "items": [
             {
-              "title": "LINSEN & KARTOFFELN",
-              "description": "Veggie Bowl · Linsen, Bohnen-Chili, Brätler, Gewürz Dip, Zwiebel Pickles, Mais Snack, Menüsalat",
+              "title": "PALAK TOFU",
+              "description": "Veggie Bowl · Indisches Spinatgericht Tofu, Garam Masala, Ingwer, Granatapfel, Koriander, Basmati Reis, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "RINDSFLEISCHVOGEL",
-              "description": "Traditional Bowl · Polenta Bramata & Pilzen, Rosenkohl",
+              "title": "FISCHSTÄBCHEN",
+              "description": "Traditional Bowl · Zitronenschnitz, Cocktail Sauce, Petersilienkartoffeln, Broccoli",
               "price": null,
               "tags": []
             },
             {
-              "title": "POULET RIZ CASIMIR",
-              "description": "Soul Food · Langkornreis, Früchte",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Cheddar & Speck, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -285,22 +261,22 @@
         "fr": {
           "items": [
             {
-              "title": "LINSEN & KARTOFFELN",
-              "description": "Veggie Bowl · Linsen, Bohnen-Chili, Brätler, Gewürz Dip, Zwiebel Pickles, Mais Snack, Menüsalat",
+              "title": "PALAK TOFU",
+              "description": "Veggie Bowl · Indisches Spinatgericht Tofu, Garam Masala, Ingwer, Granatapfel, Koriander, Basmati Reis, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "RINDSFLEISCHVOGEL",
-              "description": "Traditional Bowl · Polenta Bramata & Pilzen, Rosenkohl",
+              "title": "FISCHSTÄBCHEN",
+              "description": "Traditional Bowl · Zitronenschnitz, Cocktail Sauce, Petersilienkartoffeln, Broccoli",
               "price": null,
               "tags": []
             },
             {
-              "title": "POULET RIZ CASIMIR",
-              "description": "Soul Food · Langkornreis, Früchte",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Cheddar & Speck, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -309,22 +285,22 @@
         "en": {
           "items": [
             {
-              "title": "LENTILS & POTATOES",
-              "description": "Veggie Bowl · Lentils, bean chili, patties, spice dip, onion pickles, corn snack, menu salad",
+              "title": "PALAK TOFU",
+              "description": "Veggie Bowl · Indian spinach dish tofu, garam masala, ginger, pomegranate, coriander, basmati rice, menu salad",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Beef bird",
-              "description": "Traditional Bowl · Polenta Bramata & Mushrooms, Brussels sprouts",
+              "title": "FISH FINGERS",
+              "description": "Traditional Bowl · Lemon wedge, cocktail sauce, parsley potatoes, broccoli",
               "price": null,
               "tags": []
             },
             {
-              "title": "POULET RIZ CASIMIR",
-              "description": "Soul Food · Long grain rice, fruits",
+              "title": "BEEFBURGER",
+              "description": "Soul food · with cheddar & bacon, French fries",
               "price": null,
               "tags": []
             }
@@ -683,7 +659,7 @@
           "translated_from": "de"
         }
       },
-      "pdf_url": "https://vandermerwe.ch/wp-content/uploads/2023/12/Speisekarte_VDM.pdf",
+      "pdf_url": "https://vandermerwe.ch/wp-content/uploads/2026/09/Speisekarte_VDM.pdf",
       "error": null
     }
   ]
