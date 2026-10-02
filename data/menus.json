@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T12:55:48+00:00",
-  "date": "2026-10-01",
-  "weekday": "thursday",
+  "generated_at": "2026-10-02T12:18:48+00:00",
+  "date": "2026-10-02",
+  "weekday": "friday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Tofu Sofritas",
-              "description": "Borlotti Bohnen, Langkornreis, Guacamole, Koriander, Grillierte Pimientos, Mais, Gerächerte Paprika, Chipotle",
+              "title": "Harissa Halloumi Bowl",
+              "description": "Gebratener Halloumi, Couscous, Kichererbsen, Geröstete Kapija Paprika, Granatapfel, Minz Joghurt",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Tofu Sofritas",
-              "description": "Borlotti Beans, Long-Grain Rice, Guacamole, Cilantro, Grilled Pimientos, Corn, Smoked Paprika, Chipotle",
+              "title": "Harissa Halloumi Bowl",
+              "description": "Baked Halloumi, Couscous, Chickpeas, Roasted Kapija Peppers, Pomegranate, Mint Yogurt",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Tofu Sofritas",
-              "description": "Haricots Borlotti, riz à grains longs, guacamole, coriandre, pimientos grillés, maïs, poivrons râpés, chipotle",
+              "title": "Harissa Halloumi Bowl",
+              "description": "Halloumi rôti, couscous, pois chiches, poivron Kapija grillé, grenade, yaourt à la menthe",
               "price": null,
               "tags": []
             }
@@ -82,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Hausgemachte Falafel mit Erbsenpürée Jogurt & Minze",
+              "title": "Reisküchlein mit Ratatouille Salsa Verde & Sellerie-Chips",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Homemade falafel with pea puree yogurt & mint",
+              "title": "Rice Cakes with Ratatouille Salsa Verde & Celery Chips",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Falafel maison avec purée de petits pois Yaourt & Menthe",
+              "title": "Petit gâteau de riz à la ratatouille Salsa Verde & chips de céleri",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "PALAK TOFU",
-              "description": "Glocal · Indisches Spinatgericht mit Tofu, Garam Masala, Ingwer, Granatapfel, Basmati Reis, Koriander, Menüsalat",
+              "title": "LUYA GESCHNETZELTES",
+              "description": "Glocal · grüne Bohnen, Quinoa",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "FISCHSTÄBCHEN",
-              "description": "Traditional · Broccoli, Petersilienkartoffeln, Cocktail Sauce, Zitronenschnitz",
+              "title": "Yaye Cheeseburger in Sesam Buns",
+              "description": "Traditional · Rainbow Slaw, Essiggurke, Haussauce, Pommes frites",
               "price": null,
               "tags": []
             },
@@ -141,28 +141,22 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate und warme Toppings",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Yaye Cheeseburger in Sesam Buns",
-              "description": "Weekly Special · Rainbow Slaw, Essiggurke, Haussauce, Pommes frites",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Palak Tofu, Port. 300g",
-              "description": "Glocal · Basmati Reis gedämpft Steamer, Grains de grenade, Coriandre, frais, Menüsalat mit Knorr",
+              "title": "Quinoa gekocht",
+              "description": "Glocal · Bohnen grün, Émincé de Luya frit",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Fisch Stäbchen gebacken, Port. 150g",
-              "description": "Traditional · Citron / citron vert, Cocktail Sauce, Kartoffeln gedämpft mit Petersilie, Broccoli",
+              "title": "Rinds Burger mit Cheddar Käse, Port. 320g",
+              "description": "Traditional · Rainbow Slaw, Cocktail Sauce, Pommes frites",
               "price": null,
               "tags": []
             },
@@ -171,40 +165,28 @@
               "description": "Salate · Salade de carottes, Salade de betterave rouge, Taboulé, port. à 200g, Salade de concombre à l’aneth, Salatsauce",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Rinds Burger mit Cheddar Käse, Port. 320g",
-              "description": "Weekly Special · Rainbow Slaw, Cocktail Sauce, Pommes frites",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "PALAK TOFU",
-              "description": "Glocal · Indian spinach dish with tofu, garam masala, ginger, pomegranate, basmati rice, coriander, menu salad",
+              "title": "LUYA SLICED",
+              "description": "Glocal · green beans, quinoa",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "FISH FINGERS",
-              "description": "Traditional · Broccoli, parsley potatoes, cocktail sauce, lemon wedge",
+              "title": "Yaye Cheeseburger in Sesame Buns",
+              "description": "Traditional · Rainbow Slaw, pickle, house sauce, French fries",
               "price": null,
               "tags": []
             },
             {
               "title": "Seasonal salad bar: tell us",
               "description": "Salads · what you want on your plate!, leaf lettuce, homemade salads and warm toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Yaye Cheeseburger in Sesame Buns",
-              "description": "Weekly Special · Rainbow Slaw, Pickle, House Sauce, French Fries",
               "price": null,
               "tags": []
             }
@@ -237,22 +219,22 @@
         "de": {
           "items": [
             {
-              "title": "PALAK TOFU",
-              "description": "Veggie Bowl · Indisches Spinatgericht Tofu, Garam Masala, Ingwer, Granatapfel, Koriander, Basmati Reis, Menüsalat",
+              "title": "PENNE ALL'ARRABIATA",
+              "description": "Veggie Bowl · Tomaten, Peperoni, Chili, Reibkäse, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "FISCHSTÄBCHEN",
-              "description": "Traditional Bowl · Zitronenschnitz, Cocktail Sauce, Petersilienkartoffeln, Broccoli",
+              "title": "CEVAPCICI",
+              "description": "Traditional Bowl · Ajvar sauce, Djuvec-Reis",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Cheddar & Speck, Pommes frites",
+              "title": "RINDS LASAGNE",
+              "description": "Soul Food · Menü Salat",
               "price": null,
               "tags": []
             }
@@ -261,22 +243,22 @@
         "fr": {
           "items": [
             {
-              "title": "PALAK TOFU",
-              "description": "Veggie Bowl · Indisches Spinatgericht Tofu, Garam Masala, Ingwer, Granatapfel, Koriander, Basmati Reis, Menüsalat",
+              "title": "PENNE ALL'ARRABIATA",
+              "description": "Veggie Bowl · Tomaten, Peperoni, Chili, Reibkäse, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "FISCHSTÄBCHEN",
-              "description": "Traditional Bowl · Zitronenschnitz, Cocktail Sauce, Petersilienkartoffeln, Broccoli",
+              "title": "CEVAPCICI",
+              "description": "Traditional Bowl · Ajvar sauce, Djuvec-Reis",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Cheddar & Speck, Pommes frites",
+              "title": "RINDS LASAGNE",
+              "description": "Soul Food · Menü Salat",
               "price": null,
               "tags": []
             }
@@ -285,22 +267,22 @@
         "en": {
           "items": [
             {
-              "title": "PALAK TOFU",
-              "description": "Veggie Bowl · Indian spinach dish tofu, garam masala, ginger, pomegranate, coriander, basmati rice, menu salad",
+              "title": "PENNE ALL'ARRABIATA",
+              "description": "Veggie Bowl · Tomatoes, peppers, chilli, grated cheese, menu salad",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "FISH FINGERS",
-              "description": "Traditional Bowl · Lemon wedge, cocktail sauce, parsley potatoes, broccoli",
+              "title": "CEVAPCICI",
+              "description": "Traditional Bowl · Ajvar sauce, Djuvec rice",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul food · with cheddar & bacon, French fries",
+              "title": "BEEF LASAGNA",
+              "description": "Soul Food · Salad Menu",
               "price": null,
               "tags": []
             }
