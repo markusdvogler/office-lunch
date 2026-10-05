@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T12:18:48+00:00",
-  "date": "2026-10-02",
-  "weekday": "friday",
+  "generated_at": "2026-10-05T14:17:15+00:00",
+  "date": "2026-10-05",
+  "weekday": "monday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Harissa Halloumi Bowl",
-              "description": "Gebratener Halloumi, Couscous, Kichererbsen, Geröstete Kapija Paprika, Granatapfel, Minz Joghurt",
+              "title": "Mediterrane Polenta Bowl",
+              "description": "Mediterrane Polenta Bowl Kräuterpolenta, Grillierte Aubergine, Zucchetti, Confierte Cherrytomate, Weisse Bohnen, Zitronen Ricotta, Pinienkerne",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Harissa Halloumi Bowl",
-              "description": "Baked Halloumi, Couscous, Chickpeas, Roasted Kapija Peppers, Pomegranate, Mint Yogurt",
+              "title": "Mediterranean Polenta Bowl",
+              "description": "Herbed Polenta, Grilled Eggplant, Zucchini, Confit Cherry Tomatoes, White Beans, Lemon Ricotta, Pine Nuts",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Harissa Halloumi Bowl",
-              "description": "Halloumi rôti, couscous, pois chiches, poivron Kapija grillé, grenade, yaourt à la menthe",
+              "title": "Bol de polenta méditerranéen",
+              "description": "Bol de polenta méditerranéen Polenta aux herbes, aubergine grillée, courgettes, tomate cerise confite, haricots blancs, ricotta au citron, pignons de pin",
               "price": null,
               "tags": []
             }
@@ -82,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Reisküchlein mit Ratatouille Salsa Verde & Sellerie-Chips",
+              "title": "Kürbis-Tajine mit Linsen, Süsskartoffeln Datteln & Koriander",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Rice Cakes with Ratatouille Salsa Verde & Celery Chips",
+              "title": "Pumpkin tagine with lentils, sweet potatoes, dates & coriander",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Petit gâteau de riz à la ratatouille Salsa Verde & chips de céleri",
+              "title": "Tajine à la citrouille avec des lentilles, des patates douces, des dattes et de la coriandre",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "LUYA GESCHNETZELTES",
-              "description": "Glocal · grüne Bohnen, Quinoa",
+              "title": "GEMÜSE FRÜHLINGSROLLEN",
+              "description": "Glocal · Sweet Chili Sauce, gebratener Reis, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Yaye Cheeseburger in Sesam Buns",
-              "description": "Traditional · Rainbow Slaw, Essiggurke, Haussauce, Pommes frites",
+              "title": "RINDFLEISCHBÄLLCHEN",
+              "description": "Traditional · Tomatensauce, Spaghetti, Ratatouille, geriebener Käse",
               "price": null,
               "tags": []
             },
@@ -141,28 +141,40 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate und warme Toppings",
               "price": null,
               "tags": []
+            },
+            {
+              "title": "FISH & CHIPS",
+              "description": "Weekly Special · Seehecht im Bierteig, grüne Erbsen, Pommes frites, Tartarsauce",
+              "price": null,
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Quinoa gekocht",
-              "description": "Glocal · Bohnen grün, Émincé de Luya frit",
+              "title": "Frühlingsrollen mit Gemüse, Port. 140g",
+              "description": "Glocal · Sweet chili sauce (Sauce aigre douce), Gebratener Reis / Fried Rice, Menüsalat mit Knorr",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Rinds Burger mit Cheddar Käse, Port. 320g",
-              "description": "Traditional · Rainbow Slaw, Cocktail Sauce, Pommes frites",
+              "title": "Rinds Meatballs Spiess, Port. 150g",
+              "description": "Traditional · Tomaten Sauce, Teigwaren Spaghetti gekocht vegan, Grande Capo, Fromage italien à pâte dure, Ratatouille",
               "price": null,
               "tags": []
             },
             {
               "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Salade de carottes, Salade de betterave rouge, Taboulé, port. à 200g, Salade de concombre à l’aneth, Salatsauce",
+              "description": "Salate · Salade de betterave rouge, Salade de carottes, Salade de concombre à l’aneth, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Fischknusperli Seehecht, 160g Port",
+              "description": "Weekly Special · Erbsen, Pommes frites, Tartarsauce dick",
               "price": null,
               "tags": []
             }
@@ -171,22 +183,28 @@
         "en": {
           "items": [
             {
-              "title": "LUYA SLICED",
-              "description": "Glocal · green beans, quinoa",
+              "title": "VEGETABLE SPRING ROLLS",
+              "description": "Glocal · Sweet chili sauce, fried rice, menu salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Yaye Cheeseburger in Sesame Buns",
-              "description": "Traditional · Rainbow Slaw, pickle, house sauce, French fries",
+              "title": "Beef balls",
+              "description": "Traditional · Tomato sauce, spaghetti, ratatouille, grated cheese",
               "price": null,
               "tags": []
             },
             {
               "title": "Seasonal salad bar: tell us",
               "description": "Salads · what you want on your plate!, leaf lettuce, homemade salads and warm toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "FISH & CHIPS",
+              "description": "Weekly Special · Hake in beer dough, green peas, French fries, tartar sauce",
               "price": null,
               "tags": []
             }
@@ -219,22 +237,22 @@
         "de": {
           "items": [
             {
-              "title": "PENNE ALL'ARRABIATA",
-              "description": "Veggie Bowl · Tomaten, Peperoni, Chili, Reibkäse, Menüsalat",
+              "title": "GEMÜSE FRÜHLINGSROLLEN",
+              "description": "Veggie Bowl · Sweet Chili Sauce, Gebratener Reis, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "CEVAPCICI",
-              "description": "Traditional Bowl · Ajvar sauce, Djuvec-Reis",
+              "title": "RINDSFLEISCHBÄLLCHEN",
+              "description": "Traditional Bowl · Tomatensauce, Spaghetti, Geriebener Käse, Ratatouille",
               "price": null,
               "tags": []
             },
             {
-              "title": "RINDS LASAGNE",
-              "description": "Soul Food · Menü Salat",
+              "title": "KALBSBRATWURST",
+              "description": "Soul Food · Kartoffel Kroketten, Marktgemüse, Zwiebel Sauce mit Thymian",
               "price": null,
               "tags": []
             }
@@ -243,22 +261,22 @@
         "fr": {
           "items": [
             {
-              "title": "PENNE ALL'ARRABIATA",
-              "description": "Veggie Bowl · Tomaten, Peperoni, Chili, Reibkäse, Menüsalat",
+              "title": "GEMÜSE FRÜHLINGSROLLEN",
+              "description": "Veggie Bowl · Sweet Chili Sauce, Gebratener Reis, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "CEVAPCICI",
-              "description": "Traditional Bowl · Ajvar sauce, Djuvec-Reis",
+              "title": "RINDSFLEISCHBÄLLCHEN",
+              "description": "Traditional Bowl · Tomatensauce, Spaghetti, Geriebener Käse, Ratatouille",
               "price": null,
               "tags": []
             },
             {
-              "title": "RINDS LASAGNE",
-              "description": "Soul Food · Menü Salat",
+              "title": "KALBSBRATWURST",
+              "description": "Soul Food · Kartoffel Kroketten, Marktgemüse, Zwiebel Sauce mit Thymian",
               "price": null,
               "tags": []
             }
@@ -267,22 +285,22 @@
         "en": {
           "items": [
             {
-              "title": "PENNE ALL'ARRABIATA",
-              "description": "Veggie Bowl · Tomatoes, peppers, chilli, grated cheese, menu salad",
+              "title": "VEGETABLE SPRING ROLLS",
+              "description": "Veggie Bowl · Sweet Chili Sauce, Fried Rice, Menu Salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "CEVAPCICI",
-              "description": "Traditional Bowl · Ajvar sauce, Djuvec rice",
+              "title": "Beef balls",
+              "description": "Traditional bowl · Tomato sauce, spaghetti, grated cheese, ratatouille",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEF LASAGNA",
-              "description": "Soul Food · Salad Menu",
+              "title": "Veal roast sausage",
+              "description": "Soul Food · Potato croquettes, market vegetables, onion sauce with thyme",
               "price": null,
               "tags": []
             }
