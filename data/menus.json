@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T14:17:15+00:00",
-  "date": "2026-10-05",
-  "weekday": "monday",
+  "generated_at": "2026-10-06T13:10:52+00:00",
+  "date": "2026-10-06",
+  "weekday": "tuesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Mediterrane Polenta Bowl",
-              "description": "Mediterrane Polenta Bowl Kräuterpolenta, Grillierte Aubergine, Zucchetti, Confierte Cherrytomate, Weisse Bohnen, Zitronen Ricotta, Pinienkerne",
+              "title": "Tomaten-Tikka-Masala (vegan)",
+              "description": "Hausgemachte Tikka-Paste, Kokosmilch, Basmatireis, Chinakohlsalat, Limettenjoghurt, Planted., Erdnuss Crunch",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Mediterranean Polenta Bowl",
-              "description": "Herbed Polenta, Grilled Eggplant, Zucchini, Confit Cherry Tomatoes, White Beans, Lemon Ricotta, Pine Nuts",
+              "title": "Tomato-Tikka-Masala (vegan)",
+              "description": "Homemade Tikka Paste, Coconut Milk, Basmati Rice, Chinese Cabbage Salad, Peanut Crunch, Lime Yoghurt, Planted.",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Bol de polenta méditerranéen",
-              "description": "Bol de polenta méditerranéen Polenta aux herbes, aubergine grillée, courgettes, tomate cerise confite, haricots blancs, ricotta au citron, pignons de pin",
+              "title": "Tikka-masala à la tomate (végétalien)",
+              "description": "Pâte de tikka maison, lait de coco, riz basmati, salade de chou chinois, yaourt au citron vert, planted., crunch aux arachides",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,7 +88,7 @@
         "de": {
           "items": [
             {
-              "title": "Kürbis-Tajine mit Linsen, Süsskartoffeln Datteln & Koriander",
+              "title": "Gebackene Polenta mit Tomatensugo Krautstiel & sautierten Pilzen",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +98,7 @@
         "en": {
           "items": [
             {
-              "title": "Pumpkin tagine with lentils, sweet potatoes, dates & coriander",
+              "title": "Baked polenta with tomato sauce herb stalk & sautéed mushrooms",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +109,7 @@
         "fr": {
           "items": [
             {
-              "title": "Tajine à la citrouille avec des lentilles, des patates douces, des dattes et de la coriandre",
+              "title": "Polenta cuite au four avec tige de chou Sugo à la tomate et champignons sautés",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "GEMÜSE FRÜHLINGSROLLEN",
-              "description": "Glocal · Sweet Chili Sauce, gebratener Reis, Menüsalat",
+              "title": "KÄSESPÄTZLI",
+              "description": "Glocal · Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "RINDFLEISCHBÄLLCHEN",
-              "description": "Traditional · Tomatensauce, Spaghetti, Ratatouille, geriebener Käse",
+              "title": "SCHWEINESCHNITZEL",
+              "description": "Traditional · Kräutersauce, Petersilienkartoffeln, Rotkraut mit Apfel",
               "price": null,
               "tags": []
             },
@@ -153,16 +159,16 @@
         "fr": {
           "items": [
             {
-              "title": "Frühlingsrollen mit Gemüse, Port. 140g",
-              "description": "Glocal · Sweet chili sauce (Sauce aigre douce), Gebratener Reis / Fried Rice, Menüsalat mit Knorr",
+              "title": "Käse Spätzli vegetarisch, Port. 400g",
+              "description": "Glocal · Menüsalat mit Knorr",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Rinds Meatballs Spiess, Port. 150g",
-              "description": "Traditional · Tomaten Sauce, Teigwaren Spaghetti gekocht vegan, Grande Capo, Fromage italien à pâte dure, Ratatouille",
+              "title": "Schweine Schnitzel Gebraten",
+              "description": "Traditional · Rotwein Sauce Basis Demi Glace, Salz Kartoffeln / Dampf Kartoffeln, Chou rouge à la pomme et à l’oignon",
               "price": null,
               "tags": []
             },
@@ -183,16 +189,16 @@
         "en": {
           "items": [
             {
-              "title": "VEGETABLE SPRING ROLLS",
-              "description": "Glocal · Sweet chili sauce, fried rice, menu salad",
+              "title": "Cheese patties",
+              "description": "Glocal · Menu salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Beef balls",
-              "description": "Traditional · Tomato sauce, spaghetti, ratatouille, grated cheese",
+              "title": "Escalopes",
+              "description": "Traditional · Herbal sauce, parsley potatoes, red cabbage with apple",
               "price": null,
               "tags": []
             },
@@ -237,22 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "GEMÜSE FRÜHLINGSROLLEN",
-              "description": "Veggie Bowl · Sweet Chili Sauce, Gebratener Reis, Menüsalat",
+              "title": "KÄSESPÄTZLI",
+              "description": "Veggie Bowl · Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "RINDSFLEISCHBÄLLCHEN",
-              "description": "Traditional Bowl · Tomatensauce, Spaghetti, Geriebener Käse, Ratatouille",
+              "title": "SCHWEINSCHNITZEL",
+              "description": "Traditional Bowl · Kräutersauce, Petersilienkartoffeln, Apfelrotkraut",
               "price": null,
               "tags": []
             },
             {
-              "title": "KALBSBRATWURST",
-              "description": "Soul Food · Kartoffel Kroketten, Marktgemüse, Zwiebel Sauce mit Thymian",
+              "title": "RED THAI CURRY",
+              "description": "Soul Food · mit Poulet und Gemüse, Jasmin Reis, Koriander, Sojasprossen und Limette",
               "price": null,
               "tags": []
             }
@@ -261,22 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "GEMÜSE FRÜHLINGSROLLEN",
-              "description": "Veggie Bowl · Sweet Chili Sauce, Gebratener Reis, Menüsalat",
+              "title": "KÄSESPÄTZLI",
+              "description": "Veggie Bowl · Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "RINDSFLEISCHBÄLLCHEN",
-              "description": "Traditional Bowl · Tomatensauce, Spaghetti, Geriebener Käse, Ratatouille",
+              "title": "SCHWEINSCHNITZEL",
+              "description": "Traditional Bowl · Kräutersauce, Petersilienkartoffeln, Apfelrotkraut",
               "price": null,
               "tags": []
             },
             {
-              "title": "KALBSBRATWURST",
-              "description": "Soul Food · Kartoffel Kroketten, Marktgemüse, Zwiebel Sauce mit Thymian",
+              "title": "RED THAI CURRY",
+              "description": "Soul Food · mit Poulet und Gemüse, Jasmin Reis, Koriander, Sojasprossen und Limette",
               "price": null,
               "tags": []
             }
@@ -285,22 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "VEGETABLE SPRING ROLLS",
-              "description": "Veggie Bowl · Sweet Chili Sauce, Fried Rice, Menu Salad",
+              "title": "Cheese patties",
+              "description": "Veggie Bowl · Menu Salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Beef balls",
-              "description": "Traditional bowl · Tomato sauce, spaghetti, grated cheese, ratatouille",
+              "title": "Pork chip",
+              "description": "Traditional Bowl · Herbal sauce, parsley potatoes, apple red cabbage",
               "price": null,
               "tags": []
             },
             {
-              "title": "Veal roast sausage",
-              "description": "Soul Food · Potato croquettes, market vegetables, onion sauce with thyme",
+              "title": "RED THAI CURRY",
+              "description": "Soul Food · with chicken and vegetables, jasmine rice, coriander, soybean sprouts and lime",
               "price": null,
               "tags": []
             }
