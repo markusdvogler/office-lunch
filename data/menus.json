@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T13:10:52+00:00",
-  "date": "2026-10-06",
-  "weekday": "tuesday",
+  "generated_at": "2026-10-07T13:07:11+00:00",
+  "date": "2026-10-07",
+  "weekday": "wednesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Tomaten-Tikka-Masala (vegan)",
-              "description": "Hausgemachte Tikka-Paste, Kokosmilch, Basmatireis, Chinakohlsalat, Limettenjoghurt, Planted., Erdnuss Crunch",
+              "title": "Loaded Potato",
+              "description": "Gebackenes Gemüse, Confierte Cherrytomaten, Roter Coleslaw, Chipotle Sour Cream, Cheddar, Weisse Bohnen",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Tomato-Tikka-Masala (vegan)",
-              "description": "Homemade Tikka Paste, Coconut Milk, Basmati Rice, Chinese Cabbage Salad, Peanut Crunch, Lime Yoghurt, Planted.",
+              "title": "Loaded Potato",
+              "description": "Baked Vegetables, Confit Cherry Tomatoes, Red Coleslaw, Chipotle Sour Cream, Cheddar, White Beans",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Tikka-masala à la tomate (végétalien)",
-              "description": "Pâte de tikka maison, lait de coco, riz basmati, salade de chou chinois, yaourt au citron vert, planted., crunch aux arachides",
+              "title": "Loaded Potato",
+              "description": "Légumes au four, tomates cerises confites, coleslaw rouge, chipotle sour cream, cheddar, haricots blancs",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,9 +82,17 @@
         "de": {
           "items": [
             {
-              "title": "Gebackene Polenta mit Tomatensugo Krautstiel & sautierten Pilzen",
+              "title": "Hausgemachter Burger mit Kidney-Bohnen Bergkäse & Rotkraut Cole-Slaw",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Hausgemachter Burger mit Rindfleisch Bergkäse & Rotkraut Cole-Slaw",
+              "description": "inkl. Salat oder Suppe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -98,9 +100,17 @@
         "en": {
           "items": [
             {
-              "title": "Baked polenta with tomato sauce herb stalk & sautéed mushrooms",
+              "title": "Homemade Burger with Kidney Beans Mountain Cheese & Red Herb Cole-Slaw",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Homemade burger with beef mountain cheese & red cabbage Cole-Slaw",
+              "description": "incl. salad or soup",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -109,9 +119,17 @@
         "fr": {
           "items": [
             {
-              "title": "Polenta cuite au four avec tige de chou Sugo à la tomate et champignons sautés",
+              "title": "Burger maison aux haricots rouges Fromage de montagne & chou rouge Cole-Slaw",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Burger maison au bœuf Fromage de montagne & chou rouge Cole-Slaw",
+              "description": "incl. salade ou soupe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -129,16 +147,16 @@
         "de": {
           "items": [
             {
-              "title": "KÄSESPÄTZLI",
-              "description": "Glocal · Menüsalat",
+              "title": "GEMÜSELASAGNE",
+              "description": "Glocal · Peperonata Sauce, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SCHWEINESCHNITZEL",
-              "description": "Traditional · Kräutersauce, Petersilienkartoffeln, Rotkraut mit Apfel",
+              "title": "BURGUNDER ART",
+              "description": "Traditional · Rindsragout, Champignons, Perlzwiebeln, Polenta mit Majoran, Broccoli",
               "price": null,
               "tags": []
             },
@@ -159,16 +177,16 @@
         "fr": {
           "items": [
             {
-              "title": "Käse Spätzli vegetarisch, Port. 400g",
-              "description": "Glocal · Menüsalat mit Knorr",
+              "title": "Gemüse Lasagne",
+              "description": "Glocal · Pepronata sauce, Menüsalat mit Knorr",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Schweine Schnitzel Gebraten",
-              "description": "Traditional · Rotwein Sauce Basis Demi Glace, Salz Kartoffeln / Dampf Kartoffeln, Chou rouge à la pomme et à l’oignon",
+              "title": "Rinds Ragout Burgunder Art, Port. 200g",
+              "description": "Traditional · Polenta Bramata mit Majoran, Broccoli gedämpft",
               "price": null,
               "tags": []
             },
@@ -189,16 +207,16 @@
         "en": {
           "items": [
             {
-              "title": "Cheese patties",
-              "description": "Glocal · Menu salad",
+              "title": "Vegetable lasagne",
+              "description": "Glocal · Peperonata sauce, menu salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Escalopes",
-              "description": "Traditional · Herbal sauce, parsley potatoes, red cabbage with apple",
+              "title": "BURGUNDY STYLE",
+              "description": "Traditional · Beef ragout, mushrooms, pearl onions, polenta with marjoram, broccoli",
               "price": null,
               "tags": []
             },
@@ -243,22 +261,22 @@
         "de": {
           "items": [
             {
-              "title": "KÄSESPÄTZLI",
-              "description": "Veggie Bowl · Menüsalat",
+              "title": "GEMÜSELASAGNE",
+              "description": "Veggie Bowl · Peperonatasauce, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SCHWEINSCHNITZEL",
-              "description": "Traditional Bowl · Kräutersauce, Petersilienkartoffeln, Apfelrotkraut",
+              "title": "BURGUNDER ART",
+              "description": "Traditional Bowl · Rindsragout, Champignons, Perlzwiebeln, Majoran Polenta, Broccoli",
               "price": null,
               "tags": []
             },
             {
-              "title": "RED THAI CURRY",
-              "description": "Soul Food · mit Poulet und Gemüse, Jasmin Reis, Koriander, Sojasprossen und Limette",
+              "title": "SCHWEINE GESCHNETZELTES GYROS",
+              "description": "Soul Food · Bulgur, Ofengemüse, Minz Dip",
               "price": null,
               "tags": []
             }
@@ -267,22 +285,22 @@
         "fr": {
           "items": [
             {
-              "title": "KÄSESPÄTZLI",
-              "description": "Veggie Bowl · Menüsalat",
+              "title": "GEMÜSELASAGNE",
+              "description": "Veggie Bowl · Peperonatasauce, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SCHWEINSCHNITZEL",
-              "description": "Traditional Bowl · Kräutersauce, Petersilienkartoffeln, Apfelrotkraut",
+              "title": "BURGUNDER ART",
+              "description": "Traditional Bowl · Rindsragout, Champignons, Perlzwiebeln, Majoran Polenta, Broccoli",
               "price": null,
               "tags": []
             },
             {
-              "title": "RED THAI CURRY",
-              "description": "Soul Food · mit Poulet und Gemüse, Jasmin Reis, Koriander, Sojasprossen und Limette",
+              "title": "SCHWEINE GESCHNETZELTES GYROS",
+              "description": "Soul Food · Bulgur, Ofengemüse, Minz Dip",
               "price": null,
               "tags": []
             }
@@ -291,22 +309,22 @@
         "en": {
           "items": [
             {
-              "title": "Cheese patties",
-              "description": "Veggie Bowl · Menu Salad",
+              "title": "Vegetable lasagne",
+              "description": "Veggie Bowl · Pepperonata sauce, menu salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Pork chip",
-              "description": "Traditional Bowl · Herbal sauce, parsley potatoes, apple red cabbage",
+              "title": "BURGUNDY STYLE",
+              "description": "Traditional Bowl · Beef ragout, mushrooms, pearl onions, marjoram polenta, broccoli",
               "price": null,
               "tags": []
             },
             {
-              "title": "RED THAI CURRY",
-              "description": "Soul Food · with chicken and vegetables, jasmine rice, coriander, soybean sprouts and lime",
+              "title": "PORK SHREDDED GYRO",
+              "description": "Soul Food · Bulgur, Oven Vegetables, Mint Dip",
               "price": null,
               "tags": []
             }
