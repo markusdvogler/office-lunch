@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T13:07:11+00:00",
-  "date": "2026-10-07",
-  "weekday": "wednesday",
+  "generated_at": "2026-10-08T13:13:21+00:00",
+  "date": "2026-10-08",
+  "weekday": "thursday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Loaded Potato",
-              "description": "Gebackenes Gemüse, Confierte Cherrytomaten, Roter Coleslaw, Chipotle Sour Cream, Cheddar, Weisse Bohnen",
+              "title": "Japanisches Aubergine Katsu (vegan)",
+              "description": "Curry, Jasmin Reis, Spitzkohl, Karotten, Eingelegter Ingwer, Edamame",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Loaded Potato",
-              "description": "Baked Vegetables, Confit Cherry Tomatoes, Red Coleslaw, Chipotle Sour Cream, Cheddar, White Beans",
+              "title": "Japanese Eggplant Katsu (vegan)",
+              "description": "Curry, Jasmine Rice, Pointed Cabbage, Carrots, Pickled Ginger, Edamame",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Loaded Potato",
-              "description": "Légumes au four, tomates cerises confites, coleslaw rouge, chipotle sour cream, cheddar, haricots blancs",
+              "title": "Aubergine japonaise Katsu (vegan)",
+              "description": "Curry, riz au jasmin, chou pointu, carottes, gingembre mariné, edamame",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,17 +88,9 @@
         "de": {
           "items": [
             {
-              "title": "Hausgemachter Burger mit Kidney-Bohnen Bergkäse & Rotkraut Cole-Slaw",
+              "title": "Hausgemachte Falafel mit Erbsenpürée Jogurt & Minze",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Hausgemachter Burger mit Rindfleisch Bergkäse & Rotkraut Cole-Slaw",
-              "description": "inkl. Salat oder Suppe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -100,17 +98,9 @@
         "en": {
           "items": [
             {
-              "title": "Homemade Burger with Kidney Beans Mountain Cheese & Red Herb Cole-Slaw",
+              "title": "Homemade falafel with pea puree yogurt & mint",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Homemade burger with beef mountain cheese & red cabbage Cole-Slaw",
-              "description": "incl. salad or soup",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -119,17 +109,9 @@
         "fr": {
           "items": [
             {
-              "title": "Burger maison aux haricots rouges Fromage de montagne & chou rouge Cole-Slaw",
+              "title": "Falafel maison avec purée de petits pois Yaourt & Menthe",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Burger maison au bœuf Fromage de montagne & chou rouge Cole-Slaw",
-              "description": "incl. salade ou soupe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -147,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "GEMÜSELASAGNE",
-              "description": "Glocal · Peperonata Sauce, Menüsalat",
+              "title": "MASSAMAN CURRY",
+              "description": "Glocal · Gemüse, geräucherter Tofu, Pak-Choi, Jasminreis, Koriander",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "BURGUNDER ART",
-              "description": "Traditional · Rindsragout, Champignons, Perlzwiebeln, Polenta mit Majoran, Broccoli",
+              "title": "GEBRATENES DORSCHFILET",
+              "description": "Traditional · Couscous, Auberginen, Karotten, Zimt, Kreuzkümmel, Dörraprikosen",
               "price": null,
               "tags": []
             },
@@ -177,16 +159,16 @@
         "fr": {
           "items": [
             {
-              "title": "Gemüse Lasagne",
-              "description": "Glocal · Pepronata sauce, Menüsalat mit Knorr",
+              "title": "Kartoffel Gemüse Curry Massaman vegan",
+              "description": "Glocal · Tofu, fumé, Jasmin Reis gedämpft, Coriandre, frais",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Rinds Ragout Burgunder Art, Port. 200g",
-              "description": "Traditional · Polenta Bramata mit Majoran, Broccoli gedämpft",
+              "title": "Gebratenes Dorsch Filet",
+              "description": "Traditional · Tajine Kichererbsen Auberginen Dörraprikosen, Couscous",
               "price": null,
               "tags": []
             },
@@ -207,16 +189,16 @@
         "en": {
           "items": [
             {
-              "title": "Vegetable lasagne",
-              "description": "Glocal · Peperonata sauce, menu salad",
+              "title": "MASSAMAN CURRY",
+              "description": "Glocal · Vegetables, smoked tofu, pak choi, jasmine rice, coriander",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "BURGUNDY STYLE",
-              "description": "Traditional · Beef ragout, mushrooms, pearl onions, polenta with marjoram, broccoli",
+              "title": "ROASTED THRESHING FILLET",
+              "description": "Traditional · Couscous, eggplants, carrots, cinnamon, cumin, dried raspberries",
               "price": null,
               "tags": []
             },
@@ -261,22 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "GEMÜSELASAGNE",
-              "description": "Veggie Bowl · Peperonatasauce, Menüsalat",
+              "title": "MASSAMAN CURRY",
+              "description": "Veggie Bowl · Geräucherter Tofu, Pakchoi, Jasminreis, Koriander",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "BURGUNDER ART",
-              "description": "Traditional Bowl · Rindsragout, Champignons, Perlzwiebeln, Majoran Polenta, Broccoli",
+              "title": "GEBRATENES DORSCHFILET",
+              "description": "Traditional Bowl · Couscous, Auberginen, Karotten, Zimt, Kreuzkümmel, Dörraprikosen",
               "price": null,
               "tags": []
             },
             {
-              "title": "SCHWEINE GESCHNETZELTES GYROS",
-              "description": "Soul Food · Bulgur, Ofengemüse, Minz Dip",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -285,22 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "GEMÜSELASAGNE",
-              "description": "Veggie Bowl · Peperonatasauce, Menüsalat",
+              "title": "MASSAMAN CURRY",
+              "description": "Veggie Bowl · Geräucherter Tofu, Pakchoi, Jasminreis, Koriander",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "BURGUNDER ART",
-              "description": "Traditional Bowl · Rindsragout, Champignons, Perlzwiebeln, Majoran Polenta, Broccoli",
+              "title": "GEBRATENES DORSCHFILET",
+              "description": "Traditional Bowl · Couscous, Auberginen, Karotten, Zimt, Kreuzkümmel, Dörraprikosen",
               "price": null,
               "tags": []
             },
             {
-              "title": "SCHWEINE GESCHNETZELTES GYROS",
-              "description": "Soul Food · Bulgur, Ofengemüse, Minz Dip",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -309,22 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "Vegetable lasagne",
-              "description": "Veggie Bowl · Pepperonata sauce, menu salad",
+              "title": "MASSAMAN CURRY",
+              "description": "Veggie Bowl · Smoked Tofu, Pakchoi, Jasmine Rice, Coriander",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "BURGUNDY STYLE",
-              "description": "Traditional Bowl · Beef ragout, mushrooms, pearl onions, marjoram polenta, broccoli",
+              "title": "ROASTED THRESHING FILLET",
+              "description": "Traditional Bowl · Couscous, eggplant, carrot, cinnamon, cumin, dried rape",
               "price": null,
               "tags": []
             },
             {
-              "title": "PORK SHREDDED GYRO",
-              "description": "Soul Food · Bulgur, Oven Vegetables, Mint Dip",
+              "title": "BEEFBURGER",
+              "description": "Soul food · with bacon and cheddar, French fries",
               "price": null,
               "tags": []
             }
