@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T13:13:21+00:00",
-  "date": "2026-10-08",
-  "weekday": "thursday",
+  "generated_at": "2026-10-09T12:59:51+00:00",
+  "date": "2026-10-09",
+  "weekday": "friday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Japanisches Aubergine Katsu (vegan)",
-              "description": "Curry, Jasmin Reis, Spitzkohl, Karotten, Eingelegter Ingwer, Edamame",
+              "title": "Greek Bowl",
+              "description": "Zucchetti Halloumi Fritters, Vollreis, Tzatziki, Gehobelte Rote Zwiebeln, Gurken, Kalamata Oliven, Pita Brot",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Japanese Eggplant Katsu (vegan)",
-              "description": "Curry, Jasmine Rice, Pointed Cabbage, Carrots, Pickled Ginger, Edamame",
+              "title": "Greek Bowl",
+              "description": "Zucchini Halloumi Fritters, Brown Rice, Tzatziki, Sliced Red Onions, Cucumbers, Kalamata Olives, Pita Bread",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Aubergine japonaise Katsu (vegan)",
-              "description": "Curry, riz au jasmin, chou pointu, carottes, gingembre mariné, edamame",
+              "title": "Greek Bowl",
+              "description": "Courgettes Halloumi Fritters, riz complet, tzatziki, oignons rouges rabotés, concombres, olives Kalamata, pain pita",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Hausgemachte Falafel mit Erbsenpürée Jogurt & Minze",
+              "title": "Rigatoni mit Blauschimmelkäse Rosenkohl & gerösteten Haselnüssen",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -98,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Homemade falafel with pea puree yogurt & mint",
+              "title": "Rigatoni with blue cheese Brussels sprouts & roasted hazelnuts",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -109,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Falafel maison avec purée de petits pois Yaourt & Menthe",
+              "title": "Rigatoni au fromage bleu Choux de Bruxelles et noisettes grillées",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -118,7 +112,7 @@
           "translated_from": "de"
         }
       },
-      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-40.pdf",
+      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-42.pdf",
       "error": null
     },
     {
@@ -129,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "MASSAMAN CURRY",
-              "description": "Glocal · Gemüse, geräucherter Tofu, Pak-Choi, Jasminreis, Koriander",
+              "title": "PASTAGRATIN",
+              "description": "Glocal · Gemüse, mit Käse überbacken, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "GEBRATENES DORSCHFILET",
-              "description": "Traditional · Couscous, Auberginen, Karotten, Zimt, Kreuzkümmel, Dörraprikosen",
+              "title": "FISH & CHIPS",
+              "description": "Traditional · Seehecht im Bierteig, grüne Erbsen, Pommes frites, Tartarsauce",
               "price": null,
               "tags": []
             },
@@ -147,28 +141,22 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate und warme Toppings",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "FISH & CHIPS",
-              "description": "Weekly Special · Seehecht im Bierteig, grüne Erbsen, Pommes frites, Tartarsauce",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Kartoffel Gemüse Curry Massaman vegan",
-              "description": "Glocal · Tofu, fumé, Jasmin Reis gedämpft, Coriandre, frais",
+              "title": "Pastagratin mit Gemüse und Bergkäse",
+              "description": "Glocal · Gemüse, mit Käse überbacken, Menüsalat mit Knorr",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Gebratenes Dorsch Filet",
-              "description": "Traditional · Tajine Kichererbsen Auberginen Dörraprikosen, Couscous",
+              "title": "Fischknusperli Seehecht, 160g Port",
+              "description": "Traditional · Erbsen, Pommes frites, Tartarsauce dick",
               "price": null,
               "tags": []
             },
@@ -177,40 +165,28 @@
               "description": "Salate · Salade de betterave rouge, Salade de carottes, Salade de concombre à l’aneth, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Fischknusperli Seehecht, 160g Port",
-              "description": "Weekly Special · Erbsen, Pommes frites, Tartarsauce dick",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "MASSAMAN CURRY",
-              "description": "Glocal · Vegetables, smoked tofu, pak choi, jasmine rice, coriander",
+              "title": "PASTAGRATIN",
+              "description": "Glocal · Vegetables, scalloped with cheese, menu salad",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "ROASTED THRESHING FILLET",
-              "description": "Traditional · Couscous, eggplants, carrots, cinnamon, cumin, dried raspberries",
+              "title": "FISH & CHIPS",
+              "description": "Traditional · Hake in beer dough, green peas, French fries, tartar sauce",
               "price": null,
               "tags": []
             },
             {
               "title": "Seasonal salad bar: tell us",
               "description": "Salads · what you want on your plate!, leaf lettuce, homemade salads and warm toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "FISH & CHIPS",
-              "description": "Weekly Special · Hake in beer dough, green peas, French fries, tartar sauce",
               "price": null,
               "tags": []
             }
@@ -243,22 +219,16 @@
         "de": {
           "items": [
             {
-              "title": "MASSAMAN CURRY",
-              "description": "Veggie Bowl · Geräucherter Tofu, Pakchoi, Jasminreis, Koriander",
+              "title": "Gemüsepizza",
+              "description": "Veggie Bowl · Ruccola, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "GEBRATENES DORSCHFILET",
-              "description": "Traditional Bowl · Couscous, Auberginen, Karotten, Zimt, Kreuzkümmel, Dörraprikosen",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
+              "title": "CHICKEN NUGGETS",
+              "description": "Traditional Bowl · Ketchup, Mayonnaise, Pommes frites, Menüsalat",
               "price": null,
               "tags": []
             }
@@ -267,22 +237,16 @@
         "fr": {
           "items": [
             {
-              "title": "MASSAMAN CURRY",
-              "description": "Veggie Bowl · Geräucherter Tofu, Pakchoi, Jasminreis, Koriander",
+              "title": "Gemüsepizza",
+              "description": "Veggie Bowl · Ruccola, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "GEBRATENES DORSCHFILET",
-              "description": "Traditional Bowl · Couscous, Auberginen, Karotten, Zimt, Kreuzkümmel, Dörraprikosen",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
+              "title": "CHICKEN NUGGETS",
+              "description": "Traditional Bowl · Ketchup, Mayonnaise, Pommes frites, Menüsalat",
               "price": null,
               "tags": []
             }
@@ -291,22 +255,16 @@
         "en": {
           "items": [
             {
-              "title": "MASSAMAN CURRY",
-              "description": "Veggie Bowl · Smoked Tofu, Pakchoi, Jasmine Rice, Coriander",
+              "title": "Vegetable pizza",
+              "description": "Veggie Bowl · Rocket, Menu Salad",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "ROASTED THRESHING FILLET",
-              "description": "Traditional Bowl · Couscous, eggplant, carrot, cinnamon, cumin, dried rape",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "BEEFBURGER",
-              "description": "Soul food · with bacon and cheddar, French fries",
+              "title": "CHICKEN NUGGETS",
+              "description": "Traditional Bowl · Ketchup, Mayonnaise, French Fries, Menu Salad",
               "price": null,
               "tags": []
             }
