@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T12:59:51+00:00",
-  "date": "2026-10-09",
-  "weekday": "friday",
+  "generated_at": "2026-10-12T15:05:25+00:00",
+  "date": "2026-10-12",
+  "weekday": "monday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Greek Bowl",
-              "description": "Zucchetti Halloumi Fritters, Vollreis, Tzatziki, Gehobelte Rote Zwiebeln, Gurken, Kalamata Oliven, Pita Brot",
+              "title": "Green Goddess Gnocchi",
+              "description": "Kartoffelgnocchi, Erbsencreme, Bimi-Broccoli, Burrata, Zitronenöl, Pistazien",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Greek Bowl",
-              "description": "Zucchini Halloumi Fritters, Brown Rice, Tzatziki, Sliced Red Onions, Cucumbers, Kalamata Olives, Pita Bread",
+              "title": "Green Goddess Gnocchi",
+              "description": "Potato Gnocchi, Pea Cream, Bimi Broccoli, Burrata, Lemon Oil, Pistachios",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Greek Bowl",
-              "description": "Courgettes Halloumi Fritters, riz complet, tzatziki, oignons rouges rabotés, concombres, olives Kalamata, pain pita",
+              "title": "Gnocchi Green Goddess",
+              "description": "Gnocchi de pomme de terre, crème de pois, bimi brocoli, burrata, huile de citron, pistaches",
               "price": null,
               "tags": []
             }
@@ -82,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Rigatoni mit Blauschimmelkäse Rosenkohl & gerösteten Haselnüssen",
+              "title": "Süsskartoffel-Stampf mit Wurzelgemüse Röstzwiebeln & Granatapfel-Salsa",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Rigatoni with blue cheese Brussels sprouts & roasted hazelnuts",
+              "title": "Sweet potato mashed with root vegetables Roasted onions & pomegranate salsa",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Rigatoni au fromage bleu Choux de Bruxelles et noisettes grillées",
+              "title": "Purée de patates douces et légumes-racines Oignons frits et salsa de grenade",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "PASTAGRATIN",
-              "description": "Glocal · Gemüse, mit Käse überbacken, Menüsalat",
+              "title": "AFRIKANISCHER ERDNUSSEINTOPF",
+              "description": "Glocal · Blumenkohl, marinierter Rotkohl, Jasminreis, Menüsalat",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "FISH & CHIPS",
-              "description": "Traditional · Seehecht im Bierteig, grüne Erbsen, Pommes frites, Tartarsauce",
+              "title": "RINDSHACKSTEAK",
+              "description": "Traditional · grüne Pfeffersauce, Stampfkartoffeln, Karotten",
               "price": null,
               "tags": []
             },
@@ -141,28 +141,40 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate und warme Toppings",
               "price": null,
               "tags": []
+            },
+            {
+              "title": "KAARAGE",
+              "description": "Weekly Special · Japanese Fried Chicken, Sushi Reis, Röstzwiebeln, scharfer Dip",
+              "price": null,
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Pastagratin mit Gemüse und Bergkäse",
-              "description": "Glocal · Gemüse, mit Käse überbacken, Menüsalat mit Knorr",
+              "title": "Afrikanischer Erdnusseintopf",
+              "description": "Glocal · Blumenkohl gebraten für Bowl, 03_02 Jasmin Reis, Marinierter Rotkohl, Tortilla de blé / Wrap 95g, Menüsalat mit Knorr",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Fischknusperli Seehecht, 160g Port",
-              "description": "Traditional · Erbsen, Pommes frites, Tartarsauce dick",
+              "title": "Rinds Burger Hamburger Patty 120gr",
+              "description": "Traditional · Grüne Pfeffer Sauce, Stampfkartoffeln vegetarisch, Karotten glasiert mit Petersilie",
               "price": null,
               "tags": []
             },
             {
               "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Salade de betterave rouge, Salade de carottes, Salade de concombre à l’aneth, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "description": "Salate · Salade de carottes, Salade de betterave rouge, Salade de concombre à l’aneth, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Riz pour sushi",
+              "description": "Weekly Special · Kaarage Chicken, Sauce cocktail, Oignons frits",
               "price": null,
               "tags": []
             }
@@ -171,22 +183,28 @@
         "en": {
           "items": [
             {
-              "title": "PASTAGRATIN",
-              "description": "Glocal · Vegetables, scalloped with cheese, menu salad",
+              "title": "AFRICAN PEANUT STEW",
+              "description": "Glocal · Cauliflower, marinated red cabbage, jasmine rice, menu salad",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "FISH & CHIPS",
-              "description": "Traditional · Hake in beer dough, green peas, French fries, tartar sauce",
+              "title": "Beef steak",
+              "description": "Traditional · green pepper sauce, mashed potatoes, carrots",
               "price": null,
               "tags": []
             },
             {
               "title": "Seasonal salad bar: tell us",
               "description": "Salads · what you want on your plate!, leaf lettuce, homemade salads and warm toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "KAARAGE",
+              "description": "Weekly Special · Japanese Fried Chicken, Sushi Rice, Roasted Onions, Spicy Dip",
               "price": null,
               "tags": []
             }
@@ -219,54 +237,78 @@
         "de": {
           "items": [
             {
-              "title": "Gemüsepizza",
-              "description": "Veggie Bowl · Ruccola, Menüsalat",
+              "title": "AFRIKANISCHER ERDNUSSEINTOPF",
+              "description": "Veggie Bowl · Blumenkohl,  Jasminreis, marinierter Rotkohl,  Menüsalat",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "CHICKEN NUGGETS",
-              "description": "Traditional Bowl · Ketchup, Mayonnaise, Pommes frites, Menüsalat",
+              "title": "RINDSHACKSTEAK",
+              "description": "Traditional Bowl · Grüne Pfeffersauce, Stampfkartoffeln, Karotten",
               "price": null,
               "tags": []
+            },
+            {
+              "title": "FUSILLI",
+              "description": "Soul Food · Pouletgeschnetzeltes mit Champignon, Rahmsauce, Erbsen",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Gemüsepizza",
-              "description": "Veggie Bowl · Ruccola, Menüsalat",
+              "title": "AFRIKANISCHER ERDNUSSEINTOPF",
+              "description": "Veggie Bowl · Blumenkohl,  Jasminreis, marinierter Rotkohl,  Menüsalat",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "CHICKEN NUGGETS",
-              "description": "Traditional Bowl · Ketchup, Mayonnaise, Pommes frites, Menüsalat",
+              "title": "RINDSHACKSTEAK",
+              "description": "Traditional Bowl · Grüne Pfeffersauce, Stampfkartoffeln, Karotten",
               "price": null,
               "tags": []
+            },
+            {
+              "title": "FUSILLI",
+              "description": "Soul Food · Pouletgeschnetzeltes mit Champignon, Rahmsauce, Erbsen",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Vegetable pizza",
-              "description": "Veggie Bowl · Rocket, Menu Salad",
+              "title": "AFRICAN PEANUT STEW",
+              "description": "Veggie Bowl · Cauliflower,  Jasmine Rice, Marinated Red Cabbage, Menu Salad",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "CHICKEN NUGGETS",
-              "description": "Traditional Bowl · Ketchup, Mayonnaise, French Fries, Menu Salad",
+              "title": "Beef steak",
+              "description": "Traditional Bowl · Green pepper sauce, mashed potatoes, carrots",
               "price": null,
               "tags": []
+            },
+            {
+              "title": "FUSILLI",
+              "description": "Soul Food · Chicken slices with mushroom, cream sauce, peas",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
