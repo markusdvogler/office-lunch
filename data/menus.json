@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T15:05:25+00:00",
-  "date": "2026-10-12",
-  "weekday": "monday",
+  "generated_at": "2026-10-13T13:59:33+00:00",
+  "date": "2026-10-13",
+  "weekday": "tuesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Green Goddess Gnocchi",
-              "description": "Kartoffelgnocchi, Erbsencreme, Bimi-Broccoli, Burrata, Zitronenöl, Pistazien",
+              "title": "DanDan-Nudeln (vegan)",
+              "description": "Mungobohnen-Hack, Ingwer, Knoblauch, Five Spice, Erdnüsse, Chili, Frühlingszwiebeln, Pak Choi, Weizennudeln",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Green Goddess Gnocchi",
-              "description": "Potato Gnocchi, Pea Cream, Bimi Broccoli, Burrata, Lemon Oil, Pistachios",
+              "title": "DanDan Noodles (vegan)",
+              "description": "Mung Bean Mince, Ginger, Garlic, Five Spice, Peanuts, Chili, Spring Onions, Pak Choi, Wheat Noodles",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Gnocchi Green Goddess",
-              "description": "Gnocchi de pomme de terre, crème de pois, bimi brocoli, burrata, huile de citron, pistaches",
+              "title": "Nouilles DanDan (végétaliennes)",
+              "description": "Haricot mungo haché, gingembre, ail, cinq épices, cacahuètes, piment, oignons nouveaux, pak choi, nouilles de blé",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,7 +88,7 @@
         "de": {
           "items": [
             {
-              "title": "Süsskartoffel-Stampf mit Wurzelgemüse Röstzwiebeln & Granatapfel-Salsa",
+              "title": "Kürbis-Schnitze mit geröstetem Buchweizen Orangen-Polenta & Kräuter-Quark",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +98,7 @@
         "en": {
           "items": [
             {
-              "title": "Sweet potato mashed with root vegetables Roasted onions & pomegranate salsa",
+              "title": "Pumpkin slices with roasted buckwheat Orange polenta & herb quark",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +109,7 @@
         "fr": {
           "items": [
             {
-              "title": "Purée de patates douces et légumes-racines Oignons frits et salsa de grenade",
+              "title": "Tranches de citrouille au sarrasin grillé Polenta à l'orange et quark aux herbes",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "AFRIKANISCHER ERDNUSSEINTOPF",
-              "description": "Glocal · Blumenkohl, marinierter Rotkohl, Jasminreis, Menüsalat",
+              "title": "GNOCCHI PFANNE",
+              "description": "Glocal · Pilze, Kürbis, Rosenkohl, Rahm, Greyerzerkäse, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "RINDSHACKSTEAK",
-              "description": "Traditional · grüne Pfeffersauce, Stampfkartoffeln, Karotten",
+              "title": "PASTETLI",
+              "description": "Traditional · Geflügel Brätkügeli, Erbsen, Champignon-Rahmsauce, Nudeln",
               "price": null,
               "tags": []
             },
@@ -153,16 +159,16 @@
         "fr": {
           "items": [
             {
-              "title": "Afrikanischer Erdnusseintopf",
-              "description": "Glocal · Blumenkohl gebraten für Bowl, 03_02 Jasmin Reis, Marinierter Rotkohl, Tortilla de blé / Wrap 95g, Menüsalat mit Knorr",
+              "title": "Kartoffel Gnocchi vegan Kombidampf",
+              "description": "Glocal · Bechamel Milch kalt angerührt, Gruyère, Fromage à pâte dure, râpé, Zwiebeln gebacken, Gebratene Edelpilze Shiitake, Austernseitlinge, Champignon, Kürbis Hokkaido geröstet, Rosenkohl gebraten, Crème entière, UHT, Menüsalat mit Knorr",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Rinds Burger Hamburger Patty 120gr",
-              "description": "Traditional · Grüne Pfeffer Sauce, Stampfkartoffeln vegetarisch, Karotten glasiert mit Petersilie",
+              "title": "Vol au vent / Croûte de pâte feuilletée, végan, 25-30g",
+              "description": "Traditional · Geflügel Brätkügeli Champignon Rahmsauce, Port. 250g, Teigwaren Butter Nudeln gekocht, Erbsen \\\\",
               "price": null,
               "tags": []
             },
@@ -183,16 +189,16 @@
         "en": {
           "items": [
             {
-              "title": "AFRICAN PEANUT STEW",
-              "description": "Glocal · Cauliflower, marinated red cabbage, jasmine rice, menu salad",
+              "title": "GNOCCHI PAN",
+              "description": "Glocal · Mushrooms, pumpkin, Brussels sprouts, cream, Gruyère cheese, menu salad",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Beef steak",
-              "description": "Traditional · green pepper sauce, mashed potatoes, carrots",
+              "title": "PASTETLI",
+              "description": "Traditional · poultry meatballs, peas, mushroom cream sauce, pasta",
               "price": null,
               "tags": []
             },
@@ -237,78 +243,72 @@
         "de": {
           "items": [
             {
-              "title": "AFRIKANISCHER ERDNUSSEINTOPF",
-              "description": "Veggie Bowl · Blumenkohl,  Jasminreis, marinierter Rotkohl,  Menüsalat",
+              "title": "GNOCCHI PFANNE",
+              "description": "Veggie Bowl · Pilze, Kürbis, Rosenkohl, Rahm & Greyerzerkäse, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "RINDSHACKSTEAK",
-              "description": "Traditional Bowl · Grüne Pfeffersauce, Stampfkartoffeln, Karotten",
+              "title": "PASTETLI",
+              "description": "Traditional Bowl · Geflügelbrätkügeli, Champignonrahmsauce, Nudeln, Erbsen",
               "price": null,
               "tags": []
             },
             {
-              "title": "FUSILLI",
-              "description": "Soul Food · Pouletgeschnetzeltes mit Champignon, Rahmsauce, Erbsen",
+              "title": "PANIERTES SCHWEINESCHNITZEL",
+              "description": "Soul Food · Brätler Kartoffeln, Kräuterbohnen, Zitronen Mayonnaise",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "AFRIKANISCHER ERDNUSSEINTOPF",
-              "description": "Veggie Bowl · Blumenkohl,  Jasminreis, marinierter Rotkohl,  Menüsalat",
+              "title": "GNOCCHI PFANNE",
+              "description": "Veggie Bowl · Pilze, Kürbis, Rosenkohl, Rahm & Greyerzerkäse, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "RINDSHACKSTEAK",
-              "description": "Traditional Bowl · Grüne Pfeffersauce, Stampfkartoffeln, Karotten",
+              "title": "PASTETLI",
+              "description": "Traditional Bowl · Geflügelbrätkügeli, Champignonrahmsauce, Nudeln, Erbsen",
               "price": null,
               "tags": []
             },
             {
-              "title": "FUSILLI",
-              "description": "Soul Food · Pouletgeschnetzeltes mit Champignon, Rahmsauce, Erbsen",
+              "title": "PANIERTES SCHWEINESCHNITZEL",
+              "description": "Soul Food · Brätler Kartoffeln, Kräuterbohnen, Zitronen Mayonnaise",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "AFRICAN PEANUT STEW",
-              "description": "Veggie Bowl · Cauliflower,  Jasmine Rice, Marinated Red Cabbage, Menu Salad",
+              "title": "GNOCCHI PAN",
+              "description": "Veggie Bowl · Mushrooms, pumpkin, Brussels sprouts, cream & Gruyère cheese, menu salad",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Beef steak",
-              "description": "Traditional Bowl · Green pepper sauce, mashed potatoes, carrots",
+              "title": "PASTETLI",
+              "description": "Traditional Bowl · poultry meatballs, mushroom cream sauce, pasta, peas",
               "price": null,
               "tags": []
             },
             {
-              "title": "FUSILLI",
-              "description": "Soul Food · Chicken slices with mushroom, cream sauce, peas",
+              "title": "BREADED PORK SCHNITZEL",
+              "description": "Soul Food · Patties Potatoes, Herb Beans, Lemon Mayonnaise",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
