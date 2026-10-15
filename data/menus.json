@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T11:36:12+00:00",
-  "date": "2026-10-14",
-  "weekday": "wednesday",
+  "generated_at": "2026-10-15T11:14:53+00:00",
+  "date": "2026-10-15",
+  "weekday": "thursday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Kürbisrisotto",
-              "description": "Butternuss, Gerösteter Hokkaido, Mascarpone, Hausgemachter Senf, Brunnenkresse",
+              "title": "Baingan Bharta (vegan)",
+              "description": "Gehackte Auberginen, Tomaten, Knoblauch, Erbsen, Koriander, Roti Paratha, Jasminreis, Sprossen, Limette",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Pumpkin Risotto",
-              "description": "Butternut Squash, Roasted Hokkaido Squash, Mascarpone, Homemade Mustard, Watercress",
+              "title": "Baingan Bharta (vegan)",
+              "description": "Minced Eggplant, Tomatoes, Garlic, Peas, Cilantro, Roti Paratha, Jasmine Rice, Sprouts, Lime",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Risotto à la citrouille",
-              "description": "Butternut, Hokkaido grillé, Mascarpone, Moutarde maison, Cresson",
+              "title": "Baingan Bharta (végétalien)",
+              "description": "Aubergines hachées, tomates, ail, pois, coriandre, roti paratha, riz au jasmin, germes, citron vert",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,17 +88,9 @@
         "de": {
           "items": [
             {
-              "title": "Kartoffel-Wirsing-Stock mit Pilz-Ragout Rotwein-Birnen & Parmesan-Chip",
+              "title": "Herbstliches Gemüsecurry mit Basmati sautierten Äpfeln & Kichererbsen",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Rinds-Fleischvogel mit Kartoffel-Wirsing-Stock Rotwein-Birnen & Pilz-Ragout",
-              "description": "inkl. Salat oder Suppe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -100,17 +98,9 @@
         "en": {
           "items": [
             {
-              "title": "Potato Whisper Stick with Mushroom Ragout Red Wine Pears & Parmesan Chip",
+              "title": "Autumnal vegetable curry with Basmati sautéed apples & chickpeas",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Beef bird with potato whirring stick, red wine pears & mushroom ragout",
-              "description": "incl. salad or soup",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -119,17 +109,9 @@
         "fr": {
           "items": [
             {
-              "title": "Bâton de chou frisé de pommes de terre avec ragoût de champignons, poires au vin rouge et chips au parmesan",
+              "title": "Curry de légumes d'automne avec pommes sautées basmati et pois chiches",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Oiseau de viande de bœuf avec bâton de wirsing de pomme de terre Poires au vin rouge et ragoût de champignons",
-              "description": "incl. salade ou soupe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -147,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "PICADILLO",
-              "description": "Glocal · Brewbee Hack, Peperoni, Sultaninen, Karotten, Oliven, Chili, Reis, Sauerrahm, Nachos, Menüsalat",
+              "title": "RICOTTA-SPINAT CANNELLONI",
+              "description": "Glocal · Tomatensauce, Bechamelsauce, Reibkäse, Linsenratatouille",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "WALLISER SCHWEINEHALSBRATEN",
-              "description": "Traditional · Aprikose, Rotweinsauce, Spätzli, Broccoli",
+              "title": "SCHLEMMERFILET BORDELAISE",
+              "description": "Traditional · Marktgemüse, Bulgur mit Kräuter und Zitronen",
               "price": null,
               "tags": []
             },
@@ -177,16 +159,16 @@
         "fr": {
           "items": [
             {
-              "title": "Brewbee Hack Picadillo, Port. 250g",
-              "description": "Glocal · Trockenreis, vegan, Tortilla Chips / Chips de maïs / Nachos, Alternative au créme fraiche, végétale, Citron vert / Limette, Menüsalat mit Knorr",
+              "title": "Tomaten Sauce mit Oregano",
+              "description": "Glocal · Pâtes farcies, épinards-ricotta, Linsen-Ratatouille, Bechamel Vegan kalt angerührt, Grande Capo, Fromage italien à pâte dure, «Flavour-Kitchen» Spinat-Garnitur",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Walliser Schweins Hals Braten mit Aprikosen",
-              "description": "Traditional · Rotwein Sauce Basis Demi Glace, Spätzli vegan, Broccoli",
+              "title": "Filet de poisson au four à la bordelaise (plat cuisiné), 200g",
+              "description": "Traditional · Marktgemüse, Bulgur, Citron / citron vert, Herbes du jardin, vrac",
               "price": null,
               "tags": []
             },
@@ -207,16 +189,16 @@
         "en": {
           "items": [
             {
-              "title": "PICADILLO",
-              "description": "Glocal · Brewbee mince, peppers, sultanas, carrots, olives, chili, rice, sour cream, nachos, menu salad",
+              "title": "RICOTTA SPINACH CANNELLONI",
+              "description": "Glocal · Tomato sauce, bechamel sauce, grated cheese, lentil ratatouille",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "VALAIS PORK NECK ROAST",
-              "description": "Traditional · apricot, red wine sauce, spätzli, broccoli",
+              "title": "BORDELAISE slurry fillet",
+              "description": "Traditional · Market vegetables, bulgur with herbs and lemons",
               "price": null,
               "tags": []
             },
@@ -261,22 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "PICADILLO",
-              "description": "Veggie Bowl · Brewbee Hack, Peperoni, Sultaninen, Karotten, Oliven, Chili,  Reis, Sauerrahm, Nachos, Menüsalat",
+              "title": "CANNELLONI RICOTTA SPINAT",
+              "description": "Veggie Bowl · Tomatensauce, Bechamelsauce, Reibkäse , Linsenratatouille",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "WALLISER SCHWEINHALSBRATEN",
-              "description": "Traditional Bowl · Aprikosenfüllung, Rotweinsauce, Spätzli,   Broccoli",
+              "title": "SCHLEMMERFILET BORDELAISE",
+              "description": "Traditional Bowl · Marktgemüse, Kräuterzitronenbulgur",
               "price": null,
               "tags": []
             },
             {
-              "title": "NASI GORENG",
-              "description": "Soul Food · Poulet, Wok Gemüse,, Ingwer, Zitronengras, Ketjap manis und Sambal Oelek, Erdnüsse, Koriander uznd Limette",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck & Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -285,22 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "PICADILLO",
-              "description": "Veggie Bowl · Brewbee Hack, Peperoni, Sultaninen, Karotten, Oliven, Chili,  Reis, Sauerrahm, Nachos, Menüsalat",
+              "title": "CANNELLONI RICOTTA SPINAT",
+              "description": "Veggie Bowl · Tomatensauce, Bechamelsauce, Reibkäse , Linsenratatouille",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "WALLISER SCHWEINHALSBRATEN",
-              "description": "Traditional Bowl · Aprikosenfüllung, Rotweinsauce, Spätzli,   Broccoli",
+              "title": "SCHLEMMERFILET BORDELAISE",
+              "description": "Traditional Bowl · Marktgemüse, Kräuterzitronenbulgur",
               "price": null,
               "tags": []
             },
             {
-              "title": "NASI GORENG",
-              "description": "Soul Food · Poulet, Wok Gemüse,, Ingwer, Zitronengras, Ketjap manis und Sambal Oelek, Erdnüsse, Koriander uznd Limette",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck & Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -309,22 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "PICADILLO",
-              "description": "Veggie Bowl · Brewbee mince, peppers, sultanas, carrots, olives, chili, rice, sour cream, nachos, menu salad",
+              "title": "CANNELLONI RICOTTA SPINACH",
+              "description": "Veggie Bowl · Tomato sauce, bechamel sauce, grated cheese , lentil ratatouille",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "VALAIS PORK NECK ROAST",
-              "description": "Traditional Bowl · Apricot filling, red wine sauce, spätzli,   broccoli",
+              "title": "BORDELAISE slurry fillet",
+              "description": "Traditional bowl · Market vegetables, herbal lemon bulgur",
               "price": null,
               "tags": []
             },
             {
-              "title": "NASI GORENG",
-              "description": "Soul Food · Chicken, wok vegetables,, ginger, lemongrass, ketjap manis and sambal oelek, peanuts, coriander and lime",
+              "title": "BEEFBURGER",
+              "description": "Soul food · with bacon & cheddar, French fries",
               "price": null,
               "tags": []
             }
