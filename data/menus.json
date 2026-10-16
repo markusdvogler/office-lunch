@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T11:14:53+00:00",
-  "date": "2026-10-15",
-  "weekday": "thursday",
+  "generated_at": "2026-10-16T11:09:30+00:00",
+  "date": "2026-10-16",
+  "weekday": "friday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Baingan Bharta (vegan)",
-              "description": "Gehackte Auberginen, Tomaten, Knoblauch, Erbsen, Koriander, Roti Paratha, Jasminreis, Sprossen, Limette",
+              "title": "Bohnen-Mais-Bramata",
+              "description": "Geröstete Waldpilze, Belper Knolle, Dukkah-Crunch, Kräuteröl",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Baingan Bharta (vegan)",
-              "description": "Minced Eggplant, Tomatoes, Garlic, Peas, Cilantro, Roti Paratha, Jasmine Rice, Sprouts, Lime",
+              "title": "Beans and Corn Bramata",
+              "description": "Roasted Wild Mushrooms, Belper Knolle Cheese, Dukkah Crunch, Herb Oil",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Baingan Bharta (végétalien)",
-              "description": "Aubergines hachées, tomates, ail, pois, coriandre, roti paratha, riz au jasmin, germes, citron vert",
+              "title": "Haricot-Mais-Bramata",
+              "description": "Champignons des bois grillés, tubercule de Belper, dukkah-crunch, huile aux herbes",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Herbstliches Gemüsecurry mit Basmati sautierten Äpfeln & Kichererbsen",
+              "title": "Gefüllte Ofentomate mit Herbstlichem Reis Peperonata & Geisskäsecreme",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -98,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Autumnal vegetable curry with Basmati sautéed apples & chickpeas",
+              "title": "Stuffed Oven Tomato with Autumn Rice Peperonata & Goat Cheese Cream",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -109,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Curry de légumes d'automne avec pommes sautées basmati et pois chiches",
+              "title": "Tomate fourrée au riz d'automne Pepperonata & crème de fromage blanc",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -118,7 +112,7 @@
           "translated_from": "de"
         }
       },
-      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-42.pdf",
+      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-43.pdf",
       "error": null
     },
     {
@@ -129,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "RICOTTA-SPINAT CANNELLONI",
-              "description": "Glocal · Tomatensauce, Bechamelsauce, Reibkäse, Linsenratatouille",
+              "title": "KÜRBIS RAVIOLI",
+              "description": "Glocal · Pilz-Rahmsauce, Grillgemüse, Rucola",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SCHLEMMERFILET BORDELAISE",
-              "description": "Traditional · Marktgemüse, Bulgur mit Kräuter und Zitronen",
+              "title": "KAARAGE",
+              "description": "Traditional · Japanese Fried Chicken, Sushi Reis, Röstzwiebeln, scharfer Dip",
               "price": null,
               "tags": []
             },
@@ -147,28 +141,22 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate und warme Toppings",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "KAARAGE",
-              "description": "Weekly Special · Japanese Fried Chicken, Sushi Reis, Röstzwiebeln, scharfer Dip",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Tomaten Sauce mit Oregano",
-              "description": "Glocal · Pâtes farcies, épinards-ricotta, Linsen-Ratatouille, Bechamel Vegan kalt angerührt, Grande Capo, Fromage italien à pâte dure, «Flavour-Kitchen» Spinat-Garnitur",
+              "title": "Kürbisravioli idorsia",
+              "description": "Glocal · Sauce aux bolets, Ofengemüse / Grillgemüse, Rucola-Garnitur",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Filet de poisson au four à la bordelaise (plat cuisiné), 200g",
-              "description": "Traditional · Marktgemüse, Bulgur, Citron / citron vert, Herbes du jardin, vrac",
+              "title": "Riz pour sushi",
+              "description": "Traditional · Kaarage Chicken, Sauce cocktail, Oignons frits",
               "price": null,
               "tags": []
             },
@@ -177,40 +165,28 @@
               "description": "Salate · Salade de carottes, Salade de betterave rouge, Salade de concombre à l’aneth, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Riz pour sushi",
-              "description": "Weekly Special · Kaarage Chicken, Sauce cocktail, Oignons frits",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "RICOTTA SPINACH CANNELLONI",
-              "description": "Glocal · Tomato sauce, bechamel sauce, grated cheese, lentil ratatouille",
+              "title": "PUMPKIN RAVIOLI",
+              "description": "Glocal · Mushroom cream sauce, grilled vegetables, rocket",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "BORDELAISE slurry fillet",
-              "description": "Traditional · Market vegetables, bulgur with herbs and lemons",
+              "title": "KAARAGE",
+              "description": "Traditional · Japanese Fried Chicken, Sushi Rice, Roasted Onions, Spicy Dip",
               "price": null,
               "tags": []
             },
             {
               "title": "Seasonal salad bar: tell us",
               "description": "Salads · what you want on your plate!, leaf lettuce, homemade salads and warm toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "KAARAGE",
-              "description": "Weekly Special · Japanese Fried Chicken, Sushi Rice, Roasted Onions, Spicy Dip",
               "price": null,
               "tags": []
             }
@@ -243,22 +219,22 @@
         "de": {
           "items": [
             {
-              "title": "CANNELLONI RICOTTA SPINAT",
-              "description": "Veggie Bowl · Tomatensauce, Bechamelsauce, Reibkäse , Linsenratatouille",
+              "title": "TORTELLINI",
+              "description": "Veggie Bowl · mit Ricotta und Spinat, Basilikumrahmsauce, Reibkäse, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SCHLEMMERFILET BORDELAISE",
-              "description": "Traditional Bowl · Marktgemüse, Kräuterzitronenbulgur",
+              "title": "SCHWEINSCORDON BLEU",
+              "description": "Traditional Bowl · Zitronenschnitz, Bratkartoffeln, Gemüse",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck & Cheddar, Pommes frites",
+              "title": "PIZZA DAY",
+              "description": "Soul Food · Hausgemachte Pizza, belegt nach Ihrer Wahl",
               "price": null,
               "tags": []
             }
@@ -267,22 +243,22 @@
         "fr": {
           "items": [
             {
-              "title": "CANNELLONI RICOTTA SPINAT",
-              "description": "Veggie Bowl · Tomatensauce, Bechamelsauce, Reibkäse , Linsenratatouille",
+              "title": "TORTELLINI",
+              "description": "Veggie Bowl · mit Ricotta und Spinat, Basilikumrahmsauce, Reibkäse, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SCHLEMMERFILET BORDELAISE",
-              "description": "Traditional Bowl · Marktgemüse, Kräuterzitronenbulgur",
+              "title": "SCHWEINSCORDON BLEU",
+              "description": "Traditional Bowl · Zitronenschnitz, Bratkartoffeln, Gemüse",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck & Cheddar, Pommes frites",
+              "title": "PIZZA DAY",
+              "description": "Soul Food · Hausgemachte Pizza, belegt nach Ihrer Wahl",
               "price": null,
               "tags": []
             }
@@ -291,22 +267,22 @@
         "en": {
           "items": [
             {
-              "title": "CANNELLONI RICOTTA SPINACH",
-              "description": "Veggie Bowl · Tomato sauce, bechamel sauce, grated cheese , lentil ratatouille",
+              "title": "TORTELLINI",
+              "description": "Veggie bowl · with ricotta and spinach, basil cream sauce, grated cheese, menu salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "BORDELAISE slurry fillet",
-              "description": "Traditional bowl · Market vegetables, herbal lemon bulgur",
+              "title": "PORK CORDON BLUE",
+              "description": "Traditional Bowl · Lemon wedge, fried potatoes, vegetables",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul food · with bacon & cheddar, French fries",
+              "title": "PIZZA DAY",
+              "description": "Soul Food · Homemade pizza, topped with your choice",
               "price": null,
               "tags": []
             }
