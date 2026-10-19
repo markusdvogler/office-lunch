@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T11:09:30+00:00",
-  "date": "2026-10-16",
-  "weekday": "friday",
+  "generated_at": "2026-10-19T12:48:35+00:00",
+  "date": "2026-10-19",
+  "weekday": "monday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Bohnen-Mais-Bramata",
-              "description": "Geröstete Waldpilze, Belper Knolle, Dukkah-Crunch, Kräuteröl",
+              "title": "Edamame-Quinoa-Burger (vegan)",
+              "description": "Black Bun, Red Coleslaw, Vegane Wasabi-Mayonnaise, Gebackene Süsskartoffeln",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Beans and Corn Bramata",
-              "description": "Roasted Wild Mushrooms, Belper Knolle Cheese, Dukkah Crunch, Herb Oil",
+              "title": "Edamame Quinoa Burger (vegan)",
+              "description": "Black Bun, Red Coleslaw, Vegan Wasabi Mayonnaise, Baked Sweet Potatoes",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Haricot-Mais-Bramata",
-              "description": "Champignons des bois grillés, tubercule de Belper, dukkah-crunch, huile aux herbes",
+              "title": "Burger Edamame-Quinoa (végétalien)",
+              "description": "Black Bun, Red Coleslaw, Mayonnaise au wasabi végétalien, Patates douces au four",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,7 +88,7 @@
         "de": {
           "items": [
             {
-              "title": "Gefüllte Ofentomate mit Herbstlichem Reis Peperonata & Geisskäsecreme",
+              "title": "Tagliatelle mit Randen-Pesto Meerrettich & Brunnenkresse",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +98,7 @@
         "en": {
           "items": [
             {
-              "title": "Stuffed Oven Tomato with Autumn Rice Peperonata & Goat Cheese Cream",
+              "title": "Tagliatelle with bean pesto horseradish & watercress",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +109,7 @@
         "fr": {
           "items": [
             {
-              "title": "Tomate fourrée au riz d'automne Pepperonata & crème de fromage blanc",
+              "title": "Tagliatelles au pesto de betterave raifort & cresson",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "KÜRBIS RAVIOLI",
-              "description": "Glocal · Pilz-Rahmsauce, Grillgemüse, Rucola",
+              "title": "ZÜRCHER ART",
+              "description": "Glocal · Planted Streifen, Champignonsauce, Rösti, Erbsen & Karotten",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "KAARAGE",
-              "description": "Traditional · Japanese Fried Chicken, Sushi Reis, Röstzwiebeln, scharfer Dip",
+              "title": "TRUTHAHN PICCATA",
+              "description": "Traditional · Peperonata Sauce, Weisswein Risotto, Menüsalat",
               "price": null,
               "tags": []
             },
@@ -141,28 +147,40 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate und warme Toppings",
               "price": null,
               "tags": []
+            },
+            {
+              "title": "Rindsburrito mit Cheddar überbacken",
+              "description": "Weekly Special · dazu Guacamole & Tortilla Chips",
+              "price": null,
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Kürbisravioli idorsia",
-              "description": "Glocal · Sauce aux bolets, Ofengemüse / Grillgemüse, Rucola-Garnitur",
+              "title": "Planted Geschnetzeltes Champignon Sauce Zürcher Art, Port. 180g",
+              "description": "Glocal · Rösti vegan, Champignonsauce, Erbsli und Rüebli vegan",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Riz pour sushi",
-              "description": "Traditional · Kaarage Chicken, Sauce cocktail, Oignons frits",
+              "title": "Piccata de dinde",
+              "description": "Traditional · Peperonata Sauce, Weisswein Risotto, Menüsalat mit Knorr",
               "price": null,
               "tags": []
             },
             {
               "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Salade de carottes, Salade de betterave rouge, Salade de concombre à l’aneth, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "description": "Salate · Randensalat, Salade de concombre à l’aneth, Salade de carottes, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Weizentortilla mit Chili con Carne",
+              "description": "Weekly Special · Tortilla Chips, Guacamole, Sauce au fromage cheddar",
               "price": null,
               "tags": []
             }
@@ -171,22 +189,28 @@
         "en": {
           "items": [
             {
-              "title": "PUMPKIN RAVIOLI",
-              "description": "Glocal · Mushroom cream sauce, grilled vegetables, rocket",
+              "title": "ZÜRCHER ART",
+              "description": "Glocal · Planted strips, mushroom sauce, rosti, peas & carrots",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "KAARAGE",
-              "description": "Traditional · Japanese Fried Chicken, Sushi Rice, Roasted Onions, Spicy Dip",
+              "title": "TURKEY PICCATA",
+              "description": "Traditional · Peperonata sauce, white wine risotto, menu salad",
               "price": null,
               "tags": []
             },
             {
               "title": "Seasonal salad bar: tell us",
               "description": "Salads · what you want on your plate!, leaf lettuce, homemade salads and warm toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Baked beef burrito with cheddar",
+              "description": "Weekly Special · with Guacamole & Tortilla Chips",
               "price": null,
               "tags": []
             }
@@ -219,22 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "TORTELLINI",
-              "description": "Veggie Bowl · mit Ricotta und Spinat, Basilikumrahmsauce, Reibkäse, Menüsalat",
+              "title": "ZÜRCHER ART",
+              "description": "Veggie Bowl · Planted Streifen, Champignonsauce, Rösti, Erbsen & Karotten",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "SCHWEINSCORDON BLEU",
-              "description": "Traditional Bowl · Zitronenschnitz, Bratkartoffeln, Gemüse",
+              "title": "TRUTHAHN PICCATA",
+              "description": "Traditional Bowl · Peperonatasauce, Weisswein Risotto, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "PIZZA DAY",
-              "description": "Soul Food · Hausgemachte Pizza, belegt nach Ihrer Wahl",
+              "title": "RED THAI CURRY",
+              "description": "Soul Food · mit Poulet und Gemüse, Jasmin Reis, Koriander, Sojasprossen, Limette",
               "price": null,
               "tags": []
             }
@@ -243,22 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "TORTELLINI",
-              "description": "Veggie Bowl · mit Ricotta und Spinat, Basilikumrahmsauce, Reibkäse, Menüsalat",
+              "title": "ZÜRCHER ART",
+              "description": "Veggie Bowl · Planted Streifen, Champignonsauce, Rösti, Erbsen & Karotten",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "SCHWEINSCORDON BLEU",
-              "description": "Traditional Bowl · Zitronenschnitz, Bratkartoffeln, Gemüse",
+              "title": "TRUTHAHN PICCATA",
+              "description": "Traditional Bowl · Peperonatasauce, Weisswein Risotto, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "PIZZA DAY",
-              "description": "Soul Food · Hausgemachte Pizza, belegt nach Ihrer Wahl",
+              "title": "RED THAI CURRY",
+              "description": "Soul Food · mit Poulet und Gemüse, Jasmin Reis, Koriander, Sojasprossen, Limette",
               "price": null,
               "tags": []
             }
@@ -267,22 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "TORTELLINI",
-              "description": "Veggie bowl · with ricotta and spinach, basil cream sauce, grated cheese, menu salad",
+              "title": "ZÜRCHER ART",
+              "description": "Veggie Bowl · Planted Strips, Mushroom Sauce, Rösti, Peas & Carrots",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "PORK CORDON BLUE",
-              "description": "Traditional Bowl · Lemon wedge, fried potatoes, vegetables",
+              "title": "TURKEY PICCATA",
+              "description": "Traditional bowl · pepperonata sauce, white wine risotto, menu salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "PIZZA DAY",
-              "description": "Soul Food · Homemade pizza, topped with your choice",
+              "title": "RED THAI CURRY",
+              "description": "Soul Food · with chicken and vegetables, jasmine rice, coriander, soybean sprouts, lime",
               "price": null,
               "tags": []
             }
