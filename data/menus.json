@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T11:18:45+00:00",
-  "date": "2026-10-20",
-  "weekday": "tuesday",
+  "generated_at": "2026-10-21T11:34:38+00:00",
+  "date": "2026-10-21",
+  "weekday": "wednesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Erdnuss Tofu Nudeln (vegan)",
-              "description": "Reisnudeln, Tofu, Broccoli, Peperoni, Karotten, Sojasprossen, Erdnuss-Limettensauce, Gerösteter Reis Knusper",
+              "title": "Daal (vegan)",
+              "description": "Rote Linsen, Gelbe Erbsen, Gerösteter Blumenkohl, Marinierter Rotkabis, Kokosjoghurt, Kokoschips",
               "price": null,
               "tags": [
                 "vegan"
@@ -37,8 +37,8 @@
         "en": {
           "items": [
             {
-              "title": "Peanut Tofu Noodles (vegan)",
-              "description": "Rice Noodles, Tofu, Broccoli, Bell Peppers, Carrots, Bean Sprouts, Peanut-Lime Sauce, Crispy Roasted Rice",
+              "title": "Daal (vegan)",
+              "description": "Red Lentils, Yellow Peas, Roasted Cauliflower, Marinated Red Cabbage, Coconut Yogurt, Coconut Chips",
               "price": null,
               "tags": [
                 "vegan"
@@ -49,8 +49,8 @@
         "fr": {
           "items": [
             {
-              "title": "Nouilles au tofu aux arachides (végétalien)",
-              "description": "Nouilles de riz, tofu, brocoli, poivrons, carottes, germes de soja, sauce cacahuète-citron vert, croustillant de riz grillé",
+              "title": "Daal (végétalien)",
+              "description": "Lentilles rouges, pois jaunes, chou-fleur grillé, chou rouge mariné, yaourt à la noix de coco, copeaux de noix de coco",
               "price": null,
               "tags": [
                 "vegan"
@@ -88,9 +88,17 @@
         "de": {
           "items": [
             {
-              "title": "Gefüllte Zucchini mit Ricotta Safran-Rollgerste & Cremolata",
+              "title": "Geschmorter Chicorée mit Orangen Süsskartoffelstampf & Wurzelgemüse",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Geschmorte Rindskopfbäggli mit Süsskartoffelstampf & Wurzelgemüse",
+              "description": "inkl. Salat oder Suppe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -98,9 +106,17 @@
         "en": {
           "items": [
             {
-              "title": "Stuffed zucchini with ricotta saffron rolled barley & cremolata",
+              "title": "Braised chicory with orange sweet potato mashed potatoes & root vegetables",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Braised beef head pastry with sweet potato mashed potatoes & root vegetables",
+              "description": "incl. salad or soup",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -109,9 +125,17 @@
         "fr": {
           "items": [
             {
-              "title": "Courgettes farcies à la ricotta au safran et à la crémolata",
+              "title": "Chicorée braisée aux oranges, purée de patates douces et légumes-racines",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Boulettes de pommes de terre de bœuf braisées avec purée de patates douces et légumes-racines",
+              "description": "incl. salade ou soupe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -129,16 +153,16 @@
         "de": {
           "items": [
             {
-              "title": "BAMI GORENG",
-              "description": "Glocal · Nudeln, Karotten, Chinakohl, Tofu, Frühlingsrollen, Kokos-Tomaten-Chutney",
+              "title": "CORN FRITTERS",
+              "description": "Glocal · Bohnen-Tomaten-Mole, Rotkabis Pickles, Frisee, Koriander, Salsa Bianca, Maiskörner",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "SCHWEINSGESCHNETZELTES GYROS",
-              "description": "Traditional · Joghurt-Gewürz Dip, Fladenbrot, Grillgemüse",
+              "title": "CHIPOLATA SPIESS",
+              "description": "Traditional · Marsala Sauce, Thymiankartoffeln, zweierlei Bohnen",
               "price": null,
               "tags": []
             },
@@ -159,16 +183,16 @@
         "fr": {
           "items": [
             {
-              "title": "Bami Goreng Gemüse Tofu, Port. 350g",
-              "description": "Glocal · Nudeln, Karotten, Chinakohl, Tofu, Rouleaux de printemps, végan, 50g, Chutney Kokos Tomaten Koriander",
+              "title": "Mais Tätschli Corn Fritters vegan, Port. 140g",
+              "description": "Glocal · Bohnen Tomaten Mole, Rotkabis Pickles, Frisee Koriander Mischung Dekoration, Salsa Blanca vegan, Grains de maïs grillés",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Schweins Geschnetzeltes Gyros",
-              "description": "Traditional · Joghurt Gewürz Dip Kebab, Pain plat nature, 110g, Grillgemüse",
+              "title": "Kalbs Chipolata Spiess mit Speck",
+              "description": "Traditional · Marsala Sauce, Bohnen Zweierlei, Bratkartoffeln neue mit Thymian",
               "price": null,
               "tags": []
             },
@@ -189,16 +213,16 @@
         "en": {
           "items": [
             {
-              "title": "BAMI GORENG",
-              "description": "Glocal · noodles, carrots, Chinese cabbage, tofu, spring rolls, coconut tomato chutney",
+              "title": "CORN FRITTERS",
+              "description": "Glocal · Bean Tomato Moles, Red Cannabis Pickles, Frisee, Coriander, Salsa Bianca, Corn Grains",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PORK NETTED GYRO",
-              "description": "Traditional · yoghurt spice dip, flatbread, grilled vegetables",
+              "title": "CHIPOLATA SKEWER",
+              "description": "Traditional · Marsala sauce, thyme potatoes, dual beans",
               "price": null,
               "tags": []
             },
@@ -243,22 +267,22 @@
         "de": {
           "items": [
             {
-              "title": "BAMI GORENG",
-              "description": "Veggie Bowl · Nudeln, Karotten, Chinakohl, Tofu, Frühlingsrollen, Kokos Chutney",
+              "title": "CORN FRITTERS",
+              "description": "Veggie Bowl · Bohnen Tomaten Mole, Rotkabis Pickles, Frisee, Koriander, Salsa Bianca, Maiskörner",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "SCHWEINSGESCHNETZELTES GYROS",
-              "description": "Traditional Bowl · Joghurt Gewürz Dip, Fladenbrot, Grillgemüse",
+              "title": "CHIPOLATA SPIESS",
+              "description": "Traditional Bowl · Marsalasauce, Thymiankartoffeln, Zweierlei Bohnen",
               "price": null,
               "tags": []
             },
             {
-              "title": "POULETSCHENKEL",
-              "description": "Soul Food · Kartoffel Stock mit Kräuter, Pilz Gemüse Ragout",
+              "title": "RINDS  STROGANOFF",
+              "description": "Soul Food · Spätzli, Sauerrahm Dip",
               "price": null,
               "tags": []
             }
@@ -267,22 +291,22 @@
         "fr": {
           "items": [
             {
-              "title": "BAMI GORENG",
-              "description": "Veggie Bowl · Nudeln, Karotten, Chinakohl, Tofu, Frühlingsrollen, Kokos Chutney",
+              "title": "CORN FRITTERS",
+              "description": "Veggie Bowl · Bohnen Tomaten Mole, Rotkabis Pickles, Frisee, Koriander, Salsa Bianca, Maiskörner",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "SCHWEINSGESCHNETZELTES GYROS",
-              "description": "Traditional Bowl · Joghurt Gewürz Dip, Fladenbrot, Grillgemüse",
+              "title": "CHIPOLATA SPIESS",
+              "description": "Traditional Bowl · Marsalasauce, Thymiankartoffeln, Zweierlei Bohnen",
               "price": null,
               "tags": []
             },
             {
-              "title": "POULETSCHENKEL",
-              "description": "Soul Food · Kartoffel Stock mit Kräuter, Pilz Gemüse Ragout",
+              "title": "RINDS  STROGANOFF",
+              "description": "Soul Food · Spätzli, Sauerrahm Dip",
               "price": null,
               "tags": []
             }
@@ -291,22 +315,22 @@
         "en": {
           "items": [
             {
-              "title": "BAMI GORENG",
-              "description": "Veggie Bowl · noodles, carrots, Chinese cabbage, tofu, spring rolls, coconut chutney",
+              "title": "CORN FRITTERS",
+              "description": "Veggie Bowl · Bean Tomato Moles, Red Cannabis Pickles, Frisee, Coriander, Salsa Bianca, Corn Grains",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PORK NETTED GYRO",
-              "description": "Traditional bowl · yoghurt spice dip, flatbread, grilled vegetables",
+              "title": "CHIPOLATA SKEWER",
+              "description": "Traditional bowl · Marsala sauce, thyme potatoes, two kinds of beans",
               "price": null,
               "tags": []
             },
             {
-              "title": "Pullet leg",
-              "description": "Soul Food · Potato stick with herbs, mushroom vegetable ragout",
+              "title": "BEEF  STROGANOFF",
+              "description": "Soul Food · Spätzli, sour cream dip",
               "price": null,
               "tags": []
             }
