@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T11:34:38+00:00",
-  "date": "2026-10-21",
-  "weekday": "wednesday",
+  "generated_at": "2026-10-22T11:34:26+00:00",
+  "date": "2026-10-22",
+  "weekday": "thursday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Daal (vegan)",
-              "description": "Rote Linsen, Gelbe Erbsen, Gerösteter Blumenkohl, Marinierter Rotkabis, Kokosjoghurt, Kokoschips",
+              "title": "Zürcher Pilzgeschnetzeltes",
+              "description": "Champignons, Karotten, Bechamel, Hausgemachte Rösti, Blattsalat, Sprossen",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Daal (vegan)",
-              "description": "Red Lentils, Yellow Peas, Roasted Cauliflower, Marinated Red Cabbage, Coconut Yogurt, Coconut Chips",
+              "title": "Zurich-Style Mushroom Stir-Fry",
+              "description": "Sliced Mushrooms, Carrots, Béchamel Sauce, Homemade Rösti, Leaf Lettuce, Sprouts",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Daal (végétalien)",
-              "description": "Lentilles rouges, pois jaunes, chou-fleur grillé, chou rouge mariné, yaourt à la noix de coco, copeaux de noix de coco",
+              "title": "Émincé de champignons zurichois",
+              "description": "Champignons, carottes, béchamel, röstis faits maison, salade de feuilles, germes",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,17 +82,9 @@
         "de": {
           "items": [
             {
-              "title": "Geschmorter Chicorée mit Orangen Süsskartoffelstampf & Wurzelgemüse",
+              "title": "Kartoffelgratin mit Rüebli-Pürée pochierten Birnen & Kerbel",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Geschmorte Rindskopfbäggli mit Süsskartoffelstampf & Wurzelgemüse",
-              "description": "inkl. Salat oder Suppe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -106,17 +92,9 @@
         "en": {
           "items": [
             {
-              "title": "Braised chicory with orange sweet potato mashed potatoes & root vegetables",
+              "title": "Potato gratin with carrot puree poached pears & chervil",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Braised beef head pastry with sweet potato mashed potatoes & root vegetables",
-              "description": "incl. salad or soup",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -125,17 +103,9 @@
         "fr": {
           "items": [
             {
-              "title": "Chicorée braisée aux oranges, purée de patates douces et légumes-racines",
+              "title": "Gratin de pommes de terre avec purée de carottes, poires pochées et cerfeuil",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Boulettes de pommes de terre de bœuf braisées avec purée de patates douces et légumes-racines",
-              "description": "incl. salade ou soupe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -153,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "CORN FRITTERS",
-              "description": "Glocal · Bohnen-Tomaten-Mole, Rotkabis Pickles, Frisee, Koriander, Salsa Bianca, Maiskörner",
+              "title": "MAGHMOUR",
+              "description": "Glocal · Aubergine, Kichererbsen, Soja-Minze Dip, Linsen-Bulgur, Frisée, Dill, Granatapfelkerne, Mandeln",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "CHIPOLATA SPIESS",
-              "description": "Traditional · Marsala Sauce, Thymiankartoffeln, zweierlei Bohnen",
+              "title": "MADRAS CURRY",
+              "description": "Traditional · Rindfleisch, Basmatireis, Zucchetti mit Kokos",
               "price": null,
               "tags": []
             },
@@ -183,16 +153,16 @@
         "fr": {
           "items": [
             {
-              "title": "Mais Tätschli Corn Fritters vegan, Port. 140g",
-              "description": "Glocal · Bohnen Tomaten Mole, Rotkabis Pickles, Frisee Koriander Mischung Dekoration, Salsa Blanca vegan, Grains de maïs grillés",
+              "title": "Auberginen Kichererbsen Ragout Maghmour, Port. 280g",
+              "description": "Glocal · Soja Joghurt mit Pfefferminze, Port. 30g, Linsen Bulgur, Frisee Dill Mischung Dekoration, Grains de grenade, Amande transformée",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Kalbs Chipolata Spiess mit Speck",
-              "description": "Traditional · Marsala Sauce, Bohnen Zweierlei, Bratkartoffeln neue mit Thymian",
+              "title": "Madras Curry mit Rindfleisch",
+              "description": "Traditional · Basmati Reis gedämpft Steamer, Zucchetti sautiert mit Kokos",
               "price": null,
               "tags": []
             },
@@ -213,16 +183,16 @@
         "en": {
           "items": [
             {
-              "title": "CORN FRITTERS",
-              "description": "Glocal · Bean Tomato Moles, Red Cannabis Pickles, Frisee, Coriander, Salsa Bianca, Corn Grains",
+              "title": "MAGHMOUR",
+              "description": "Glocal · Eggplant, chickpeas, soy mint dip, lentil bulgur, frisée, dill, pomegranate seeds, almonds",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "CHIPOLATA SKEWER",
-              "description": "Traditional · Marsala sauce, thyme potatoes, dual beans",
+              "title": "MADRAS CURRY",
+              "description": "Traditional · Beef, basmati rice, zucchetti with coconut",
               "price": null,
               "tags": []
             },
@@ -267,22 +237,22 @@
         "de": {
           "items": [
             {
-              "title": "CORN FRITTERS",
-              "description": "Veggie Bowl · Bohnen Tomaten Mole, Rotkabis Pickles, Frisee, Koriander, Salsa Bianca, Maiskörner",
+              "title": "MAGHMOUR",
+              "description": "Veggie Bowl · Aubergine, Kichererbsen, Soja Minze Dip, Linsen Bulgur, Frisée, Dill, Granatapfelkerne, Mandeln, Granatapfelkerne, Mandeln",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "CHIPOLATA SPIESS",
-              "description": "Traditional Bowl · Marsalasauce, Thymiankartoffeln, Zweierlei Bohnen",
+              "title": "CURRY MADRAS",
+              "description": "Traditional Bowl · Rindfleisch, Basmatireis, Zucchetti & Kokos",
               "price": null,
               "tags": []
             },
             {
-              "title": "RINDS  STROGANOFF",
-              "description": "Soul Food · Spätzli, Sauerrahm Dip",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -291,22 +261,22 @@
         "fr": {
           "items": [
             {
-              "title": "CORN FRITTERS",
-              "description": "Veggie Bowl · Bohnen Tomaten Mole, Rotkabis Pickles, Frisee, Koriander, Salsa Bianca, Maiskörner",
+              "title": "MAGHMOUR",
+              "description": "Veggie Bowl · Aubergine, Kichererbsen, Soja Minze Dip, Linsen Bulgur, Frisée, Dill, Granatapfelkerne, Mandeln, Granatapfelkerne, Mandeln",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "CHIPOLATA SPIESS",
-              "description": "Traditional Bowl · Marsalasauce, Thymiankartoffeln, Zweierlei Bohnen",
+              "title": "CURRY MADRAS",
+              "description": "Traditional Bowl · Rindfleisch, Basmatireis, Zucchetti & Kokos",
               "price": null,
               "tags": []
             },
             {
-              "title": "RINDS  STROGANOFF",
-              "description": "Soul Food · Spätzli, Sauerrahm Dip",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -315,22 +285,22 @@
         "en": {
           "items": [
             {
-              "title": "CORN FRITTERS",
-              "description": "Veggie Bowl · Bean Tomato Moles, Red Cannabis Pickles, Frisee, Coriander, Salsa Bianca, Corn Grains",
+              "title": "MAGHMOUR",
+              "description": "Veggie Bowl · Eggplant, chickpeas, soy mint dip, bulgur lentils, frisée, dill, pomegranate seeds, almonds, pomegranate seeds, almonds",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "CHIPOLATA SKEWER",
-              "description": "Traditional bowl · Marsala sauce, thyme potatoes, two kinds of beans",
+              "title": "Madras curry, 50g",
+              "description": "Traditional Bowl · Beef, Basmati Rice, Zucchetti & Coconut",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEF  STROGANOFF",
-              "description": "Soul Food · Spätzli, sour cream dip",
+              "title": "BEEFBURGER",
+              "description": "Soul food · with bacon and cheddar, French fries",
               "price": null,
               "tags": []
             }
