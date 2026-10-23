@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T11:34:26+00:00",
-  "date": "2026-10-22",
-  "weekday": "thursday",
+  "generated_at": "2026-10-23T11:24:22+00:00",
+  "date": "2026-10-23",
+  "weekday": "friday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Zürcher Pilzgeschnetzeltes",
-              "description": "Champignons, Karotten, Bechamel, Hausgemachte Rösti, Blattsalat, Sprossen",
+              "title": "Shakshuka",
+              "description": "Aubergine, Tomate, Kapija-Paprika, Schweizer Freilandeier, Petersilien-Feta-Crumble, Fladenbrot",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Zurich-Style Mushroom Stir-Fry",
-              "description": "Sliced Mushrooms, Carrots, Béchamel Sauce, Homemade Rösti, Leaf Lettuce, Sprouts",
+              "title": "Shakshuka",
+              "description": "Eggplant, Tomato, Kapija Peppers, Swiss Free-Range Eggs, Parsley Feta Crumble, Flatbread",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Émincé de champignons zurichois",
-              "description": "Champignons, carottes, béchamel, röstis faits maison, salade de feuilles, germes",
+              "title": "Shakshuka",
+              "description": "Aubergine, tomate, poivron Kapija, œufs suisses de plein air, crumble persil-feta, pain plat",
               "price": null,
               "tags": []
             }
@@ -82,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Kartoffelgratin mit Rüebli-Pürée pochierten Birnen & Kerbel",
+              "title": "Gefüllte Ofentomate mit Herbstlichem Reis Peperonata & Geisskäsecreme",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Potato gratin with carrot puree poached pears & chervil",
+              "title": "Stuffed Oven Tomato with Autumn Rice Peperonata & Goat Cheese Cream",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Gratin de pommes de terre avec purée de carottes, poires pochées et cerfeuil",
+              "title": "Tomate fourrée au riz d'automne Pepperonata & crème de fromage blanc",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "MAGHMOUR",
-              "description": "Glocal · Aubergine, Kichererbsen, Soja-Minze Dip, Linsen-Bulgur, Frisée, Dill, Granatapfelkerne, Mandeln",
+              "title": "Tortellini Quattro Formaggi",
+              "description": "Glocal · Tomaten-Rahmsauce, Reibkäse, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "MADRAS CURRY",
-              "description": "Traditional · Rindfleisch, Basmatireis, Zucchetti mit Kokos",
+              "title": "Rindsburrito mit Cheddar überbacken",
+              "description": "Traditional · dazu Guacamole & Tortilla Chips",
               "price": null,
               "tags": []
             },
@@ -141,28 +141,22 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate und warme Toppings",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Rindsburrito mit Cheddar überbacken",
-              "description": "Weekly Special · dazu Guacamole & Tortilla Chips",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Auberginen Kichererbsen Ragout Maghmour, Port. 280g",
-              "description": "Glocal · Soja Joghurt mit Pfefferminze, Port. 30g, Linsen Bulgur, Frisee Dill Mischung Dekoration, Grains de grenade, Amande transformée",
+              "title": "Tortellini gefüllt mit Ricotta und Spinat",
+              "description": "Glocal · Tomatenrahm sauce / Creamy tomato sauce / 530, Grana Padano gerieben 10 Port. à 20g, Menüsalat mit Knorr",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Madras Curry mit Rindfleisch",
-              "description": "Traditional · Basmati Reis gedämpft Steamer, Zucchetti sautiert mit Kokos",
+              "title": "Weizentortilla mit Chili con Carne",
+              "description": "Traditional · Tortilla Chips, Guacamole, Sauce au fromage cheddar",
               "price": null,
               "tags": []
             },
@@ -171,40 +165,28 @@
               "description": "Salate · Randensalat, Salade de concombre à l’aneth, Salade de carottes, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Weizentortilla mit Chili con Carne",
-              "description": "Weekly Special · Tortilla Chips, Guacamole, Sauce au fromage cheddar",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "MAGHMOUR",
-              "description": "Glocal · Eggplant, chickpeas, soy mint dip, lentil bulgur, frisée, dill, pomegranate seeds, almonds",
+              "title": "Tortellini Quattro Formaggi",
+              "description": "Glocal · Tomato cream sauce, grated cheese, menu salad",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "MADRAS CURRY",
-              "description": "Traditional · Beef, basmati rice, zucchetti with coconut",
+              "title": "Baked beef burrito with cheddar",
+              "description": "Traditional · with guacamole & tortilla chips",
               "price": null,
               "tags": []
             },
             {
               "title": "Seasonal salad bar: tell us",
               "description": "Salads · what you want on your plate!, leaf lettuce, homemade salads and warm toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Baked beef burrito with cheddar",
-              "description": "Weekly Special · with Guacamole & Tortilla Chips",
               "price": null,
               "tags": []
             }
@@ -237,22 +219,22 @@
         "de": {
           "items": [
             {
-              "title": "MAGHMOUR",
-              "description": "Veggie Bowl · Aubergine, Kichererbsen, Soja Minze Dip, Linsen Bulgur, Frisée, Dill, Granatapfelkerne, Mandeln, Granatapfelkerne, Mandeln",
+              "title": "BREWBEE CHILI SIN CARNE",
+              "description": "Veggie Bowl · Baked Potatoe,Tortilla Chips, La Fraiche, Koriander, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "CURRY MADRAS",
-              "description": "Traditional Bowl · Rindfleisch, Basmatireis, Zucchetti & Kokos",
+              "title": "FISCHKNUSPERLI",
+              "description": "Traditional Bowl · Salz Kartoffeln mit Schnittlauch, Blattspinat, Tartare Sauce, Zitrone",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
+              "title": "ELSÄSSER FLAMMENKUCHEN",
+              "description": "Soul Food · mit Speck, Zwiebeln, Creme fraiche,, Bergkäse & Schnittlauch",
               "price": null,
               "tags": []
             }
@@ -261,22 +243,22 @@
         "fr": {
           "items": [
             {
-              "title": "MAGHMOUR",
-              "description": "Veggie Bowl · Aubergine, Kichererbsen, Soja Minze Dip, Linsen Bulgur, Frisée, Dill, Granatapfelkerne, Mandeln, Granatapfelkerne, Mandeln",
+              "title": "BREWBEE CHILI SIN CARNE",
+              "description": "Veggie Bowl · Baked Potatoe,Tortilla Chips, La Fraiche, Koriander, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "CURRY MADRAS",
-              "description": "Traditional Bowl · Rindfleisch, Basmatireis, Zucchetti & Kokos",
+              "title": "FISCHKNUSPERLI",
+              "description": "Traditional Bowl · Salz Kartoffeln mit Schnittlauch, Blattspinat, Tartare Sauce, Zitrone",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
+              "title": "ELSÄSSER FLAMMENKUCHEN",
+              "description": "Soul Food · mit Speck, Zwiebeln, Creme fraiche,, Bergkäse & Schnittlauch",
               "price": null,
               "tags": []
             }
@@ -285,22 +267,22 @@
         "en": {
           "items": [
             {
-              "title": "MAGHMOUR",
-              "description": "Veggie Bowl · Eggplant, chickpeas, soy mint dip, bulgur lentils, frisée, dill, pomegranate seeds, almonds, pomegranate seeds, almonds",
+              "title": "BREWBEE CHILI SIN CARNE",
+              "description": "Veggie Bowl · Baked Potato,Tortilla Chips, La Fraiche, Coriander, Menu Salad",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Madras curry, 50g",
-              "description": "Traditional Bowl · Beef, Basmati Rice, Zucchetti & Coconut",
+              "title": "Battered Fried Fish",
+              "description": "Traditional Bowl · Salt potatoes with chives, spinach leaves, tartare sauce, lemon",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul food · with bacon and cheddar, French fries",
+              "title": "ALSATIAN FLAME CAKE",
+              "description": "Soul Food · with bacon, onions, crème fraiche, mountain cheese & chives",
               "price": null,
               "tags": []
             }
