@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T11:24:22+00:00",
-  "date": "2026-10-23",
-  "weekday": "friday",
+  "generated_at": "2026-10-26T12:42:26+00:00",
+  "date": "2026-10-26",
+  "weekday": "monday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Shakshuka",
-              "description": "Aubergine, Tomate, Kapija-Paprika, Schweizer Freilandeier, Petersilien-Feta-Crumble, Fladenbrot",
+              "title": "Toskanische Schupfnudeln",
+              "description": "Knuspriger Tofu, Spinat, Dörrtomaten, Parmesan-Kräutersauce, Basilikumöl, Parmesan-Crunch",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Shakshuka",
-              "description": "Eggplant, Tomato, Kapija Peppers, Swiss Free-Range Eggs, Parsley Feta Crumble, Flatbread",
+              "title": "Tuscan Finger Noodles",
+              "description": "Crispy Tofu, Spinach, Sun-Dried Tomatoes, Parmesan-Herb Sauce, Basil Oil, Parmesan Crunch",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Shakshuka",
-              "description": "Aubergine, tomate, poivron Kapija, œufs suisses de plein air, crumble persil-feta, pain plat",
+              "title": "Nouilles toscanes",
+              "description": "Tofu croustillant, épinards, tomates séchées, sauce aux herbes au parmesan, huile de basilic, croustillant au parmesan",
               "price": null,
               "tags": []
             }
@@ -82,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Gefüllte Ofentomate mit Herbstlichem Reis Peperonata & Geisskäsecreme",
+              "title": "Gnocchis an Salbei Butter mit Grana Padano gerösteten Walnüssen & Spinat",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Stuffed Oven Tomato with Autumn Rice Peperonata & Goat Cheese Cream",
+              "title": "Gnocchis on sage butter with Grana Padano roasted walnuts & spinach",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Tomate fourrée au riz d'automne Pepperonata & crème de fromage blanc",
+              "title": "Gnocchis à la sauge Beurre au Grana Padano Noix grillées & épinards",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -112,7 +112,7 @@
           "translated_from": "de"
         }
       },
-      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-43.pdf",
+      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-44.pdf",
       "error": null
     },
     {
@@ -123,22 +123,28 @@
         "de": {
           "items": [
             {
-              "title": "Tortellini Quattro Formaggi",
-              "description": "Glocal · Tomaten-Rahmsauce, Reibkäse, Menüsalat",
+              "title": "ORECCHIETTE",
+              "description": "Glocal · Champignons, Kürbis, Wirz, Baumnüsse, Rucola",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Rindsburrito mit Cheddar überbacken",
-              "description": "Traditional · dazu Guacamole & Tortilla Chips",
+              "title": "PICADILLO",
+              "description": "Traditional · Rindfleisch, Langkornreis, Tortilla Chips, Sauerrahm, Limette, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "Saisonale Salatbar: sagen Sie uns",
-              "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate und warme Toppings",
+              "title": "Seasonal Salatbar: sagen Sie uns",
+              "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate & warme Toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Yaye Cheeseburger in Sesam Buns",
+              "description": "Weekly Special · Rainbow Slaw, Essiggurke, Haussauce, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -147,22 +153,28 @@
         "fr": {
           "items": [
             {
-              "title": "Tortellini gefüllt mit Ricotta und Spinat",
-              "description": "Glocal · Tomatenrahm sauce / Creamy tomato sauce / 530, Grana Padano gerieben 10 Port. à 20g, Menüsalat mit Knorr",
+              "title": "Orecchiette Champignons Courge Brocoli Noix des arbres Roquette",
+              "description": "Glocal · Champignons, Kürbis, Wirz, Baumnüsse, Rucola",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Weizentortilla mit Chili con Carne",
-              "description": "Traditional · Tortilla Chips, Guacamole, Sauce au fromage cheddar",
+              "title": "Bœuf haché Picadillo, port. 280g",
+              "description": "Traditional · Menüsalat mit Knorr, Tortilla Chips / Chips de maïs / Nachos, Crème acidulée, Citron vert / Limette, Trockenreis",
               "price": null,
               "tags": []
             },
             {
               "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Randensalat, Salade de concombre à l’aneth, Salade de carottes, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "description": "Salate · Salade de carottes, Salade de betterave rouge, Salade de concombre à l’aneth, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Rinds Burger mit Cheddar Käse, Port. 320g",
+              "description": "Weekly Special · Rainbow Slaw, Sauce cocktail, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -171,22 +183,28 @@
         "en": {
           "items": [
             {
-              "title": "Tortellini Quattro Formaggi",
-              "description": "Glocal · Tomato cream sauce, grated cheese, menu salad",
+              "title": "<g id=\"720\"/><g id=\"723\">Orecchiette</g>",
+              "description": "Glocal · Mushrooms, Pumpkin, Wirz, Tree Nuts, Arugula",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Baked beef burrito with cheddar",
-              "description": "Traditional · with guacamole & tortilla chips",
+              "title": "PICADILLO",
+              "description": "Traditional · Beef, long grain rice, tortilla chips, sour cream, lime, menu salad",
               "price": null,
               "tags": []
             },
             {
               "title": "Seasonal salad bar: tell us",
-              "description": "Salads · what you want on your plate!, leaf lettuce, homemade salads and warm toppings",
+              "description": "Salads · what you want on your plate!, leaf salad, homemade salads & warm toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Yaye Cheeseburger in Sesame Buns",
+              "description": "Weekly Special · Rainbow Slaw, Pickle, House Sauce, French Fries",
               "price": null,
               "tags": []
             }
@@ -219,22 +237,22 @@
         "de": {
           "items": [
             {
-              "title": "BREWBEE CHILI SIN CARNE",
-              "description": "Veggie Bowl · Baked Potatoe,Tortilla Chips, La Fraiche, Koriander, Menüsalat",
+              "title": "ORECCHIETTE",
+              "description": "Veggie Bowl · Champignons, Kürbis, Wirz, Baumnüsse, Rucola",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "FISCHKNUSPERLI",
-              "description": "Traditional Bowl · Salz Kartoffeln mit Schnittlauch, Blattspinat, Tartare Sauce, Zitrone",
+              "title": "PICADILLO",
+              "description": "Traditional Bowl · Rindfleisch, Langkornreis, Tortillachips, Sauerrahm, Limette, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "ELSÄSSER FLAMMENKUCHEN",
-              "description": "Soul Food · mit Speck, Zwiebeln, Creme fraiche,, Bergkäse & Schnittlauch",
+              "title": "BAMI GORENG",
+              "description": "Soul Food · mit Poulet, Gemüse, Ketjap manis, Sambal Oelek, Limtte,, Erdnuss, Sojasprosse und Koriander",
               "price": null,
               "tags": []
             }
@@ -243,22 +261,22 @@
         "fr": {
           "items": [
             {
-              "title": "BREWBEE CHILI SIN CARNE",
-              "description": "Veggie Bowl · Baked Potatoe,Tortilla Chips, La Fraiche, Koriander, Menüsalat",
+              "title": "ORECCHIETTE",
+              "description": "Veggie Bowl · Champignons, Kürbis, Wirz, Baumnüsse, Rucola",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "FISCHKNUSPERLI",
-              "description": "Traditional Bowl · Salz Kartoffeln mit Schnittlauch, Blattspinat, Tartare Sauce, Zitrone",
+              "title": "PICADILLO",
+              "description": "Traditional Bowl · Rindfleisch, Langkornreis, Tortillachips, Sauerrahm, Limette, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "ELSÄSSER FLAMMENKUCHEN",
-              "description": "Soul Food · mit Speck, Zwiebeln, Creme fraiche,, Bergkäse & Schnittlauch",
+              "title": "BAMI GORENG",
+              "description": "Soul Food · mit Poulet, Gemüse, Ketjap manis, Sambal Oelek, Limtte,, Erdnuss, Sojasprosse und Koriander",
               "price": null,
               "tags": []
             }
@@ -267,22 +285,22 @@
         "en": {
           "items": [
             {
-              "title": "BREWBEE CHILI SIN CARNE",
-              "description": "Veggie Bowl · Baked Potato,Tortilla Chips, La Fraiche, Coriander, Menu Salad",
+              "title": "<g id=\"720\"/><g id=\"723\">Orecchiette</g>",
+              "description": "Veggie Bowl · Mushrooms, Pumpkin, Wirz, Tree Nuts, Arugula",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Battered Fried Fish",
-              "description": "Traditional Bowl · Salt potatoes with chives, spinach leaves, tartare sauce, lemon",
+              "title": "PICADILLO",
+              "description": "Traditional Bowl · Beef, Long Grain Rice, Tortilla Chips, Sour Cream, Lime, Menu Salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "ALSATIAN FLAME CAKE",
-              "description": "Soul Food · with bacon, onions, crème fraiche, mountain cheese & chives",
+              "title": "BAMI GORENG",
+              "description": "Soul Food · with chicken, vegetables, ketjap manis, sambal oelek, lime, peanut, soy shoot and coriander",
               "price": null,
               "tags": []
             }
