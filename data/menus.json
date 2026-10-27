@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T12:42:26+00:00",
-  "date": "2026-10-26",
-  "weekday": "monday",
+  "generated_at": "2026-10-27T11:57:14+00:00",
+  "date": "2026-10-27",
+  "weekday": "tuesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Toskanische Schupfnudeln",
-              "description": "Knuspriger Tofu, Spinat, Dörrtomaten, Parmesan-Kräutersauce, Basilikumöl, Parmesan-Crunch",
+              "title": "Grünes Thai-Curry (vegan)",
+              "description": "Weizennudeln, Zucchetti, Edamame, Erbsen, Kefen, Spinat, Broccoli, Paprika, Limette, Sesam, Cashew",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Tuscan Finger Noodles",
-              "description": "Crispy Tofu, Spinach, Sun-Dried Tomatoes, Parmesan-Herb Sauce, Basil Oil, Parmesan Crunch",
+              "title": "Green Thai Curry (vegan)",
+              "description": "Wheat Noodles, Zucchini, Edamame, Peas, Snow Peas, Spinach, Broccoli, Bell Peppers, Lime, Sesame, Cashews",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Nouilles toscanes",
-              "description": "Tofu croustillant, épinards, tomates séchées, sauce aux herbes au parmesan, huile de basilic, croustillant au parmesan",
+              "title": "Curry thaï vert (végétalien)",
+              "description": "Pâtes de blé, courgettes, edamame, pois, pois, pois chiches, épinards, brocolis, poivrons, citron vert, sésame, noix de cajou",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,7 +88,7 @@
         "de": {
           "items": [
             {
-              "title": "Gnocchis an Salbei Butter mit Grana Padano gerösteten Walnüssen & Spinat",
+              "title": "Bulgur Gemüse Pfanne mit Tofu Karotten Baba Ganoush & gehackten Mandeln",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +98,7 @@
         "en": {
           "items": [
             {
-              "title": "Gnocchis on sage butter with Grana Padano roasted walnuts & spinach",
+              "title": "Bulgur Vegetable Pan with Tofu Carrots Baba Ganoush & Chopped Almonds",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +109,7 @@
         "fr": {
           "items": [
             {
-              "title": "Gnocchis à la sauge Beurre au Grana Padano Noix grillées & épinards",
+              "title": "Poêle à légumes boulgour au tofu Carottes Baba Ganoush & amandes hachées",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "ORECCHIETTE",
-              "description": "Glocal · Champignons, Kürbis, Wirz, Baumnüsse, Rucola",
+              "title": "SWEET & SOUR",
+              "description": "Glocal · Sesamnudeln, Tofu, Peperoni, Zwiebeln, Chinakohl, Ananas, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PICADILLO",
-              "description": "Traditional · Rindfleisch, Langkornreis, Tortilla Chips, Sauerrahm, Limette, Menüsalat",
+              "title": "WILDBRATWURST",
+              "description": "Traditional · Spätzli, Rosmarin Sauce, Rosenkohl mit Speck",
               "price": null,
               "tags": []
             },
@@ -153,16 +159,16 @@
         "fr": {
           "items": [
             {
-              "title": "Orecchiette Champignons Courge Brocoli Noix des arbres Roquette",
-              "description": "Glocal · Champignons, Kürbis, Wirz, Baumnüsse, Rucola",
+              "title": "Tofu Sweet and Sour, Port. 310g",
+              "description": "Glocal · Sesam Nudeln vegan, Chou chinois, Menüsalat mit Knorr",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Bœuf haché Picadillo, port. 280g",
-              "description": "Traditional · Menüsalat mit Knorr, Tortilla Chips / Chips de maïs / Nachos, Crème acidulée, Citron vert / Limette, Trockenreis",
+              "title": "Wild Bratwurst",
+              "description": "Traditional · Spätzli, Rosmarin Sauce, Rosenkohl mit Speck Würfeli",
               "price": null,
               "tags": []
             },
@@ -183,16 +189,16 @@
         "en": {
           "items": [
             {
-              "title": "<g id=\"720\"/><g id=\"723\">Orecchiette</g>",
-              "description": "Glocal · Mushrooms, Pumpkin, Wirz, Tree Nuts, Arugula",
+              "title": "SWEET & SOUR",
+              "description": "Glocal · Sesame noodles, tofu, pepperoni, onions, Chinese cabbage, pineapple, menu salad",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PICADILLO",
-              "description": "Traditional · Beef, long grain rice, tortilla chips, sour cream, lime, menu salad",
+              "title": "Wild roast sausage",
+              "description": "Traditional · Spätzli, rosemary sauce, Brussels sprouts with bacon",
               "price": null,
               "tags": []
             },
@@ -237,22 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "ORECCHIETTE",
-              "description": "Veggie Bowl · Champignons, Kürbis, Wirz, Baumnüsse, Rucola",
+              "title": "SWEET & SOUR",
+              "description": "Veggie Bowl · Sesamnudeln, Tofu, Peperoni, Zwiebeln, Chinakohl, Ananas, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PICADILLO",
-              "description": "Traditional Bowl · Rindfleisch, Langkornreis, Tortillachips, Sauerrahm, Limette, Menüsalat",
+              "title": "WILDBRATWURST",
+              "description": "Traditional Bowl · Spätzli, Rosmarinsauce, Rosenkohl & Speck",
               "price": null,
               "tags": []
             },
             {
-              "title": "BAMI GORENG",
-              "description": "Soul Food · mit Poulet, Gemüse, Ketjap manis, Sambal Oelek, Limtte,, Erdnuss, Sojasprosse und Koriander",
+              "title": "SCHWEINS PAPRIKA RAGOUT",
+              "description": "Soul Food · Butter Nudeln, Broccoli",
               "price": null,
               "tags": []
             }
@@ -261,22 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "ORECCHIETTE",
-              "description": "Veggie Bowl · Champignons, Kürbis, Wirz, Baumnüsse, Rucola",
+              "title": "SWEET & SOUR",
+              "description": "Veggie Bowl · Sesamnudeln, Tofu, Peperoni, Zwiebeln, Chinakohl, Ananas, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PICADILLO",
-              "description": "Traditional Bowl · Rindfleisch, Langkornreis, Tortillachips, Sauerrahm, Limette, Menüsalat",
+              "title": "WILDBRATWURST",
+              "description": "Traditional Bowl · Spätzli, Rosmarinsauce, Rosenkohl & Speck",
               "price": null,
               "tags": []
             },
             {
-              "title": "BAMI GORENG",
-              "description": "Soul Food · mit Poulet, Gemüse, Ketjap manis, Sambal Oelek, Limtte,, Erdnuss, Sojasprosse und Koriander",
+              "title": "SCHWEINS PAPRIKA RAGOUT",
+              "description": "Soul Food · Butter Nudeln, Broccoli",
               "price": null,
               "tags": []
             }
@@ -285,22 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "<g id=\"720\"/><g id=\"723\">Orecchiette</g>",
-              "description": "Veggie Bowl · Mushrooms, Pumpkin, Wirz, Tree Nuts, Arugula",
+              "title": "SWEET & SOUR",
+              "description": "Veggie Bowl · Sesame noodles, tofu, peppers, onions, Chinese cabbage, pineapple, menu salad",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PICADILLO",
-              "description": "Traditional Bowl · Beef, Long Grain Rice, Tortilla Chips, Sour Cream, Lime, Menu Salad",
+              "title": "Wild roast sausage",
+              "description": "Traditional Bowl · Spätzli, rosemary sauce, Brussels sprouts & bacon",
               "price": null,
               "tags": []
             },
             {
-              "title": "BAMI GORENG",
-              "description": "Soul Food · with chicken, vegetables, ketjap manis, sambal oelek, lime, peanut, soy shoot and coriander",
+              "title": "PORK PEPPER RAGOUT",
+              "description": "Soul Food · Butter Noodles, Broccoli",
               "price": null,
               "tags": []
             }
