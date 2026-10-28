@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T11:57:14+00:00",
-  "date": "2026-10-27",
-  "weekday": "tuesday",
+  "generated_at": "2026-10-28T12:34:04+00:00",
+  "date": "2026-10-28",
+  "weekday": "wednesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Grünes Thai-Curry (vegan)",
-              "description": "Weizennudeln, Zucchetti, Edamame, Erbsen, Kefen, Spinat, Broccoli, Paprika, Limette, Sesam, Cashew",
+              "title": "Hausgemachte Lasagne",
+              "description": "JUMI-Käse, Ackerbohnen-Bolognese, Rucola, Zitronen-Vinaigrette, Pangrattato",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Green Thai Curry (vegan)",
-              "description": "Wheat Noodles, Zucchini, Edamame, Peas, Snow Peas, Spinach, Broccoli, Bell Peppers, Lime, Sesame, Cashews",
+              "title": "Homemade Lasagna",
+              "description": "JUMI Cheese, Fava Bean Bolognese, Arugula, Lemon Vinaigrette, Breadcrumbs",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Curry thaï vert (végétalien)",
-              "description": "Pâtes de blé, courgettes, edamame, pois, pois, pois chiches, épinards, brocolis, poivrons, citron vert, sésame, noix de cajou",
+              "title": "Lasagne maison",
+              "description": "Fromage JUMI, bolognaise aux féveroles, roquette, vinaigrette au citron, pangrattato",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,9 +82,17 @@
         "de": {
           "items": [
             {
-              "title": "Bulgur Gemüse Pfanne mit Tofu Karotten Baba Ganoush & gehackten Mandeln",
+              "title": "Saitan Geschnetzeltes Stroganoff Art mit sautierten Pilzen, Rösti & Broccoli",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Rinds Stroganoff mit sautierten Pilzen Rösti & Broccoli",
+              "description": "inkl. Salat oder Suppe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -98,9 +100,17 @@
         "en": {
           "items": [
             {
-              "title": "Bulgur Vegetable Pan with Tofu Carrots Baba Ganoush & Chopped Almonds",
+              "title": "Saitan Sliced stroganoff type with sautéed mushrooms, rosti & broccoli",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Beef stroganoff with sautéed mushrooms Rösti & broccoli",
+              "description": "incl. salad or soup",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -109,9 +119,17 @@
         "fr": {
           "items": [
             {
-              "title": "Poêle à légumes boulgour au tofu Carottes Baba Ganoush & amandes hachées",
+              "title": "Saitan Émincé Stroganoff type aux champignons sautés, röstis et brocolis",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Stroganoff de bœuf aux champignons sautés Rösti & brocoli",
+              "description": "incl. salade ou soupe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -129,16 +147,16 @@
         "de": {
           "items": [
             {
-              "title": "SWEET & SOUR",
-              "description": "Glocal · Sesamnudeln, Tofu, Peperoni, Zwiebeln, Chinakohl, Ananas, Menüsalat",
+              "title": "GERSTE",
+              "description": "Glocal · Broccoli, Karotten, Kichererbsen, Honig-Chili Quark, Balsamico Essig, Spinat, Hanf Samen, Sonnenblumen Crunch",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "WILDBRATWURST",
-              "description": "Traditional · Spätzli, Rosmarin Sauce, Rosenkohl mit Speck",
+              "title": "ADOBADA",
+              "description": "Traditional · Schweinehals, Tomatensalsa, Süsskartoffelpüree, Blattspinat, rote Zwiebel Pickles",
               "price": null,
               "tags": []
             },
@@ -159,16 +177,16 @@
         "fr": {
           "items": [
             {
-              "title": "Tofu Sweet and Sour, Port. 310g",
-              "description": "Glocal · Sesam Nudeln vegan, Chou chinois, Menüsalat mit Knorr",
+              "title": "geröstete Gerste,  gekocht",
+              "description": "Glocal · Broccoli gedämpft, Honig-Chili-Quark, Kichererbsen Dose, Karotten gebacken, Hanf Samen, Epinards fins / Epinards à feuilles fines (prêt à l’emploi), Roots / Sonnenblumen Crunch, Vinaigre balsamique rouge",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Wild Bratwurst",
-              "description": "Traditional · Spätzli, Rosmarin Sauce, Rosenkohl mit Speck Würfeli",
+              "title": "Rôti de cou de porc Adobada, port. 120g",
+              "description": "Traditional · Purée de patate douce et de citron vert, Salsa de tomate pico de gallo, Épinards en branche étuvés, port. à 120g, Pickles des Oignons rouges",
               "price": null,
               "tags": []
             },
@@ -189,16 +207,16 @@
         "en": {
           "items": [
             {
-              "title": "SWEET & SOUR",
-              "description": "Glocal · Sesame noodles, tofu, pepperoni, onions, Chinese cabbage, pineapple, menu salad",
+              "title": "- Barley",
+              "description": "Glocal · broccoli, carrots, chickpeas, honey-chilli curd, balsamic vinegar, spinach, hemp seeds, sunflower crunch",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Wild roast sausage",
-              "description": "Traditional · Spätzli, rosemary sauce, Brussels sprouts with bacon",
+              "title": "ADOBADA",
+              "description": "Traditional · Pork neck, tomato salsa, sweet potato puree, spinach leaves, red onion pickles",
               "price": null,
               "tags": []
             },
@@ -243,22 +261,22 @@
         "de": {
           "items": [
             {
-              "title": "SWEET & SOUR",
-              "description": "Veggie Bowl · Sesamnudeln, Tofu, Peperoni, Zwiebeln, Chinakohl, Ananas, Menüsalat",
+              "title": "GERSTE",
+              "description": "Veggie Bowl · Broccoli, Karotten und Kichererbsen, Honig Chili Quark,  Balsamicoessig, Sonnenblumen, Spinat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "WILDBRATWURST",
-              "description": "Traditional Bowl · Spätzli, Rosmarinsauce, Rosenkohl & Speck",
+              "title": "ADOBADA",
+              "description": "Traditional Bowl · Schweinefleisch, Tomatensalsa, Süsskartoffelpüree, Blattspinat, Zwiebel Pickles",
               "price": null,
               "tags": []
             },
             {
-              "title": "SCHWEINS PAPRIKA RAGOUT",
-              "description": "Soul Food · Butter Nudeln, Broccoli",
+              "title": "CHILI CON CARNE",
+              "description": "Soul Food · mit Rind, Bohnen und Mais, Gewürzreis, Koriander, Zwiebeln, Sauerrahm",
               "price": null,
               "tags": []
             }
@@ -267,22 +285,22 @@
         "fr": {
           "items": [
             {
-              "title": "SWEET & SOUR",
-              "description": "Veggie Bowl · Sesamnudeln, Tofu, Peperoni, Zwiebeln, Chinakohl, Ananas, Menüsalat",
+              "title": "GERSTE",
+              "description": "Veggie Bowl · Broccoli, Karotten und Kichererbsen, Honig Chili Quark,  Balsamicoessig, Sonnenblumen, Spinat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "WILDBRATWURST",
-              "description": "Traditional Bowl · Spätzli, Rosmarinsauce, Rosenkohl & Speck",
+              "title": "ADOBADA",
+              "description": "Traditional Bowl · Schweinefleisch, Tomatensalsa, Süsskartoffelpüree, Blattspinat, Zwiebel Pickles",
               "price": null,
               "tags": []
             },
             {
-              "title": "SCHWEINS PAPRIKA RAGOUT",
-              "description": "Soul Food · Butter Nudeln, Broccoli",
+              "title": "CHILI CON CARNE",
+              "description": "Soul Food · mit Rind, Bohnen und Mais, Gewürzreis, Koriander, Zwiebeln, Sauerrahm",
               "price": null,
               "tags": []
             }
@@ -291,22 +309,22 @@
         "en": {
           "items": [
             {
-              "title": "SWEET & SOUR",
-              "description": "Veggie Bowl · Sesame noodles, tofu, peppers, onions, Chinese cabbage, pineapple, menu salad",
+              "title": "- Barley",
+              "description": "Veggie Bowl · Broccoli, Carrots and Chickpeas, Honey Chili Quark,  Balsamic Vinegar, Sunflowers, Spinach",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Wild roast sausage",
-              "description": "Traditional Bowl · Spätzli, rosemary sauce, Brussels sprouts & bacon",
+              "title": "ADOBADA",
+              "description": "Traditional Bowl · Pork, tomato salsa, sweet potato puree, spinach leaves, onion pickles",
               "price": null,
               "tags": []
             },
             {
-              "title": "PORK PEPPER RAGOUT",
-              "description": "Soul Food · Butter Noodles, Broccoli",
+              "title": "CHILLI CON CARNE",
+              "description": "Soul Food · with beef, beans and corn, spiced rice, coriander, onions, sour cream",
               "price": null,
               "tags": []
             }
