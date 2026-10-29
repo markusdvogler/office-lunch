@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T12:34:04+00:00",
-  "date": "2026-10-28",
-  "weekday": "wednesday",
+  "generated_at": "2026-10-29T12:44:56+00:00",
+  "date": "2026-10-29",
+  "weekday": "thursday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Hausgemachte Lasagne",
-              "description": "JUMI-Käse, Ackerbohnen-Bolognese, Rucola, Zitronen-Vinaigrette, Pangrattato",
+              "title": "Satay-Spitzkohl (vegan)",
+              "description": "Erdnuss-Satay, Jasminreis, Edamame, Limette, Crispy Chili, Frühlingszwiebeln, Sprossen",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Homemade Lasagna",
-              "description": "JUMI Cheese, Fava Bean Bolognese, Arugula, Lemon Vinaigrette, Breadcrumbs",
+              "title": "Satay Pointed Cabbage (vegan)",
+              "description": "Peanut Satay, Jasmine Rice, Edamame, Lime, Crispy Chili, Scallions, Sprouts",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Lasagne maison",
-              "description": "Fromage JUMI, bolognaise aux féveroles, roquette, vinaigrette au citron, pangrattato",
+              "title": "Chou pointu Satay (végétalien)",
+              "description": "Satay de cacahuètes, riz au jasmin, edamame, citron vert, piment croustillant, oignons nouveaux, germes",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,17 +88,9 @@
         "de": {
           "items": [
             {
-              "title": "Saitan Geschnetzeltes Stroganoff Art mit sautierten Pilzen, Rösti & Broccoli",
+              "title": "Kürbisrisotto mit geröstetem Feta Quittenschaum & Federkohl Chip",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Rinds Stroganoff mit sautierten Pilzen Rösti & Broccoli",
-              "description": "inkl. Salat oder Suppe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -100,17 +98,9 @@
         "en": {
           "items": [
             {
-              "title": "Saitan Sliced stroganoff type with sautéed mushrooms, rosti & broccoli",
+              "title": "Pumpkin risotto with roasted feta quince foam & spring cabbage chip",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Beef stroganoff with sautéed mushrooms Rösti & broccoli",
-              "description": "incl. salad or soup",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -119,17 +109,9 @@
         "fr": {
           "items": [
             {
-              "title": "Saitan Émincé Stroganoff type aux champignons sautés, röstis et brocolis",
+              "title": "Risotto à la citrouille avec de la mousse de coing feta grillée et une puce de chou frisé",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Stroganoff de bœuf aux champignons sautés Rösti & brocoli",
-              "description": "incl. salade ou soupe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -147,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "GERSTE",
-              "description": "Glocal · Broccoli, Karotten, Kichererbsen, Honig-Chili Quark, Balsamico Essig, Spinat, Hanf Samen, Sonnenblumen Crunch",
+              "title": "JEERA DAL",
+              "description": "Glocal · Indisches Linsengericht, Spinat, Basmatireis, Gurken Pickles, Granatapfel",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "ADOBADA",
-              "description": "Traditional · Schweinehals, Tomatensalsa, Süsskartoffelpüree, Blattspinat, rote Zwiebel Pickles",
+              "title": "JÄGER ART",
+              "description": "Traditional · Poulet Schenkel, Rotweinsauce, Bratkartoffeln mit Rosmarin, Pastinaken",
               "price": null,
               "tags": []
             },
@@ -177,16 +159,16 @@
         "fr": {
           "items": [
             {
-              "title": "geröstete Gerste,  gekocht",
-              "description": "Glocal · Broccoli gedämpft, Honig-Chili-Quark, Kichererbsen Dose, Karotten gebacken, Hanf Samen, Epinards fins / Epinards à feuilles fines (prêt à l’emploi), Roots / Sonnenblumen Crunch, Vinaigre balsamique rouge",
+              "title": "Jeera Dal, Port. 170g",
+              "description": "Glocal · Spinat indische Art, Basmati Reis gedämpft Steamer, Gurken Pickles, Grains de grenade",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Rôti de cou de porc Adobada, port. 120g",
-              "description": "Traditional · Purée de patate douce et de citron vert, Salsa de tomate pico de gallo, Épinards en branche étuvés, port. à 120g, Pickles des Oignons rouges",
+              "title": "Poulet Schenkel ganz gebraten Jäger Art",
+              "description": "Traditional · Rotwein Sauce Basis Demi Glace, Bratkartoffeln Brätler Rosmarin, Pastinaken gebraten",
               "price": null,
               "tags": []
             },
@@ -207,16 +189,16 @@
         "en": {
           "items": [
             {
-              "title": "- Barley",
-              "description": "Glocal · broccoli, carrots, chickpeas, honey-chilli curd, balsamic vinegar, spinach, hemp seeds, sunflower crunch",
+              "title": "JEERA DAL",
+              "description": "Glocal · Indian lentil dish, spinach, basmati rice, cucumber pickles, pomegranate",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "ADOBADA",
-              "description": "Traditional · Pork neck, tomato salsa, sweet potato puree, spinach leaves, red onion pickles",
+              "title": "hunter-style",
+              "description": "Traditional · chicken thigh, red wine sauce, fried potatoes with rosemary, parsnips",
               "price": null,
               "tags": []
             },
@@ -261,22 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "GERSTE",
-              "description": "Veggie Bowl · Broccoli, Karotten und Kichererbsen, Honig Chili Quark,  Balsamicoessig, Sonnenblumen, Spinat",
+              "title": "JEERA DAL",
+              "description": "Veggie Bowl · Indisches Linsengericht, Spinat, Basmatireis, Gurken, Granatapfel",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "ADOBADA",
-              "description": "Traditional Bowl · Schweinefleisch, Tomatensalsa, Süsskartoffelpüree, Blattspinat, Zwiebel Pickles",
+              "title": "JÄGER ART",
+              "description": "Traditional Bowl · Pouletschenkel, Rotweinsauce, Bratkartoffeln & Rosmarin, Pastinaken",
               "price": null,
               "tags": []
             },
             {
-              "title": "CHILI CON CARNE",
-              "description": "Soul Food · mit Rind, Bohnen und Mais, Gewürzreis, Koriander, Zwiebeln, Sauerrahm",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck & Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -285,22 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "GERSTE",
-              "description": "Veggie Bowl · Broccoli, Karotten und Kichererbsen, Honig Chili Quark,  Balsamicoessig, Sonnenblumen, Spinat",
+              "title": "JEERA DAL",
+              "description": "Veggie Bowl · Indisches Linsengericht, Spinat, Basmatireis, Gurken, Granatapfel",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "ADOBADA",
-              "description": "Traditional Bowl · Schweinefleisch, Tomatensalsa, Süsskartoffelpüree, Blattspinat, Zwiebel Pickles",
+              "title": "JÄGER ART",
+              "description": "Traditional Bowl · Pouletschenkel, Rotweinsauce, Bratkartoffeln & Rosmarin, Pastinaken",
               "price": null,
               "tags": []
             },
             {
-              "title": "CHILI CON CARNE",
-              "description": "Soul Food · mit Rind, Bohnen und Mais, Gewürzreis, Koriander, Zwiebeln, Sauerrahm",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck & Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -309,22 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "- Barley",
-              "description": "Veggie Bowl · Broccoli, Carrots and Chickpeas, Honey Chili Quark,  Balsamic Vinegar, Sunflowers, Spinach",
+              "title": "JEERA DAL",
+              "description": "Veggie Bowl · Indian lentil dish, spinach, basmati rice, cucumber, pomegranate",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "ADOBADA",
-              "description": "Traditional Bowl · Pork, tomato salsa, sweet potato puree, spinach leaves, onion pickles",
+              "title": "hunter-style",
+              "description": "Traditional bowl · chicken legs, red wine sauce, fried potatoes & rosemary, parsnips",
               "price": null,
               "tags": []
             },
             {
-              "title": "CHILLI CON CARNE",
-              "description": "Soul Food · with beef, beans and corn, spiced rice, coriander, onions, sour cream",
+              "title": "BEEFBURGER",
+              "description": "Soul food · with bacon & cheddar, French fries",
               "price": null,
               "tags": []
             }
