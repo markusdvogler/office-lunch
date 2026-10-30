@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T12:44:56+00:00",
-  "date": "2026-10-29",
-  "weekday": "thursday",
+  "generated_at": "2026-10-30T12:36:23+00:00",
+  "date": "2026-10-30",
+  "weekday": "friday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Satay-Spitzkohl (vegan)",
-              "description": "Erdnuss-Satay, Jasminreis, Edamame, Limette, Crispy Chili, Frühlingszwiebeln, Sprossen",
+              "title": "Ratatouille mit Polenta",
+              "description": "Fenchel-Spinat-Salat, Kräuterdressing, Parmesan, Geröstete Nüsse",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Satay Pointed Cabbage (vegan)",
-              "description": "Peanut Satay, Jasmine Rice, Edamame, Lime, Crispy Chili, Scallions, Sprouts",
+              "title": "Ratatouille with Polenta",
+              "description": "Fennel & Spinach Salad, Herb Drizzle, Parmesan, Roasted Nuts",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Chou pointu Satay (végétalien)",
-              "description": "Satay de cacahuètes, riz au jasmin, edamame, citron vert, piment croustillant, oignons nouveaux, germes",
+              "title": "Ratatouille à la polenta",
+              "description": "Salade d'épinards au fenouil, vinaigrette aux herbes, parmesan, noix grillées",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Kürbisrisotto mit geröstetem Feta Quittenschaum & Federkohl Chip",
+              "title": "Spaghetti mit Waldpilzrahmsauce Bergkäse Hobel & Rosmarin Croutons",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -98,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Pumpkin risotto with roasted feta quince foam & spring cabbage chip",
+              "title": "Spaghetti with forest mushroom cream sauce mountain cheese slicer & rosemary croutons",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -109,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Risotto à la citrouille avec de la mousse de coing feta grillée et une puce de chou frisé",
+              "title": "Spaghetti à la sauce aux champignons des bois Fromage de montagne Raboteuse & Croûtons au romarin",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -129,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "JEERA DAL",
-              "description": "Glocal · Indisches Linsengericht, Spinat, Basmatireis, Gurken Pickles, Granatapfel",
+              "title": "BAMI GORENG",
+              "description": "Glocal · Frühlingsrollen mit Gemüse, Sweet Chili Sauce",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "JÄGER ART",
-              "description": "Traditional · Poulet Schenkel, Rotweinsauce, Bratkartoffeln mit Rosmarin, Pastinaken",
+              "title": "Yaye Cheeseburger in Sesam Buns",
+              "description": "Traditional · Rainbow Slaw, Essiggurke, Haussauce, Pommes frites",
               "price": null,
               "tags": []
             },
@@ -147,28 +141,22 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate & warme Toppings",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Yaye Cheeseburger in Sesam Buns",
-              "description": "Weekly Special · Rainbow Slaw, Essiggurke, Haussauce, Pommes frites",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Jeera Dal, Port. 170g",
-              "description": "Glocal · Spinat indische Art, Basmati Reis gedämpft Steamer, Gurken Pickles, Grains de grenade",
+              "title": "Bami Goreng Gemüse Tofu, Port. 350g",
+              "description": "Glocal · Rouleaux de printemps aux légumes, port. à 140g, Sweet Chilisauce",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Poulet Schenkel ganz gebraten Jäger Art",
-              "description": "Traditional · Rotwein Sauce Basis Demi Glace, Bratkartoffeln Brätler Rosmarin, Pastinaken gebraten",
+              "title": "Rinds Burger mit Cheddar Käse, Port. 320g",
+              "description": "Traditional · Rainbow Slaw, Sauce cocktail, Pommes frites",
               "price": null,
               "tags": []
             },
@@ -177,40 +165,28 @@
               "description": "Salate · Salade de carottes, Salade de betterave rouge, Salade de concombre à l’aneth, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Rinds Burger mit Cheddar Käse, Port. 320g",
-              "description": "Weekly Special · Rainbow Slaw, Sauce cocktail, Pommes frites",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "JEERA DAL",
-              "description": "Glocal · Indian lentil dish, spinach, basmati rice, cucumber pickles, pomegranate",
+              "title": "BAMI GORENG",
+              "description": "Glocal · Spring rolls with vegetables, sweet chili sauce",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "hunter-style",
-              "description": "Traditional · chicken thigh, red wine sauce, fried potatoes with rosemary, parsnips",
+              "title": "Yaye Cheeseburger in Sesame Buns",
+              "description": "Traditional · Rainbow Slaw, pickle, house sauce, French fries",
               "price": null,
               "tags": []
             },
             {
               "title": "Seasonal salad bar: tell us",
               "description": "Salads · what you want on your plate!, leaf salad, homemade salads & warm toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Yaye Cheeseburger in Sesame Buns",
-              "description": "Weekly Special · Rainbow Slaw, Pickle, House Sauce, French Fries",
               "price": null,
               "tags": []
             }
@@ -243,22 +219,22 @@
         "de": {
           "items": [
             {
-              "title": "JEERA DAL",
-              "description": "Veggie Bowl · Indisches Linsengericht, Spinat, Basmatireis, Gurken, Granatapfel",
+              "title": "TORTELLINI",
+              "description": "Veggie Bowl · Ricotta & Spinat, Tomatensauce mit Oliven & Basilikum, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "JÄGER ART",
-              "description": "Traditional Bowl · Pouletschenkel, Rotweinsauce, Bratkartoffeln & Rosmarin, Pastinaken",
+              "title": "WRAP DE PESCADO",
+              "description": "Traditional Bowl · Seelachs, Tomaten, Koriander, Rotkabis, Mango, Peperoni,Avocado, Sauerrahm, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck & Cheddar, Pommes frites",
+              "title": "Elsässer Flammkuchen",
+              "description": "Soul Food · mit Speck, Zwiebeln, Creme fraiche,, Bergkäse & Schnittlauch",
               "price": null,
               "tags": []
             }
@@ -267,22 +243,22 @@
         "fr": {
           "items": [
             {
-              "title": "JEERA DAL",
-              "description": "Veggie Bowl · Indisches Linsengericht, Spinat, Basmatireis, Gurken, Granatapfel",
+              "title": "TORTELLINI",
+              "description": "Veggie Bowl · Ricotta & Spinat, Tomatensauce mit Oliven & Basilikum, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "JÄGER ART",
-              "description": "Traditional Bowl · Pouletschenkel, Rotweinsauce, Bratkartoffeln & Rosmarin, Pastinaken",
+              "title": "WRAP DE PESCADO",
+              "description": "Traditional Bowl · Seelachs, Tomaten, Koriander, Rotkabis, Mango, Peperoni,Avocado, Sauerrahm, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck & Cheddar, Pommes frites",
+              "title": "Elsässer Flammkuchen",
+              "description": "Soul Food · mit Speck, Zwiebeln, Creme fraiche,, Bergkäse & Schnittlauch",
               "price": null,
               "tags": []
             }
@@ -291,22 +267,22 @@
         "en": {
           "items": [
             {
-              "title": "JEERA DAL",
-              "description": "Veggie Bowl · Indian lentil dish, spinach, basmati rice, cucumber, pomegranate",
+              "title": "TORTELLINI",
+              "description": "Veggie Bowl · Ricotta & Spinach, Tomato Sauce with Olives & Basil, Menu Salad",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "hunter-style",
-              "description": "Traditional bowl · chicken legs, red wine sauce, fried potatoes & rosemary, parsnips",
+              "title": "WRAP DE PESCADO",
+              "description": "Traditional Bowl · Pollock, Tomatoes, Coriander, Red Cabbage, Mango, Pepperoni, Avocado, Sour Cream, Menu Salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul food · with bacon & cheddar, French fries",
+              "title": "ALSACE FLAMMKUCHEN",
+              "description": "Soul Food · with bacon, onions, crème fraiche, mountain cheese & chives",
               "price": null,
               "tags": []
             }
