@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T12:36:23+00:00",
-  "date": "2026-10-30",
-  "weekday": "friday",
+  "generated_at": "2026-11-02T15:26:47+00:00",
+  "date": "2026-11-02",
+  "weekday": "monday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Ratatouille mit Polenta",
-              "description": "Fenchel-Spinat-Salat, Kräuterdressing, Parmesan, Geröstete Nüsse",
+              "title": "Tzatziki-Bowl",
+              "description": "Shirazi-Salat, Gerösteter Blumenkohl, Kichererbsen, Limettenöl, Sprossen",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Ratatouille with Polenta",
-              "description": "Fennel & Spinach Salad, Herb Drizzle, Parmesan, Roasted Nuts",
+              "title": "Tzatziki Bowl",
+              "description": "Shirazi Salad, Roasted Cauliflower, Chickpeas, Lime Oil, Sprouts",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Ratatouille à la polenta",
-              "description": "Salade d'épinards au fenouil, vinaigrette aux herbes, parmesan, noix grillées",
+              "title": "Tzatziki-Bowl",
+              "description": "Salade de shirazi, chou-fleur grillé, pois chiches, huile de citron vert, germes",
               "price": null,
               "tags": []
             }
@@ -82,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Spaghetti mit Waldpilzrahmsauce Bergkäse Hobel & Rosmarin Croutons",
+              "title": "Gratinierte Spätzli-Pfanne mit Champignons, Röstgemüse & Schmelzwiebeln",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Spaghetti with forest mushroom cream sauce mountain cheese slicer & rosemary croutons",
+              "title": "Gratinated spaetzle pan with mushrooms, roasted vegetables & melted onions",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Spaghetti à la sauce aux champignons des bois Fromage de montagne Raboteuse & Croûtons au romarin",
+              "title": "Spätzli gratiné aux champignons, légumes grillés et oignons fondus",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -112,7 +112,7 @@
           "translated_from": "de"
         }
       },
-      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-44.pdf",
+      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-45.pdf",
       "error": null
     },
     {
@@ -123,22 +123,26 @@
         "de": {
           "items": [
             {
-              "title": "BAMI GORENG",
-              "description": "Glocal · Frühlingsrollen mit Gemüse, Sweet Chili Sauce",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Yaye Cheeseburger in Sesam Buns",
-              "description": "Traditional · Rainbow Slaw, Essiggurke, Haussauce, Pommes frites",
+              "title": "HERBSTEINTOPF",
+              "description": "Glocal · Jasminreis, weisse Bohnen, Kichererbsen, Erbsen, Karotten, Kürbis, Lauch, Röstzwiebeln, Rucola, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "Seasonal Salatbar: sagen Sie uns",
+              "title": "SCHWEINSSALTIMBOCCA",
+              "description": "Traditional · Portweinsauce, Tagliatelle, Blattspinat",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "SAISONALE SALATBAR: sagen Sie uns",
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate & warme Toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "SCHWEINS CORDON BLEU",
+              "description": "Weekly Special · Pommes frites, Blattsalat mit Haus Dressing",
               "price": null,
               "tags": []
             }
@@ -147,22 +151,26 @@
         "fr": {
           "items": [
             {
-              "title": "Bami Goreng Gemüse Tofu, Port. 350g",
-              "description": "Glocal · Rouleaux de printemps aux légumes, port. à 140g, Sweet Chilisauce",
+              "title": "Herbstlicher-Eintopf mit weissen Bohnen, Kichererbsen, Erbsen, Karotten, Kürbis und Lauch",
+              "description": "Glocal · Jasmin Reis, Oignon rôti, séché, Roquette, Menüsalat mit Knorr, French Dressing",
               "price": null,
-              "tags": [
-                "vegetarian"
-              ]
+              "tags": []
             },
             {
-              "title": "Rinds Burger mit Cheddar Käse, Port. 320g",
-              "description": "Traditional · Rainbow Slaw, Sauce cocktail, Pommes frites",
+              "title": "Schweins Saltimbocca, Port. 150g",
+              "description": "Traditional · Portwein Sauce, Tagliatelle / Fettucine, déshydratées, Blattspinat Gemüse",
               "price": null,
               "tags": []
             },
             {
               "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Salade de carottes, Salade de betterave rouge, Salade de concombre à l’aneth, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "description": "Salate · Salade de carottes, Salade de concombre à l’aneth, Taboulé, port. à 200g, Salade de betterave rouge, Sauce à salade au vinaigre balsamique",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Cordon bleu de porc, pané, port. à 150g",
+              "description": "Weekly Special · Pommes frites, Mélange de feuilles de salade, Salad Bowl",
               "price": null,
               "tags": []
             }
@@ -171,22 +179,26 @@
         "en": {
           "items": [
             {
-              "title": "BAMI GORENG",
-              "description": "Glocal · Spring rolls with vegetables, sweet chili sauce",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Yaye Cheeseburger in Sesame Buns",
-              "description": "Traditional · Rainbow Slaw, pickle, house sauce, French fries",
+              "title": "Autumn stone pot",
+              "description": "Glocal · Jasmine rice, white beans, chickpeas, peas, carrots, pumpkin, leek, roasted onions, rocket, menu salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "Seasonal salad bar: tell us",
+              "title": "Pork SALTIMBOCCA",
+              "description": "Traditional · Port wine sauce, tagliatelle, spinach leaves",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "SEASONAL SALAD BAR: tell us",
               "description": "Salads · what you want on your plate!, leaf salad, homemade salads & warm toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Pork cordon bleu",
+              "description": "Weekly Special · French fries, leaf salad with house dressing",
               "price": null,
               "tags": []
             }
@@ -219,22 +231,20 @@
         "de": {
           "items": [
             {
-              "title": "TORTELLINI",
-              "description": "Veggie Bowl · Ricotta & Spinat, Tomatensauce mit Oliven & Basilikum, Menüsalat",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "WRAP DE PESCADO",
-              "description": "Traditional Bowl · Seelachs, Tomaten, Koriander, Rotkabis, Mango, Peperoni,Avocado, Sauerrahm, Menüsalat",
+              "title": "HERBSTEINTOPF",
+              "description": "Veggie Bowl · Jasminreis, weisse Bohnen, Kichererbsen, Erbsen, Karotten, Kürbis & Lauch,  Röstzwiebeln,  Rucola, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "Elsässer Flammkuchen",
-              "description": "Soul Food · mit Speck, Zwiebeln, Creme fraiche,, Bergkäse & Schnittlauch",
+              "title": "SCHWEINSSALTIMBOCCA",
+              "description": "Traditional Bowl · Portweinsauce, Tagliatelle, Blattspinat",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "RINDS HACKBRATEN",
+              "description": "Soul Food · Kräuter Kartoffelstock, Erbsli und Rüebli, Pfeffersauce",
               "price": null,
               "tags": []
             }
@@ -243,22 +253,20 @@
         "fr": {
           "items": [
             {
-              "title": "TORTELLINI",
-              "description": "Veggie Bowl · Ricotta & Spinat, Tomatensauce mit Oliven & Basilikum, Menüsalat",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "WRAP DE PESCADO",
-              "description": "Traditional Bowl · Seelachs, Tomaten, Koriander, Rotkabis, Mango, Peperoni,Avocado, Sauerrahm, Menüsalat",
+              "title": "HERBSTEINTOPF",
+              "description": "Veggie Bowl · Jasminreis, weisse Bohnen, Kichererbsen, Erbsen, Karotten, Kürbis & Lauch,  Röstzwiebeln,  Rucola, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "Elsässer Flammkuchen",
-              "description": "Soul Food · mit Speck, Zwiebeln, Creme fraiche,, Bergkäse & Schnittlauch",
+              "title": "SCHWEINSSALTIMBOCCA",
+              "description": "Traditional Bowl · Portweinsauce, Tagliatelle, Blattspinat",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "RINDS HACKBRATEN",
+              "description": "Soul Food · Kräuter Kartoffelstock, Erbsli und Rüebli, Pfeffersauce",
               "price": null,
               "tags": []
             }
@@ -267,22 +275,20 @@
         "en": {
           "items": [
             {
-              "title": "TORTELLINI",
-              "description": "Veggie Bowl · Ricotta & Spinach, Tomato Sauce with Olives & Basil, Menu Salad",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "WRAP DE PESCADO",
-              "description": "Traditional Bowl · Pollock, Tomatoes, Coriander, Red Cabbage, Mango, Pepperoni, Avocado, Sour Cream, Menu Salad",
+              "title": "Autumn stone pot",
+              "description": "Veggie Bowl · Jasmine rice, white beans, chickpeas, peas, carrots, pumpkin & leek,  roasted onions,  rocket, menu salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "ALSACE FLAMMKUCHEN",
-              "description": "Soul Food · with bacon, onions, crème fraiche, mountain cheese & chives",
+              "title": "Pork SALTIMBOCCA",
+              "description": "Traditional Bowl · Port Wine Sauce, Tagliatelle, Leaf Spinach",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "BEEF MEATLOAF",
+              "description": "Soul Food · Herbs Potato stick, peas and carrots, pepper sauce",
               "price": null,
               "tags": []
             }
