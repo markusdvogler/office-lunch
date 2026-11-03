@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02T15:26:47+00:00",
-  "date": "2026-11-02",
-  "weekday": "monday",
+  "generated_at": "2026-11-03T13:58:45+00:00",
+  "date": "2026-11-03",
+  "weekday": "tuesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Tzatziki-Bowl",
-              "description": "Shirazi-Salat, Gerösteter Blumenkohl, Kichererbsen, Limettenöl, Sprossen",
+              "title": "Palak Paneer",
+              "description": "Paneer-Käse, Basmatireis, Joghurt, Koriander, Marinierter Babyspinat, Roter Coleslaw",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Tzatziki Bowl",
-              "description": "Shirazi Salad, Roasted Cauliflower, Chickpeas, Lime Oil, Sprouts",
+              "title": "Palak Paneer",
+              "description": "Paneer Cheese, Basmati Rice, Yogurt, Coriander, Marinated Baby Spinach, Red Coleslaw",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Tzatziki-Bowl",
-              "description": "Salade de shirazi, chou-fleur grillé, pois chiches, huile de citron vert, germes",
+              "title": "Palak Paneer",
+              "description": "Fromage paneer, riz basmati, yaourt, coriandre, épinards marinés, coleslaw rouge",
               "price": null,
               "tags": []
             }
@@ -82,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Gratinierte Spätzli-Pfanne mit Champignons, Röstgemüse & Schmelzwiebeln",
+              "title": "Fried Rice mit Shitake Pilzen, Karotten Ei & geröstetem Sesam",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Gratinated spaetzle pan with mushrooms, roasted vegetables & melted onions",
+              "title": "Fried Rice with Shitake Mushrooms, Carrot Egg & Roasted Sesame",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Spätzli gratiné aux champignons, légumes grillés et oignons fondus",
+              "title": "Riz frit aux champignons shitake, oeuf de carotte et sésame grillé",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,14 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "HERBSTEINTOPF",
-              "description": "Glocal · Jasminreis, weisse Bohnen, Kichererbsen, Erbsen, Karotten, Kürbis, Lauch, Röstzwiebeln, Rucola, Menüsalat",
+              "title": "TANTANMEN",
+              "description": "Glocal · Ramen Suppe, Pak-Choi, Champignons, Seitan, asiatischer Chinakohl Salat, Chili, Erdnuss, Sesam",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             },
             {
-              "title": "SCHWEINSSALTIMBOCCA",
-              "description": "Traditional · Portweinsauce, Tagliatelle, Blattspinat",
+              "title": "HIRSCHGESCHNETZELTES",
+              "description": "Traditional · Preiselbeersauce, Schupfnudeln, Rotkraut",
               "price": null,
               "tags": []
             },
@@ -151,14 +153,16 @@
         "fr": {
           "items": [
             {
-              "title": "Herbstlicher-Eintopf mit weissen Bohnen, Kichererbsen, Erbsen, Karotten, Kürbis und Lauch",
-              "description": "Glocal · Jasmin Reis, Oignon rôti, séché, Roquette, Menüsalat mit Knorr, French Dressing",
+              "title": "Tantanmen Ramen Suppe Seitan Hack Pak Choi Mais Champignon",
+              "description": "Glocal · Ramensuppe, Pak Choy, Seitan, Erdnuss, Sesam, Champignons, Chili, Asiatischer Gemüse Chinakohlsalat, Asiatischer Gemüse Chinakohlsalat, Chili, Erdnuss, Sesam",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             },
             {
-              "title": "Schweins Saltimbocca, Port. 150g",
-              "description": "Traditional · Portwein Sauce, Tagliatelle / Fettucine, déshydratées, Blattspinat Gemüse",
+              "title": "Émincé de cerf en sauce aux airelles, port. à 220g",
+              "description": "Traditional · Rotkraut geschmort, Schupfnudeln, Port. 150gr",
               "price": null,
               "tags": []
             },
@@ -179,14 +183,16 @@
         "en": {
           "items": [
             {
-              "title": "Autumn stone pot",
-              "description": "Glocal · Jasmine rice, white beans, chickpeas, peas, carrots, pumpkin, leek, roasted onions, rocket, menu salad",
+              "title": "AuntANTANMEN",
+              "description": "Glocal · Ramen soup, pak-choi, mushrooms, seitan, Asian Chinese cabbage salad, chili, peanut, sesame",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             },
             {
-              "title": "Pork SALTIMBOCCA",
-              "description": "Traditional · Port wine sauce, tagliatelle, spinach leaves",
+              "title": "Deer netted",
+              "description": "Traditional · Cranberry sauce, scoop pasta, red cabbage",
               "price": null,
               "tags": []
             },
@@ -231,20 +237,22 @@
         "de": {
           "items": [
             {
-              "title": "HERBSTEINTOPF",
-              "description": "Veggie Bowl · Jasminreis, weisse Bohnen, Kichererbsen, Erbsen, Karotten, Kürbis & Lauch,  Röstzwiebeln,  Rucola, Menüsalat",
+              "title": "TANTANMEN",
+              "description": "Veggie Bowl · Ramensuppe, Pak Choy, Seitan, Erdnuss, Sesam, Champignons, Chili, Asiatischer Gemüse Chinakohlsalat",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
+            },
+            {
+              "title": "HIRSCHGESCHNETZELTES",
+              "description": "Traditional Bowl · Preiselbeersauce, Schupfnudeln, Rotkraut",
               "price": null,
               "tags": []
             },
             {
-              "title": "SCHWEINSSALTIMBOCCA",
-              "description": "Traditional Bowl · Portweinsauce, Tagliatelle, Blattspinat",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "RINDS HACKBRATEN",
-              "description": "Soul Food · Kräuter Kartoffelstock, Erbsli und Rüebli, Pfeffersauce",
+              "title": "CHICKEN CASHEW NUTS",
+              "description": "Soul Food · mit Peperoni, Zwiebeln, Chilli, Thai Sauce, Cashewnüsse, Jasmin Reis",
               "price": null,
               "tags": []
             }
@@ -253,20 +261,22 @@
         "fr": {
           "items": [
             {
-              "title": "HERBSTEINTOPF",
-              "description": "Veggie Bowl · Jasminreis, weisse Bohnen, Kichererbsen, Erbsen, Karotten, Kürbis & Lauch,  Röstzwiebeln,  Rucola, Menüsalat",
+              "title": "TANTANMEN",
+              "description": "Veggie Bowl · Ramensuppe, Pak Choy, Seitan, Erdnuss, Sesam, Champignons, Chili, Asiatischer Gemüse Chinakohlsalat",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
+            },
+            {
+              "title": "HIRSCHGESCHNETZELTES",
+              "description": "Traditional Bowl · Preiselbeersauce, Schupfnudeln, Rotkraut",
               "price": null,
               "tags": []
             },
             {
-              "title": "SCHWEINSSALTIMBOCCA",
-              "description": "Traditional Bowl · Portweinsauce, Tagliatelle, Blattspinat",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "RINDS HACKBRATEN",
-              "description": "Soul Food · Kräuter Kartoffelstock, Erbsli und Rüebli, Pfeffersauce",
+              "title": "CHICKEN CASHEW NUTS",
+              "description": "Soul Food · mit Peperoni, Zwiebeln, Chilli, Thai Sauce, Cashewnüsse, Jasmin Reis",
               "price": null,
               "tags": []
             }
@@ -275,20 +285,22 @@
         "en": {
           "items": [
             {
-              "title": "Autumn stone pot",
-              "description": "Veggie Bowl · Jasmine rice, white beans, chickpeas, peas, carrots, pumpkin & leek,  roasted onions,  rocket, menu salad",
+              "title": "AuntANTANMEN",
+              "description": "Veggie Bowl · Ram soup, pak choy, seitan, peanut, sesame, mushrooms, chili, Asian vegetable Chinese cabbage salad",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
+            },
+            {
+              "title": "Deer netted",
+              "description": "Traditional bowl · Cranberry sauce, scoop pasta, red cabbage",
               "price": null,
               "tags": []
             },
             {
-              "title": "Pork SALTIMBOCCA",
-              "description": "Traditional Bowl · Port Wine Sauce, Tagliatelle, Leaf Spinach",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "BEEF MEATLOAF",
-              "description": "Soul Food · Herbs Potato stick, peas and carrots, pepper sauce",
+              "title": "CHICKEN CASHEW NUTS",
+              "description": "Soul Food · with pepperoni, onions, chilli, Thai sauce, cashew nuts, jasmine rice",
               "price": null,
               "tags": []
             }
