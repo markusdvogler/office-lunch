@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T13:58:45+00:00",
-  "date": "2026-11-03",
-  "weekday": "tuesday",
+  "generated_at": "2026-11-04T14:12:56+00:00",
+  "date": "2026-11-04",
+  "weekday": "wednesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Palak Paneer",
-              "description": "Paneer-Käse, Basmatireis, Joghurt, Koriander, Marinierter Babyspinat, Roter Coleslaw",
+              "title": "Tagliatelle Napoli (vegan)",
+              "description": "Hausgemachter Tomatensugo, Confierte Cherrytomaten, Kräuterpesto, Basilikum",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Palak Paneer",
-              "description": "Paneer Cheese, Basmati Rice, Yogurt, Coriander, Marinated Baby Spinach, Red Coleslaw",
+              "title": "Tagliatelle Napoli (vegan)",
+              "description": "Homemade Tomato Sauce, Confit Cherry Tomatoes, Herb Pesto, Basil",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Palak Paneer",
-              "description": "Fromage paneer, riz basmati, yaourt, coriandre, épinards marinés, coleslaw rouge",
+              "title": "Tagliatelles napoli (vegan)",
+              "description": "Sugo de tomates maison, tomates cerises confites, pesto aux herbes, basilic",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,9 +88,17 @@
         "de": {
           "items": [
             {
-              "title": "Fried Rice mit Shitake Pilzen, Karotten Ei & geröstetem Sesam",
+              "title": "Wirsingroulade gefüllt mit Bulgur Frischkäserahmsauce & Ofenkartoffeln",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Wirsingroulade gefüllt mit Rinds-Hackfleisch Kümmelrahmsauce & Ofenkartoffeln",
+              "description": "inkl. Salat oder Suppe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -92,9 +106,17 @@
         "en": {
           "items": [
             {
-              "title": "Fried Rice with Shitake Mushrooms, Carrot Egg & Roasted Sesame",
+              "title": "Savoy salad filled with Bulgur cream cheese sauce & baked potatoes",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Savoy salad stuffed with beef mince caraway cream sauce & baked potatoes",
+              "description": "incl. salad or soup",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -103,9 +125,17 @@
         "fr": {
           "items": [
             {
-              "title": "Riz frit aux champignons shitake, oeuf de carotte et sésame grillé",
+              "title": "Roulade de chou farcie au boulgour sauce crème au fromage frais et pommes de terre au four",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Roulade de chou farcie au bœuf haché Sauce à la crème de cumin et pommes de terre au four",
+              "description": "incl. salade ou soupe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -123,16 +153,16 @@
         "de": {
           "items": [
             {
-              "title": "TANTANMEN",
-              "description": "Glocal · Ramen Suppe, Pak-Choi, Champignons, Seitan, asiatischer Chinakohl Salat, Chili, Erdnuss, Sesam",
+              "title": "TOFU GULASCH",
+              "description": "Glocal · Kartoffel-Broccoli Stampf, Soja Joghurt, Frühlingszwiebeln",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "HIRSCHGESCHNETZELTES",
-              "description": "Traditional · Preiselbeersauce, Schupfnudeln, Rotkraut",
+              "title": "TANDOORI",
+              "description": "Traditional · Pouletbrust, Koriander Dip, Beluga Linsen, Menüsalat",
               "price": null,
               "tags": []
             },
@@ -153,16 +183,16 @@
         "fr": {
           "items": [
             {
-              "title": "Tantanmen Ramen Suppe Seitan Hack Pak Choi Mais Champignon",
-              "description": "Glocal · Ramensuppe, Pak Choy, Seitan, Erdnuss, Sesam, Champignons, Chili, Asiatischer Gemüse Chinakohlsalat, Asiatischer Gemüse Chinakohlsalat, Chili, Erdnuss, Sesam",
+              "title": "Tofu Gulasch Ungarische Art, Port. 250g",
+              "description": "Glocal · Kartoffel Broccoli Stampf vegan, Yogourt au soja, Cipolotti / Oignon de printemps",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Émincé de cerf en sauce aux airelles, port. à 220g",
-              "description": "Traditional · Rotkraut geschmort, Schupfnudeln, Port. 150gr",
+              "title": "Pouletschenkel «Tandoori»",
+              "description": "Traditional · Joghurt Koriander Dip, Linsen Beluga gedämpft, Menüsalat mit Knorr, French Dressing",
               "price": null,
               "tags": []
             },
@@ -183,16 +213,16 @@
         "en": {
           "items": [
             {
-              "title": "AuntANTANMEN",
-              "description": "Glocal · Ramen soup, pak-choi, mushrooms, seitan, Asian Chinese cabbage salad, chili, peanut, sesame",
+              "title": "TOFU GOULASH",
+              "description": "Glocal · Potato broccoli mashed potato, soy yogurt, spring onions",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Deer netted",
-              "description": "Traditional · Cranberry sauce, scoop pasta, red cabbage",
+              "title": "TANDOORI",
+              "description": "Traditional · Chicken breast, coriander dip, beluga lentils, menu salad",
               "price": null,
               "tags": []
             },
@@ -237,22 +267,22 @@
         "de": {
           "items": [
             {
-              "title": "TANTANMEN",
-              "description": "Veggie Bowl · Ramensuppe, Pak Choy, Seitan, Erdnuss, Sesam, Champignons, Chili, Asiatischer Gemüse Chinakohlsalat",
+              "title": "TOFU GULASCH",
+              "description": "Veggie Bowl · Tofuwürfel, Kartoffel Broccoli Stampf, Sojajoghurt, frühlingszwiebeln",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "HIRSCHGESCHNETZELTES",
-              "description": "Traditional Bowl · Preiselbeersauce, Schupfnudeln, Rotkraut",
+              "title": "TANDOORI",
+              "description": "Traditional Bowl · Pouletbrust, Korianderdip, Belugalinsen, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "CHICKEN CASHEW NUTS",
-              "description": "Soul Food · mit Peperoni, Zwiebeln, Chilli, Thai Sauce, Cashewnüsse, Jasmin Reis",
+              "title": "KALBSBRATWURST",
+              "description": "Soul Food · Bratkartoffeln, Blumenkohl gebraten, Zwiebel Sauce",
               "price": null,
               "tags": []
             }
@@ -261,22 +291,22 @@
         "fr": {
           "items": [
             {
-              "title": "TANTANMEN",
-              "description": "Veggie Bowl · Ramensuppe, Pak Choy, Seitan, Erdnuss, Sesam, Champignons, Chili, Asiatischer Gemüse Chinakohlsalat",
+              "title": "TOFU GULASCH",
+              "description": "Veggie Bowl · Tofuwürfel, Kartoffel Broccoli Stampf, Sojajoghurt, frühlingszwiebeln",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "HIRSCHGESCHNETZELTES",
-              "description": "Traditional Bowl · Preiselbeersauce, Schupfnudeln, Rotkraut",
+              "title": "TANDOORI",
+              "description": "Traditional Bowl · Pouletbrust, Korianderdip, Belugalinsen, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "CHICKEN CASHEW NUTS",
-              "description": "Soul Food · mit Peperoni, Zwiebeln, Chilli, Thai Sauce, Cashewnüsse, Jasmin Reis",
+              "title": "KALBSBRATWURST",
+              "description": "Soul Food · Bratkartoffeln, Blumenkohl gebraten, Zwiebel Sauce",
               "price": null,
               "tags": []
             }
@@ -285,22 +315,22 @@
         "en": {
           "items": [
             {
-              "title": "AuntANTANMEN",
-              "description": "Veggie Bowl · Ram soup, pak choy, seitan, peanut, sesame, mushrooms, chili, Asian vegetable Chinese cabbage salad",
+              "title": "TOFU GOULASH",
+              "description": "Veggie bowl · tofu cubes, potato broccoli mash, soy yogurt, spring onions",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Deer netted",
-              "description": "Traditional bowl · Cranberry sauce, scoop pasta, red cabbage",
+              "title": "TANDOORI",
+              "description": "Traditional Bowl · Chicken breast, coriander dip, beluga lentils, menu salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "CHICKEN CASHEW NUTS",
-              "description": "Soul Food · with pepperoni, onions, chilli, Thai sauce, cashew nuts, jasmine rice",
+              "title": "Veal roast sausage",
+              "description": "Soul Food · Fried potatoes, cauliflower fried, onion sauce",
               "price": null,
               "tags": []
             }
