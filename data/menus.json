@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T14:12:56+00:00",
-  "date": "2026-11-04",
-  "weekday": "wednesday",
+  "generated_at": "2026-11-05T14:28:11+00:00",
+  "date": "2026-11-05",
+  "weekday": "thursday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Tagliatelle Napoli (vegan)",
-              "description": "Hausgemachter Tomatensugo, Confierte Cherrytomaten, Kräuterpesto, Basilikum",
+              "title": "Japanisches Auberginen-Katsu (vegan)",
+              "description": "Curry, Jasminreis, Spitzkohl, Karotten, Eingelegter Ingwer, Edamame",
               "price": null,
               "tags": [
                 "vegan"
@@ -37,8 +37,8 @@
         "en": {
           "items": [
             {
-              "title": "Tagliatelle Napoli (vegan)",
-              "description": "Homemade Tomato Sauce, Confit Cherry Tomatoes, Herb Pesto, Basil",
+              "title": "Japanese Eggplant Katsu (vegan)",
+              "description": "Curry, Jasmine Rice, Pointed Cabbage, Carrots, Pickled Ginger, Edamame",
               "price": null,
               "tags": [
                 "vegan"
@@ -49,8 +49,8 @@
         "fr": {
           "items": [
             {
-              "title": "Tagliatelles napoli (vegan)",
-              "description": "Sugo de tomates maison, tomates cerises confites, pesto aux herbes, basilic",
+              "title": "Katsu japonais à l'aubergine (végétalien)",
+              "description": "Curry, riz au jasmin, chou pointu, carottes, gingembre mariné, edamame",
               "price": null,
               "tags": [
                 "vegan"
@@ -88,17 +88,9 @@
         "de": {
           "items": [
             {
-              "title": "Wirsingroulade gefüllt mit Bulgur Frischkäserahmsauce & Ofenkartoffeln",
+              "title": "ber Quinoa mit gebackenem Kürbis, Feta Zwetschgen-Chutney & Nuss Crumble",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Wirsingroulade gefüllt mit Rinds-Hackfleisch Kümmelrahmsauce & Ofenkartoffeln",
-              "description": "inkl. Salat oder Suppe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -106,17 +98,9 @@
         "en": {
           "items": [
             {
-              "title": "Savoy salad filled with Bulgur cream cheese sauce & baked potatoes",
+              "title": "about quinoa with baked pumpkin, feta plum chutney & nut crumble",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Savoy salad stuffed with beef mince caraway cream sauce & baked potatoes",
-              "description": "incl. salad or soup",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -125,17 +109,9 @@
         "fr": {
           "items": [
             {
-              "title": "Roulade de chou farcie au boulgour sauce crème au fromage frais et pommes de terre au four",
+              "title": "sur le quinoa avec citrouille cuite au four, feta chutney de pruneaux et crumble aux noix",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Roulade de chou farcie au bœuf haché Sauce à la crème de cumin et pommes de terre au four",
-              "description": "incl. salade ou soupe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -153,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "TOFU GULASCH",
-              "description": "Glocal · Kartoffel-Broccoli Stampf, Soja Joghurt, Frühlingszwiebeln",
+              "title": "LAUCHRISOTTO",
+              "description": "Glocal · Ofenkürbis mit Kernen und Haferflocken, Petersilien-Kürbiskernpesto, Granatapfelkerne",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "TANDOORI",
-              "description": "Traditional · Pouletbrust, Koriander Dip, Beluga Linsen, Menüsalat",
+              "title": "GARDEN BOWL",
+              "description": "Traditional · Zitronenlachs, Quinoa, Randen, grüne Bohnen, Kräutersalat, Tomaten-Dressing",
               "price": null,
               "tags": []
             },
@@ -183,16 +159,16 @@
         "fr": {
           "items": [
             {
-              "title": "Tofu Gulasch Ungarische Art, Port. 250g",
-              "description": "Glocal · Kartoffel Broccoli Stampf vegan, Yogourt au soja, Cipolotti / Oignon de printemps",
+              "title": "Risotto mit Lauch, Port. 200g",
+              "description": "Glocal · Ofen Kürbis mit Kernen und Haferflocken, Pesto Petersilie Kürbis, Grains de grenade",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Pouletschenkel «Tandoori»",
-              "description": "Traditional · Joghurt Koriander Dip, Linsen Beluga gedämpft, Menüsalat mit Knorr, French Dressing",
+              "title": "Quinoa tricolore gedämpft im Steamer",
+              "description": "Traditional · Randen Würfel geröstet, Kräuter Bohnen grün, Dressing von gerösteten Tomaten, Kräutersalat mit Sprossen, Zitronen-Lachs, im Ofen gegart",
               "price": null,
               "tags": []
             },
@@ -213,16 +189,16 @@
         "en": {
           "items": [
             {
-              "title": "TOFU GOULASH",
-              "description": "Glocal · Potato broccoli mashed potato, soy yogurt, spring onions",
+              "title": "LAUCHRISOTTO",
+              "description": "Glocal · Oven pumpkin with seeds and oatmeal, parsley pumpkin seed pesto, pomegranate seeds",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "TANDOORI",
-              "description": "Traditional · Chicken breast, coriander dip, beluga lentils, menu salad",
+              "title": "GARDEN BOWL",
+              "description": "Traditional · Lemon salmon, quinoa, rands, green beans, herb salad, tomato dressing",
               "price": null,
               "tags": []
             },
@@ -267,22 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "TOFU GULASCH",
-              "description": "Veggie Bowl · Tofuwürfel, Kartoffel Broccoli Stampf, Sojajoghurt, frühlingszwiebeln",
+              "title": "LAUCHRISOTTO",
+              "description": "Veggie Bowl · Ofenkürbis, Kernen & Haferflocken, Petersilie Kürbiskernpesto, Granatapfelkerne",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "TANDOORI",
-              "description": "Traditional Bowl · Pouletbrust, Korianderdip, Belugalinsen, Menüsalat",
+              "title": "GARDEN BOWL",
+              "description": "Traditional Bowl · Zitronenlachs, Quinoa, Randen,  Bohnen grün, Tomatendressing , Kräutersalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "KALBSBRATWURST",
-              "description": "Soul Food · Bratkartoffeln, Blumenkohl gebraten, Zwiebel Sauce",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -291,22 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "TOFU GULASCH",
-              "description": "Veggie Bowl · Tofuwürfel, Kartoffel Broccoli Stampf, Sojajoghurt, frühlingszwiebeln",
+              "title": "LAUCHRISOTTO",
+              "description": "Veggie Bowl · Ofenkürbis, Kernen & Haferflocken, Petersilie Kürbiskernpesto, Granatapfelkerne",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "TANDOORI",
-              "description": "Traditional Bowl · Pouletbrust, Korianderdip, Belugalinsen, Menüsalat",
+              "title": "GARDEN BOWL",
+              "description": "Traditional Bowl · Zitronenlachs, Quinoa, Randen,  Bohnen grün, Tomatendressing , Kräutersalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "KALBSBRATWURST",
-              "description": "Soul Food · Bratkartoffeln, Blumenkohl gebraten, Zwiebel Sauce",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -315,22 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "TOFU GOULASH",
-              "description": "Veggie bowl · tofu cubes, potato broccoli mash, soy yogurt, spring onions",
+              "title": "LAUCHRISOTTO",
+              "description": "Veggie Bowl · Oven Pumpkin, Seeds & Oatmeal, Parsley Pumpkin Seed Pesto, Pomegranate Seeds",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "TANDOORI",
-              "description": "Traditional Bowl · Chicken breast, coriander dip, beluga lentils, menu salad",
+              "title": "GARDEN BOWL",
+              "description": "Traditional Bowl · Lemon salmon, quinoa, beans green, tomato dressing , herb salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "Veal roast sausage",
-              "description": "Soul Food · Fried potatoes, cauliflower fried, onion sauce",
+              "title": "BEEFBURGER",
+              "description": "Soul food · with bacon and cheddar, French fries",
               "price": null,
               "tags": []
             }
