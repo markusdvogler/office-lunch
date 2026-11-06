@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T14:28:11+00:00",
-  "date": "2026-11-05",
-  "weekday": "thursday",
+  "generated_at": "2026-11-06T14:04:42+00:00",
+  "date": "2026-11-06",
+  "weekday": "friday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Japanisches Auberginen-Katsu (vegan)",
-              "description": "Curry, Jasminreis, Spitzkohl, Karotten, Eingelegter Ingwer, Edamame",
+              "title": "Crispy Kartoffeln & Chili Sin Carne",
+              "description": "Smashed Potatoes mit JUMI-Käse, Ackerbohnen-Hack, Mais, Bohnen, Tomatensalat, Chipotle Sour Cream",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Japanese Eggplant Katsu (vegan)",
-              "description": "Curry, Jasmine Rice, Pointed Cabbage, Carrots, Pickled Ginger, Edamame",
+              "title": "Crispy Potatoes & Chili Sin Carne",
+              "description": "Smashed Potatoes with JUMI Cheese, Field Bean Mince, Corn, Beans, Tomato Salad, Chipotle Sour Cream",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Katsu japonais à l'aubergine (végétalien)",
-              "description": "Curry, riz au jasmin, chou pointu, carottes, gingembre mariné, edamame",
+              "title": "Pommes de terre croustillantes et chili Sin Carne",
+              "description": "Pommes de terre smashed au fromage JUMI, hachis de féveroles, maïs, haricots, salade de tomates, Chipotle Sour Cream",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "ber Quinoa mit gebackenem Kürbis, Feta Zwetschgen-Chutney & Nuss Crumble",
+              "title": "Smash Kartoffeln mit Randenpürée gebackenem Rotkraut & Käsecreme",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -98,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "about quinoa with baked pumpkin, feta plum chutney & nut crumble",
+              "title": "Smash potatoes with bean puree baked red cabbage & cheese cream",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -109,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "sur le quinoa avec citrouille cuite au four, feta chutney de pruneaux et crumble aux noix",
+              "title": "Smash pommes de terre avec purée de betterave au chou rouge et crème au fromage",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -118,7 +112,7 @@
           "translated_from": "de"
         }
       },
-      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-45.pdf",
+      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-46.pdf",
       "error": null
     },
     {
@@ -129,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "LAUCHRISOTTO",
-              "description": "Glocal · Ofenkürbis mit Kernen und Haferflocken, Petersilien-Kürbiskernpesto, Granatapfelkerne",
+              "title": "COUSCOUS",
+              "description": "Glocal · orientalisches Gemüse, Falafel, Zitronen-Joghurt Dip",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "GARDEN BOWL",
-              "description": "Traditional · Zitronenlachs, Quinoa, Randen, grüne Bohnen, Kräutersalat, Tomaten-Dressing",
+              "title": "SCHWEINS CORDON BLEU",
+              "description": "Traditional · Pommes frites, Blattsalat mit Haus Dressing",
               "price": null,
               "tags": []
             },
@@ -147,28 +141,22 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate & warme Toppings",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "SCHWEINS CORDON BLEU",
-              "description": "Weekly Special · Pommes frites, Blattsalat mit Haus Dressing",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Risotto mit Lauch, Port. 200g",
-              "description": "Glocal · Ofen Kürbis mit Kernen und Haferflocken, Pesto Petersilie Kürbis, Grains de grenade",
+              "title": "Couscous",
+              "description": "Glocal · Gemüse Couscous mit Kichererbsen, Falafel cuit au four / boulettes de pois chiches au four, Joghurt / Zitronen Joghurt Dip",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Quinoa tricolore gedämpft im Steamer",
-              "description": "Traditional · Randen Würfel geröstet, Kräuter Bohnen grün, Dressing von gerösteten Tomaten, Kräutersalat mit Sprossen, Zitronen-Lachs, im Ofen gegart",
+              "title": "Cordon bleu de porc, pané, port. à 150g",
+              "description": "Traditional · Pommes frites, Mélange de feuilles de salade, Salad Bowl",
               "price": null,
               "tags": []
             },
@@ -177,40 +165,28 @@
               "description": "Salate · Salade de carottes, Salade de concombre à l’aneth, Taboulé, port. à 200g, Salade de betterave rouge, Sauce à salade au vinaigre balsamique",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Cordon bleu de porc, pané, port. à 150g",
-              "description": "Weekly Special · Pommes frites, Mélange de feuilles de salade, Salad Bowl",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "LAUCHRISOTTO",
-              "description": "Glocal · Oven pumpkin with seeds and oatmeal, parsley pumpkin seed pesto, pomegranate seeds",
+              "title": "COUS COUS",
+              "description": "Glocal · oriental vegetables, falafel, lemon yogurt dip",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "GARDEN BOWL",
-              "description": "Traditional · Lemon salmon, quinoa, rands, green beans, herb salad, tomato dressing",
+              "title": "Pork cordon bleu",
+              "description": "Traditional · French fries, leaf salad with house dressing",
               "price": null,
               "tags": []
             },
             {
               "title": "SEASONAL SALAD BAR: tell us",
               "description": "Salads · what you want on your plate!, leaf salad, homemade salads & warm toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "Pork cordon bleu",
-              "description": "Weekly Special · French fries, leaf salad with house dressing",
               "price": null,
               "tags": []
             }
@@ -243,22 +219,20 @@
         "de": {
           "items": [
             {
-              "title": "LAUCHRISOTTO",
-              "description": "Veggie Bowl · Ofenkürbis, Kernen & Haferflocken, Petersilie Kürbiskernpesto, Granatapfelkerne",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "GARDEN BOWL",
-              "description": "Traditional Bowl · Zitronenlachs, Quinoa, Randen,  Bohnen grün, Tomatendressing , Kräutersalat",
+              "title": "FUSILLI",
+              "description": "Veggie Bowl · Champignon, Spinat , Rosenkohl, Tomatensugo, Zucchetti, Yumame Würfel,Menüsalat, side salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
+              "title": "SCHWEIN CORDON BLEU",
+              "description": "Traditional Bowl · Kartoffel Rosmarin Wedges, Gemischtes Gemüse",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "HOMEMADE PIZZA",
+              "description": "Soul Food · belegt nach Ihrer Wahl",
               "price": null,
               "tags": []
             }
@@ -267,22 +241,20 @@
         "fr": {
           "items": [
             {
-              "title": "LAUCHRISOTTO",
-              "description": "Veggie Bowl · Ofenkürbis, Kernen & Haferflocken, Petersilie Kürbiskernpesto, Granatapfelkerne",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "GARDEN BOWL",
-              "description": "Traditional Bowl · Zitronenlachs, Quinoa, Randen,  Bohnen grün, Tomatendressing , Kräutersalat",
+              "title": "FUSILLI",
+              "description": "Veggie Bowl · Champignon, Spinat , Rosenkohl, Tomatensugo, Zucchetti, Yumame Würfel,Menüsalat, side salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
+              "title": "SCHWEIN CORDON BLEU",
+              "description": "Traditional Bowl · Kartoffel Rosmarin Wedges, Gemischtes Gemüse",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "HOMEMADE PIZZA",
+              "description": "Soul Food · belegt nach Ihrer Wahl",
               "price": null,
               "tags": []
             }
@@ -291,22 +263,20 @@
         "en": {
           "items": [
             {
-              "title": "LAUCHRISOTTO",
-              "description": "Veggie Bowl · Oven Pumpkin, Seeds & Oatmeal, Parsley Pumpkin Seed Pesto, Pomegranate Seeds",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "GARDEN BOWL",
-              "description": "Traditional Bowl · Lemon salmon, quinoa, beans green, tomato dressing , herb salad",
+              "title": "FUSILLI",
+              "description": "Veggie bowl · mushroom, spinach , Brussels sprouts, tomato sauce, zucchetti, yumame cubes, menu salad, side salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEFBURGER",
-              "description": "Soul food · with bacon and cheddar, French fries",
+              "title": "PORK CORDON BLEU",
+              "description": "Traditional Bowl · Potato Rosemary Wedges, Mixed Vegetables",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "HOMEMADE PIZZA",
+              "description": "Soul Food · serves at your choice",
               "price": null,
               "tags": []
             }
