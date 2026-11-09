@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T14:04:42+00:00",
-  "date": "2026-11-06",
-  "weekday": "friday",
+  "generated_at": "2026-11-09T15:52:40+00:00",
+  "date": "2026-11-09",
+  "weekday": "monday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Crispy Kartoffeln & Chili Sin Carne",
-              "description": "Smashed Potatoes mit JUMI-Käse, Ackerbohnen-Hack, Mais, Bohnen, Tomatensalat, Chipotle Sour Cream",
+              "title": "Tomaten-Tikka-Masala (vegan)",
+              "description": "Hausgemachte Tikka-Paste, Kokosmilch, Basmatireis, Chinakohlsalat, Limettenjoghurt, Planted., Erdnuss-Crunch",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Crispy Potatoes & Chili Sin Carne",
-              "description": "Smashed Potatoes with JUMI Cheese, Field Bean Mince, Corn, Beans, Tomato Salad, Chipotle Sour Cream",
+              "title": "Tomato Tikka Masala (vegan)",
+              "description": "Homemade Tikka Paste, Coconut Milk, Basmati Rice, Chinese Cabbage Salad, Lime Yoghurt, Planted., Peanut Crunch",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Pommes de terre croustillantes et chili Sin Carne",
-              "description": "Pommes de terre smashed au fromage JUMI, hachis de féveroles, maïs, haricots, salade de tomates, Chipotle Sour Cream",
+              "title": "Tikka-masala à la tomate (végétalien)",
+              "description": "Pâte de tikka maison, lait de coco, riz basmati, salade de chou chinois, yaourt au citron vert, planted., crunch aux arachides",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,7 +88,7 @@
         "de": {
           "items": [
             {
-              "title": "Smash Kartoffeln mit Randenpürée gebackenem Rotkraut & Käsecreme",
+              "title": "Penne Carciofi mit geröstetem Federkohl Bergkäse & Rosmarin Croutons",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +98,7 @@
         "en": {
           "items": [
             {
-              "title": "Smash potatoes with bean puree baked red cabbage & cheese cream",
+              "title": "Penne Carciofi with roasted spring cabbage Mountain cheese & rosemary croutons",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +109,7 @@
         "fr": {
           "items": [
             {
-              "title": "Smash pommes de terre avec purée de betterave au chou rouge et crème au fromage",
+              "title": "Penne Carciofi au chou frisé grillé Fromage de montagne & Croûtons au romarin",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "COUSCOUS",
-              "description": "Glocal · orientalisches Gemüse, Falafel, Zitronen-Joghurt Dip",
+              "title": "PALAK TOFU",
+              "description": "Glocal · indisches Spinatgericht mit Tofu, Garam Masala, Ingwer, Granatapfel, Basmati Reis, Menüsalat",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "SCHWEINS CORDON BLEU",
-              "description": "Traditional · Pommes frites, Blattsalat mit Haus Dressing",
+              "title": "POLENTA CON SALSICCIA",
+              "description": "Traditional · Bramata Polenta, Schweinebratwurst, Cherry-Tomaten Ragout, Fenchel, Grana Padano",
               "price": null,
               "tags": []
             },
@@ -141,28 +147,40 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate & warme Toppings",
               "price": null,
               "tags": []
+            },
+            {
+              "title": "DÖNER TELLER",
+              "description": "Weekly Special · Poulet Kebabfleisch, Eisberg Salat, Tomate, Gurke, Zwiebeln, Pommes frites, provenzalischer und Joghurt Dip",
+              "price": null,
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Couscous",
-              "description": "Glocal · Gemüse Couscous mit Kichererbsen, Falafel cuit au four / boulettes de pois chiches au four, Joghurt / Zitronen Joghurt Dip",
+              "title": "Palak Tofu, Port. 300g",
+              "description": "Glocal · Basmati Reis gedämpft Steamer, Grains de grenade, Coriandre, frais, Menü Salat, Port. 50g",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Cordon bleu de porc, pané, port. à 150g",
-              "description": "Traditional · Pommes frites, Mélange de feuilles de salade, Salad Bowl",
+              "title": "Schwein Salsiccia, 2 Stück, Port. 120g",
+              "description": "Traditional · Polenta Bramata mit Majoran, Cherry Tomaten Sugo, Ragout, Fenchel Gemüse geröstet",
               "price": null,
               "tags": []
             },
             {
               "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Salade de carottes, Salade de concombre à l’aneth, Taboulé, port. à 200g, Salade de betterave rouge, Sauce à salade au vinaigre balsamique",
+              "description": "Salate · Salade de betterave rouge, Salade de carottes, Salade de concombres, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Haut de cuisse de poulet rôti, port. à 160g",
+              "description": "Weekly Special · Gemüse Rohkost Salat, Sauce cocktail, Pommes frites, Sauce au yaourt kebab",
               "price": null,
               "tags": []
             }
@@ -171,22 +189,28 @@
         "en": {
           "items": [
             {
-              "title": "COUS COUS",
-              "description": "Glocal · oriental vegetables, falafel, lemon yogurt dip",
+              "title": "PALAK TOFU",
+              "description": "Glocal · Indian spinach dish with tofu, garam masala, ginger, pomegranate, basmati rice, menu salad",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Pork cordon bleu",
-              "description": "Traditional · French fries, leaf salad with house dressing",
+              "title": "POLENTA CON SALSICCIA",
+              "description": "Traditional · Bramata polenta, pork sausage, cherry tomato ragout, fennel, Grana Padano",
               "price": null,
               "tags": []
             },
             {
               "title": "SEASONAL SALAD BAR: tell us",
               "description": "Salads · what you want on your plate!, leaf salad, homemade salads & warm toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "DÖNER PLATE",
+              "description": "Weekly Special · Chicken kebab meat, iceberg lettuce, tomato, cucumber, onions, French fries, Provençal and yoghurt dip",
               "price": null,
               "tags": []
             }
@@ -219,20 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "FUSILLI",
-              "description": "Veggie Bowl · Champignon, Spinat , Rosenkohl, Tomatensugo, Zucchetti, Yumame Würfel,Menüsalat, side salad",
+              "title": "PALAK TOFU",
+              "description": "Veggie Bowl · Indisches Spinatgericht, Tofu, Garam Masala, Ingwer, Granatapfel, Basmatireis, Menüsalat",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
+            },
+            {
+              "title": "POLENTA CON SALSICCIA",
+              "description": "Traditional Bowl · Bramata Polenta, Schweinsbratwurst, Cherrytomaten Ragout, Fenchel,Grana Padano",
               "price": null,
               "tags": []
             },
             {
-              "title": "SCHWEIN CORDON BLEU",
-              "description": "Traditional Bowl · Kartoffel Rosmarin Wedges, Gemischtes Gemüse",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "HOMEMADE PIZZA",
-              "description": "Soul Food · belegt nach Ihrer Wahl",
+              "title": "GNOCCHI GORGONZOLA",
+              "description": "Soul Food · Gorgonzola Sauce, Ofenbirnen, Baumnüsse geröstet, Kresse",
               "price": null,
               "tags": []
             }
@@ -241,20 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "FUSILLI",
-              "description": "Veggie Bowl · Champignon, Spinat , Rosenkohl, Tomatensugo, Zucchetti, Yumame Würfel,Menüsalat, side salad",
+              "title": "PALAK TOFU",
+              "description": "Veggie Bowl · Indisches Spinatgericht, Tofu, Garam Masala, Ingwer, Granatapfel, Basmatireis, Menüsalat",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
+            },
+            {
+              "title": "POLENTA CON SALSICCIA",
+              "description": "Traditional Bowl · Bramata Polenta, Schweinsbratwurst, Cherrytomaten Ragout, Fenchel,Grana Padano",
               "price": null,
               "tags": []
             },
             {
-              "title": "SCHWEIN CORDON BLEU",
-              "description": "Traditional Bowl · Kartoffel Rosmarin Wedges, Gemischtes Gemüse",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "HOMEMADE PIZZA",
-              "description": "Soul Food · belegt nach Ihrer Wahl",
+              "title": "GNOCCHI GORGONZOLA",
+              "description": "Soul Food · Gorgonzola Sauce, Ofenbirnen, Baumnüsse geröstet, Kresse",
               "price": null,
               "tags": []
             }
@@ -263,20 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "FUSILLI",
-              "description": "Veggie bowl · mushroom, spinach , Brussels sprouts, tomato sauce, zucchetti, yumame cubes, menu salad, side salad",
+              "title": "PALAK TOFU",
+              "description": "Veggie Bowl · Indian spinach dish, tofu, garam masala, ginger, pomegranate, basmati rice, menu salad",
+              "price": null,
+              "tags": [
+                "vegan"
+              ]
+            },
+            {
+              "title": "POLENTA CON SALSICCIA",
+              "description": "Traditional Bowl · Bramata Polenta, pork sausage, cherry tomato ragout, fennel,Grana Padano",
               "price": null,
               "tags": []
             },
             {
-              "title": "PORK CORDON BLEU",
-              "description": "Traditional Bowl · Potato Rosemary Wedges, Mixed Vegetables",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "HOMEMADE PIZZA",
-              "description": "Soul Food · serves at your choice",
+              "title": "Gnocchi alla Gorgonzola",
+              "description": "Soul Food · Gorgonzola Sauce, Oven Pears, Tree Nuts Roasted, Cress",
               "price": null,
               "tags": []
             }
