@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T15:52:40+00:00",
-  "date": "2026-11-09",
-  "weekday": "monday",
+  "generated_at": "2026-11-10T14:42:23+00:00",
+  "date": "2026-11-10",
+  "weekday": "tuesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Tomaten-Tikka-Masala (vegan)",
-              "description": "Hausgemachte Tikka-Paste, Kokosmilch, Basmatireis, Chinakohlsalat, Limettenjoghurt, Planted., Erdnuss-Crunch",
+              "title": "Bami Goreng (vegan)",
+              "description": "Biang-Biang-Nudeln, Planted. Teriyaki, Frühlingslauch, Miso-Chili-Glaze, Purple Slaw",
               "price": null,
               "tags": [
                 "vegan"
@@ -37,8 +37,8 @@
         "en": {
           "items": [
             {
-              "title": "Tomato Tikka Masala (vegan)",
-              "description": "Homemade Tikka Paste, Coconut Milk, Basmati Rice, Chinese Cabbage Salad, Lime Yoghurt, Planted., Peanut Crunch",
+              "title": "Bami Goreng (vegan)",
+              "description": "Biang Biang Noodles, Planted. Teriyaki, Spring Onions, Miso Chili Glaze, Purple Slaw",
               "price": null,
               "tags": [
                 "vegan"
@@ -49,8 +49,8 @@
         "fr": {
           "items": [
             {
-              "title": "Tikka-masala à la tomate (végétalien)",
-              "description": "Pâte de tikka maison, lait de coco, riz basmati, salade de chou chinois, yaourt au citron vert, planted., crunch aux arachides",
+              "title": "Bami Goreng (végétalien)",
+              "description": "Nouilles Biang Biang, Planted. Teriyaki, ail de printemps, miso-chili glacé, Purple Slaw",
               "price": null,
               "tags": [
                 "vegan"
@@ -88,7 +88,7 @@
         "de": {
           "items": [
             {
-              "title": "Penne Carciofi mit geröstetem Federkohl Bergkäse & Rosmarin Croutons",
+              "title": "Selleriesteak mit Cafe de Paris Sauce Kürbismousse & gerösteten Kartoffelspänen",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -98,7 +98,7 @@
         "en": {
           "items": [
             {
-              "title": "Penne Carciofi with roasted spring cabbage Mountain cheese & rosemary croutons",
+              "title": "Celery Steak with Cafe de Paris Sauce Pumpkin Mousse & Roasted Potato Chips",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -109,7 +109,7 @@
         "fr": {
           "items": [
             {
-              "title": "Penne Carciofi au chou frisé grillé Fromage de montagne & Croûtons au romarin",
+              "title": "Steak de céleri avec sauce Cafe de Paris Mousse de citrouille et copeaux de pommes de terre grillées",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -129,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "PALAK TOFU",
-              "description": "Glocal · indisches Spinatgericht mit Tofu, Garam Masala, Ingwer, Granatapfel, Basmati Reis, Menüsalat",
+              "title": "AUTUMN BOWL",
+              "description": "Glocal · Spätzli, Kürbis, Camembert Bites, Rotkohl, Preiselbeeren, Haselnuss-Cremesauce",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "POLENTA CON SALSICCIA",
-              "description": "Traditional · Bramata Polenta, Schweinebratwurst, Cherry-Tomaten Ragout, Fenchel, Grana Padano",
+              "title": "GHACKETS & HÖRNLI",
+              "description": "Traditional · Rindsgehacktes, Hörnli, Apfelmus, Gruyère, Menüsalat",
               "price": null,
               "tags": []
             },
@@ -159,16 +159,16 @@
         "fr": {
           "items": [
             {
-              "title": "Palak Tofu, Port. 300g",
-              "description": "Glocal · Basmati Reis gedämpft Steamer, Grains de grenade, Coriandre, frais, Menü Salat, Port. 50g",
+              "title": "Spätzli vegan",
+              "description": "Glocal · Camembert Medaillons gebraten, Port. 100g, Marinierter Rotkohl, Haselnuss-Creme_Sauce, Airelles rouges (prêt à l’emploi), Kürbis Hokkaido geröstet",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Schwein Salsiccia, 2 Stück, Port. 120g",
-              "description": "Traditional · Polenta Bramata mit Majoran, Cherry Tomaten Sugo, Ragout, Fenchel Gemüse geröstet",
+              "title": "Rind Hackfleisch Rindsgehacktes Gemüse",
+              "description": "Traditional · Hörnli vegan grob, Compote de pommes, conserve, Gruyère, Fromage à pâte dure, râpé, Menüsalat mit Knorr, French Dressing",
               "price": null,
               "tags": []
             },
@@ -189,16 +189,16 @@
         "en": {
           "items": [
             {
-              "title": "PALAK TOFU",
-              "description": "Glocal · Indian spinach dish with tofu, garam masala, ginger, pomegranate, basmati rice, menu salad",
+              "title": "AUTUMN BOWL",
+              "description": "Glocal · Spätzli, pumpkin, camembert bites, red cabbage, cranberries, hazelnut cream sauce",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "POLENTA CON SALSICCIA",
-              "description": "Traditional · Bramata polenta, pork sausage, cherry tomato ragout, fennel, Grana Padano",
+              "title": "GHACKETS & HÖRNLI",
+              "description": "Traditional · minced beef, horn, applesauce, Gruyère, menu salad",
               "price": null,
               "tags": []
             },
@@ -243,22 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "PALAK TOFU",
-              "description": "Veggie Bowl · Indisches Spinatgericht, Tofu, Garam Masala, Ingwer, Granatapfel, Basmatireis, Menüsalat",
+              "title": "AUTUMN BOWL",
+              "description": "Veggie Bowl · Spätzli,Kürbis, Camembert Bites, Rotkohl, Preiselbeeren, Haselnusscreme",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "POLENTA CON SALSICCIA",
-              "description": "Traditional Bowl · Bramata Polenta, Schweinsbratwurst, Cherrytomaten Ragout, Fenchel,Grana Padano",
+              "title": "GHACKETS & HÖRNLI",
+              "description": "Traditional Bowl · Rindsgehacktes, Hörnli, Apfelmus, Gruyère, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "GNOCCHI GORGONZOLA",
-              "description": "Soul Food · Gorgonzola Sauce, Ofenbirnen, Baumnüsse geröstet, Kresse",
+              "title": "POULET SCHENKEL SCHNITZEL",
+              "description": "Soul Food · Kräuter Kartoffeln, Bohnen Mais Salat, Cajun Mayonnaise",
               "price": null,
               "tags": []
             }
@@ -267,22 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "PALAK TOFU",
-              "description": "Veggie Bowl · Indisches Spinatgericht, Tofu, Garam Masala, Ingwer, Granatapfel, Basmatireis, Menüsalat",
+              "title": "AUTUMN BOWL",
+              "description": "Veggie Bowl · Spätzli,Kürbis, Camembert Bites, Rotkohl, Preiselbeeren, Haselnusscreme",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "POLENTA CON SALSICCIA",
-              "description": "Traditional Bowl · Bramata Polenta, Schweinsbratwurst, Cherrytomaten Ragout, Fenchel,Grana Padano",
+              "title": "GHACKETS & HÖRNLI",
+              "description": "Traditional Bowl · Rindsgehacktes, Hörnli, Apfelmus, Gruyère, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "GNOCCHI GORGONZOLA",
-              "description": "Soul Food · Gorgonzola Sauce, Ofenbirnen, Baumnüsse geröstet, Kresse",
+              "title": "POULET SCHENKEL SCHNITZEL",
+              "description": "Soul Food · Kräuter Kartoffeln, Bohnen Mais Salat, Cajun Mayonnaise",
               "price": null,
               "tags": []
             }
@@ -291,22 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "PALAK TOFU",
-              "description": "Veggie Bowl · Indian spinach dish, tofu, garam masala, ginger, pomegranate, basmati rice, menu salad",
+              "title": "AUTUMN BOWL",
+              "description": "Veggie Bowl · Spätzli,Pumpkin, Camembert Bites, Red Cabbage, Cranberries, Hazelnut Cream",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "POLENTA CON SALSICCIA",
-              "description": "Traditional Bowl · Bramata Polenta, pork sausage, cherry tomato ragout, fennel,Grana Padano",
+              "title": "GHACKETS & HÖRNLI",
+              "description": "Traditional Bowl · Chopped beef, hornli, applesauce, Gruyère, menu salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "Gnocchi alla Gorgonzola",
-              "description": "Soul Food · Gorgonzola Sauce, Oven Pears, Tree Nuts Roasted, Cress",
+              "title": "CHICKEN THIGH SCHNITZEL",
+              "description": "Soul Food · Herbal Potatoes, Bean Corn Salad, Cajun Mayonnaise",
               "price": null,
               "tags": []
             }
