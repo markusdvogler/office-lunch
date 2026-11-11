@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T14:42:23+00:00",
-  "date": "2026-11-10",
-  "weekday": "tuesday",
+  "generated_at": "2026-11-11T13:57:35+00:00",
+  "date": "2026-11-11",
+  "weekday": "wednesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Bami Goreng (vegan)",
-              "description": "Biang-Biang-Nudeln, Planted. Teriyaki, Frühlingslauch, Miso-Chili-Glaze, Purple Slaw",
+              "title": "The Italian Sloppy Joe",
+              "description": "Pfeffer-Ciabatta, Ackerhack-Bolognese, Weisser Cheddar, Dattel-BBQ-Sauce, Kartoffelsalat, Sour Cream",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Bami Goreng (vegan)",
-              "description": "Biang Biang Noodles, Planted. Teriyaki, Spring Onions, Miso Chili Glaze, Purple Slaw",
+              "title": "The Italian Sloppy Joe",
+              "description": "Pepper Ciabatta, Field Bean Bolognese, White Cheddar, Date BBQ Sauce, Potato Salad, Sour Cream",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Bami Goreng (végétalien)",
-              "description": "Nouilles Biang Biang, Planted. Teriyaki, ail de printemps, miso-chili glacé, Purple Slaw",
+              "title": "The Italian Sloppy Joe",
+              "description": "Piabatta au poivre, bolognaise hachée, cheddar blanc, sauce datte-bbq, salade de pommes de terre, sour cream",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,9 +82,17 @@
         "de": {
           "items": [
             {
-              "title": "Selleriesteak mit Cafe de Paris Sauce Kürbismousse & gerösteten Kartoffelspänen",
+              "title": "Kartoffelpüree mit Steinpilzsauce würzigem Kräuteröl & Kürbiscracker",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Hackbraten (Kalb, Schwein) mit Steinpilzsauce Kartoffelpüree & Kürbiscracker",
+              "description": "inkl. Salat oder Suppe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -98,9 +100,17 @@
         "en": {
           "items": [
             {
-              "title": "Celery Steak with Cafe de Paris Sauce Pumpkin Mousse & Roasted Potato Chips",
+              "title": "Mashed potatoes with porcini mushroom sauce spicy herbal oil & pumpkin crackers",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Meatloaf (veal, pork) with porcini mushroom sauce mashed potatoes & pumpkin crackers",
+              "description": "incl. salad or soup",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -109,9 +119,17 @@
         "fr": {
           "items": [
             {
-              "title": "Steak de céleri avec sauce Cafe de Paris Mousse de citrouille et copeaux de pommes de terre grillées",
+              "title": "Purée de pommes de terre à la sauce aux cèpes huile aux herbes épicée & craquelins à la citrouille",
               "description": "incl. salade ou soupe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Rôti de viande (veau, porc) avec sauce aux cèpes Purée de pommes de terre et craquelins à la citrouille",
+              "description": "incl. salade ou soupe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -129,16 +147,14 @@
         "de": {
           "items": [
             {
-              "title": "AUTUMN BOWL",
-              "description": "Glocal · Spätzli, Kürbis, Camembert Bites, Rotkohl, Preiselbeeren, Haselnuss-Cremesauce",
+              "title": "KICHERERBSEN TAJINE",
+              "description": "Glocal · Auberginen, Dörraprikosen, Couscous, Menüsalat",
               "price": null,
-              "tags": [
-                "vegetarian"
-              ]
+              "tags": []
             },
             {
-              "title": "GHACKETS & HÖRNLI",
-              "description": "Traditional · Rindsgehacktes, Hörnli, Apfelmus, Gruyère, Menüsalat",
+              "title": "SCHWEINSGESCHNETZELTES",
+              "description": "Traditional · Paprika Sauce, Wirsing, Wild Reis",
               "price": null,
               "tags": []
             },
@@ -159,16 +175,14 @@
         "fr": {
           "items": [
             {
-              "title": "Spätzli vegan",
-              "description": "Glocal · Camembert Medaillons gebraten, Port. 100g, Marinierter Rotkohl, Haselnuss-Creme_Sauce, Airelles rouges (prêt à l’emploi), Kürbis Hokkaido geröstet",
+              "title": "Tajine au pois chiches, carottes, aubergines et abricots secs",
+              "description": "Glocal · Couscous, Menüsalat mit Knorr, French Dressing",
               "price": null,
-              "tags": [
-                "vegetarian"
-              ]
+              "tags": []
             },
             {
-              "title": "Rind Hackfleisch Rindsgehacktes Gemüse",
-              "description": "Traditional · Hörnli vegan grob, Compote de pommes, conserve, Gruyère, Fromage à pâte dure, râpé, Menüsalat mit Knorr, French Dressing",
+              "title": "Schweins Geschnetzeltes Paprika Rahmsauce, Port. 240g",
+              "description": "Traditional · Wirsing geschmort, Wild Reis",
               "price": null,
               "tags": []
             },
@@ -189,16 +203,14 @@
         "en": {
           "items": [
             {
-              "title": "AUTUMN BOWL",
-              "description": "Glocal · Spätzli, pumpkin, camembert bites, red cabbage, cranberries, hazelnut cream sauce",
+              "title": "CHICKPEA TAJINE",
+              "description": "Glocal · Eggplants, dried apricots, couscous, menu salad",
               "price": null,
-              "tags": [
-                "vegetarian"
-              ]
+              "tags": []
             },
             {
-              "title": "GHACKETS & HÖRNLI",
-              "description": "Traditional · minced beef, horn, applesauce, Gruyère, menu salad",
+              "title": "Pork nets",
+              "description": "Traditional · Paprika sauce, savory, wild rice",
               "price": null,
               "tags": []
             },
@@ -243,22 +255,20 @@
         "de": {
           "items": [
             {
-              "title": "AUTUMN BOWL",
-              "description": "Veggie Bowl · Spätzli,Kürbis, Camembert Bites, Rotkohl, Preiselbeeren, Haselnusscreme",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "GHACKETS & HÖRNLI",
-              "description": "Traditional Bowl · Rindsgehacktes, Hörnli, Apfelmus, Gruyère, Menüsalat",
+              "title": "KICHERERBSEN TAJINE",
+              "description": "Veggie Bowl · Auberginen Dörraprikosen, Couscous, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "POULET SCHENKEL SCHNITZEL",
-              "description": "Soul Food · Kräuter Kartoffeln, Bohnen Mais Salat, Cajun Mayonnaise",
+              "title": "SCHWEINSGESCHNETZELTES",
+              "description": "Traditional Bowl · Paprikasauce,Wildreis, Wirsing",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "RED THAI CURRY",
+              "description": "Soul Food · mit Poulet & Gemüse, Jasmin Reis, Koriander, Sojasprossen und Limette",
               "price": null,
               "tags": []
             }
@@ -267,22 +277,20 @@
         "fr": {
           "items": [
             {
-              "title": "AUTUMN BOWL",
-              "description": "Veggie Bowl · Spätzli,Kürbis, Camembert Bites, Rotkohl, Preiselbeeren, Haselnusscreme",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "GHACKETS & HÖRNLI",
-              "description": "Traditional Bowl · Rindsgehacktes, Hörnli, Apfelmus, Gruyère, Menüsalat",
+              "title": "KICHERERBSEN TAJINE",
+              "description": "Veggie Bowl · Auberginen Dörraprikosen, Couscous, Menüsalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "POULET SCHENKEL SCHNITZEL",
-              "description": "Soul Food · Kräuter Kartoffeln, Bohnen Mais Salat, Cajun Mayonnaise",
+              "title": "SCHWEINSGESCHNETZELTES",
+              "description": "Traditional Bowl · Paprikasauce,Wildreis, Wirsing",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "RED THAI CURRY",
+              "description": "Soul Food · mit Poulet & Gemüse, Jasmin Reis, Koriander, Sojasprossen und Limette",
               "price": null,
               "tags": []
             }
@@ -291,22 +299,20 @@
         "en": {
           "items": [
             {
-              "title": "AUTUMN BOWL",
-              "description": "Veggie Bowl · Spätzli,Pumpkin, Camembert Bites, Red Cabbage, Cranberries, Hazelnut Cream",
-              "price": null,
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "GHACKETS & HÖRNLI",
-              "description": "Traditional Bowl · Chopped beef, hornli, applesauce, Gruyère, menu salad",
+              "title": "CHICKPEA TAJINE",
+              "description": "Veggie Bowl · Eggplant Prickles, Couscous, Menu Salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "CHICKEN THIGH SCHNITZEL",
-              "description": "Soul Food · Herbal Potatoes, Bean Corn Salad, Cajun Mayonnaise",
+              "title": "Pork nets",
+              "description": "Traditional Bowl · Paprika sauce,wild rice, savory",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "RED THAI CURRY",
+              "description": "Soul Food · with chicken & vegetables, jasmine rice, coriander, soy sprouts and lime",
               "price": null,
               "tags": []
             }
