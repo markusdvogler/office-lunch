@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T13:57:35+00:00",
-  "date": "2026-11-11",
-  "weekday": "wednesday",
+  "generated_at": "2026-11-12T14:58:33+00:00",
+  "date": "2026-11-12",
+  "weekday": "thursday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "The Italian Sloppy Joe",
-              "description": "Pfeffer-Ciabatta, Ackerhack-Bolognese, Weisser Cheddar, Dattel-BBQ-Sauce, Kartoffelsalat, Sour Cream",
+              "title": "Panang Curry (vegan)",
+              "description": "Jasminreis, Spitzpaprika, Karotten, Pak Choi, Kaffirblätter, Koriander, Chili, Zitronengras, Thai-Basilikum",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "The Italian Sloppy Joe",
-              "description": "Pepper Ciabatta, Field Bean Bolognese, White Cheddar, Date BBQ Sauce, Potato Salad, Sour Cream",
+              "title": "Panang Curry (vegan)",
+              "description": "Jasmine Rice, Pointed Peppers, Carrots, Pak Choi, Kaffir Lime Leaves, Coriander, Chili, Lemongrass, Thai Basil",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "The Italian Sloppy Joe",
-              "description": "Piabatta au poivre, bolognaise hachée, cheddar blanc, sauce datte-bbq, salade de pommes de terre, sour cream",
+              "title": "Curry panang (vegan)",
+              "description": "Riz au jasmin, poivrons pointus, carottes, pak choï, feuilles de combava, coriandre, piment, citronnelle, basilic thaï",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,17 +88,9 @@
         "de": {
           "items": [
             {
-              "title": "Kartoffelpüree mit Steinpilzsauce würzigem Kräuteröl & Kürbiscracker",
+              "title": "ber Indisches Linsendal mit Basmati Reis Kreuzkümmel-Joghurt & Naan Brot",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Hackbraten (Kalb, Schwein) mit Steinpilzsauce Kartoffelpüree & Kürbiscracker",
-              "description": "inkl. Salat oder Suppe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -100,17 +98,9 @@
         "en": {
           "items": [
             {
-              "title": "Mashed potatoes with porcini mushroom sauce spicy herbal oil & pumpkin crackers",
+              "title": "Indian lentil curry with basmati rice, cumin yogurt & naan bread",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Meatloaf (veal, pork) with porcini mushroom sauce mashed potatoes & pumpkin crackers",
-              "description": "incl. salad or soup",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -119,17 +109,9 @@
         "fr": {
           "items": [
             {
-              "title": "Purée de pommes de terre à la sauce aux cèpes huile aux herbes épicée & craquelins à la citrouille",
-              "description": "incl. salade ou soupe",
+              "title": "Dahl de lentilles indiennes avec riz basmati, yaourt au cumin et pain naan",
+              "description": "avec salade ou soupe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Rôti de viande (veau, porc) avec sauce aux cèpes Purée de pommes de terre et craquelins à la citrouille",
-              "description": "incl. salade ou soupe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -147,14 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "KICHERERBSEN TAJINE",
-              "description": "Glocal · Auberginen, Dörraprikosen, Couscous, Menüsalat",
+              "title": "SPAGHETTI NAPOLI",
+              "description": "Glocal · Tomatensauce, Reibkäse, Menüsalat",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegetarian"
+              ]
             },
             {
-              "title": "SCHWEINSGESCHNETZELTES",
-              "description": "Traditional · Paprika Sauce, Wirsing, Wild Reis",
+              "title": "KAARAGE CHICKEN",
+              "description": "Traditional · Wintergemüse, Country Cuts, würziger Joghurt Dip",
               "price": null,
               "tags": []
             },
@@ -175,14 +159,16 @@
         "fr": {
           "items": [
             {
-              "title": "Tajine au pois chiches, carottes, aubergines et abricots secs",
-              "description": "Glocal · Couscous, Menüsalat mit Knorr, French Dressing",
+              "title": "Teigwaren Spaghetti gekocht",
+              "description": "Glocal · Tomaten Sugo, Sauce, Grande Capo, Fromage italien à pâte dure, Menüsalat mit Knorr, French Dressing",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegetarian"
+              ]
             },
             {
-              "title": "Schweins Geschnetzeltes Paprika Rahmsauce, Port. 240g",
-              "description": "Traditional · Wirsing geschmort, Wild Reis",
+              "title": "Kaarage Chicken",
+              "description": "Traditional · Pommes de terre country, Mischgemüse, Dip de yaourt cocktail",
               "price": null,
               "tags": []
             },
@@ -203,26 +189,28 @@
         "en": {
           "items": [
             {
-              "title": "CHICKPEA TAJINE",
-              "description": "Glocal · Eggplants, dried apricots, couscous, menu salad",
+              "title": "SPAGHETTI NAPOLI",
+              "description": "Glocal · Tomato sauce, grated cheese, side salad",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "KARAGE CHICKEN",
+              "description": "Traditional · Winter vegetables, country cuts, spicy yogurt dip",
               "price": null,
               "tags": []
             },
             {
-              "title": "Pork nets",
-              "description": "Traditional · Paprika sauce, savory, wild rice",
+              "title": "SEASONAL SALAD BAR: Tell us",
+              "description": "Salads · What you want on your plate!, leaf salad, homemade salads & warm toppings",
               "price": null,
               "tags": []
             },
             {
-              "title": "SEASONAL SALAD BAR: tell us",
-              "description": "Salads · what you want on your plate!, leaf salad, homemade salads & warm toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "DÖNER PLATE",
-              "description": "Weekly Special · Chicken kebab meat, iceberg lettuce, tomato, cucumber, onions, French fries, Provençal and yoghurt dip",
+              "title": "DÖNER PLATTER",
+              "description": "Weekly Special · Chicken kebab meat, iceberg lettuce, tomato, cucumber, onions, French fries, Provençal and yogurt dip",
               "price": null,
               "tags": []
             }
@@ -255,20 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "KICHERERBSEN TAJINE",
-              "description": "Veggie Bowl · Auberginen Dörraprikosen, Couscous, Menüsalat",
+              "title": "SPAGHETTI NAPOLI",
+              "description": "Veggie Bowl · Tomatensauce, Reibkäse, Menüsalat",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "CHICKEN NUGGETS",
+              "description": "Traditional Bowl · Ketchup , Mayonnaise, Brätler Kartoffeln, Wintergemüse",
               "price": null,
               "tags": []
             },
             {
-              "title": "SCHWEINSGESCHNETZELTES",
-              "description": "Traditional Bowl · Paprikasauce,Wildreis, Wirsing",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "RED THAI CURRY",
-              "description": "Soul Food · mit Poulet & Gemüse, Jasmin Reis, Koriander, Sojasprossen und Limette",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -277,20 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "KICHERERBSEN TAJINE",
-              "description": "Veggie Bowl · Auberginen Dörraprikosen, Couscous, Menüsalat",
+              "title": "SPAGHETTI NAPOLI",
+              "description": "Veggie Bowl · Tomatensauce, Reibkäse, Menüsalat",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "CHICKEN NUGGETS",
+              "description": "Traditional Bowl · Ketchup , Mayonnaise, Brätler Kartoffeln, Wintergemüse",
               "price": null,
               "tags": []
             },
             {
-              "title": "SCHWEINSGESCHNETZELTES",
-              "description": "Traditional Bowl · Paprikasauce,Wildreis, Wirsing",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "RED THAI CURRY",
-              "description": "Soul Food · mit Poulet & Gemüse, Jasmin Reis, Koriander, Sojasprossen und Limette",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -299,20 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "CHICKPEA TAJINE",
-              "description": "Veggie Bowl · Eggplant Prickles, Couscous, Menu Salad",
+              "title": "SPAGHETTI NAPOLI",
+              "description": "Veggie Bowl · Tomato sauce, grated cheese, side salad",
+              "price": null,
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "CHICKEN NUGGETS",
+              "description": "Traditional Bowl · Ketchup, mayonnaise, Brätler potatoes, winter vegetables",
               "price": null,
               "tags": []
             },
             {
-              "title": "Pork nets",
-              "description": "Traditional Bowl · Paprika sauce,wild rice, savory",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "RED THAI CURRY",
-              "description": "Soul Food · with chicken & vegetables, jasmine rice, coriander, soy sprouts and lime",
+              "title": "BEEF BURGER",
+              "description": "Soul food · with bacon and cheddar, French fries",
               "price": null,
               "tags": []
             }
@@ -419,25 +413,25 @@
             },
             {
               "title": "Chicken Fried Noodles",
-              "description": "Fried noodles, chicken, egg, vegetables, soy sauce",
+              "description": "Stir-fried noodles, chicken, egg, vegetables, soy sauce",
               "price": "CHF 17.00",
               "tags": []
             },
             {
-              "title": "Phad Thai (Chicken)",
-              "description": "Rice noodles, egg, spring onions, cashew nuts, soy sprouts, limes",
+              "title": "Pad Thai (chicken)",
+              "description": "Rice noodles, egg, spring onions, cashews, bean sprouts, limes",
               "price": "CHF 21.50",
               "tags": []
             },
             {
               "title": "Yellow Curry (Chicken)",
-              "description": "Mild curry with peppers, pineapple, potatoes, tomatoes, rice",
+              "description": "Mild curry with pepperoni, pineapple, potatoes, tomatoes, rice",
               "price": "CHF 21.50",
               "tags": []
             },
             {
               "title": "Green Curry (Tofu)",
-              "description": "Spicy curry with peppers, pineapple, potatoes, tomatoes, rice",
+              "description": "Spicy curry with pepperoni, pineapple, potatoes, tomatoes, rice",
               "price": "CHF 21.50",
               "tags": [
                 "vegetarian"
@@ -455,34 +449,34 @@
               "tags": []
             },
             {
-              "title": "Riz frit végétal",
-              "description": "Riz frit, oeuf, champignons noirs, légumes frais",
+              "title": "Riz frit aux légumes",
+              "description": "Riz frit, œuf, champignons noirs, légumes frais",
               "price": "CHF 14.00",
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Chicken Fried Noodles",
-              "description": "Pâtes rôties, poulet, œuf, légumes, sauce soja",
+              "title": "Nouilles frites au poulet",
+              "description": "Nouilles sautées, poulet, œuf, légumes, sauce soja",
               "price": "CHF 17.00",
               "tags": []
             },
             {
-              "title": "Phad Thai (Poulet)",
+              "title": "Pad thaï (poulet)",
               "description": "Nouilles de riz, œuf, oignons nouveaux, noix de cajou, germes de soja, citrons verts",
               "price": "CHF 21.50",
               "tags": []
             },
             {
               "title": "Curry jaune (poulet)",
-              "description": "Curry doux aux poivrons, ananas, pommes de terre, tomates, riz",
+              "description": "Curry doux avec poivrons, ananas, pommes de terre, tomates, riz",
               "price": "CHF 21.50",
               "tags": []
             },
             {
               "title": "CURRY VERT AVEC TOFU",
-              "description": "Curry épicé aux poivrons, ananas, pommes de terre, tomates, riz",
+              "description": "Curry épicé avec poivrons, ananas, pommes de terre, tomates, riz",
               "price": "CHF 21.50",
               "tags": [
                 "vegetarian"
@@ -572,25 +566,25 @@
           "items": [
             {
               "title": "Fitness plate with chicken",
-              "description": "Chicken breast from the grill with colorful side salad",
+              "description": "Grilled chicken breast with a colorful side salad",
               "price": "Fr. 16.50",
               "tags": []
             },
             {
               "title": "Fitness plate with salmon",
-              "description": "Salmon fillet fried with colorful side salad",
+              "description": "Pan-fried salmon fillet with a colorful side salad",
               "price": "Fr. 18.00",
               "tags": []
             },
             {
               "title": "<g id=\"pt466\">&lt;45&gt; </g><g id=\"pt467\">Classic Burger</g>",
-              "description": "Beef burger with tomato, cucumber, onions and salad or fries",
+              "description": "Beef burger with tomato, cucumber, onion and lettuce or fries",
               "price": "Fr. 18.00",
               "tags": []
             },
             {
               "title": "Vegi burger",
-              "description": "with cucumber, onions, tomato and salad or fries",
+              "description": "with cucumber, onions, tomato and lettuce or fries",
               "price": "Fr. 20.00",
               "tags": [
                 "vegetarian"
@@ -605,14 +599,14 @@
               ]
             },
             {
-              "title": "Chicken schnitzel bread Provençale",
+              "title": "Chicken schnitzel sandwich Provençale",
               "description": "with mixed salad or fries",
               "price": "Fr. 13.50",
               "tags": []
             },
             {
               "title": "Soup of the day",
-              "description": "alternating according to offer",
+              "description": "Varies according to offer",
               "price": "Fr. 6.00",
               "tags": []
             }
@@ -622,14 +616,14 @@
         "fr": {
           "items": [
             {
-              "title": "Assiette fitness au poulet",
-              "description": "Poitrine de poulet grillée avec salade d'accompagnement colorée",
+              "title": "Assiette fitness avec poulet",
+              "description": "Blanc de poulet grillé avec salade composée en accompagnement",
               "price": "Fr. 16.50",
               "tags": []
             },
             {
               "title": "Assiette fitness au saumon",
-              "description": "Filet de saumon rôti avec salade d'accompagnement colorée",
+              "description": "Filet de saumon poêlé avec salade composée en accompagnement",
               "price": "Fr. 18.00",
               "tags": []
             },
@@ -640,7 +634,7 @@
               "tags": []
             },
             {
-              "title": "Hamburger végétarien",
+              "title": "Burger végétarien",
               "description": "avec concombre, oignons, tomate et salade ou frites",
               "price": "Fr. 20.00",
               "tags": [
@@ -649,21 +643,21 @@
             },
             {
               "title": "Quiche maison",
-              "description": "avec salade mélangée",
+              "description": "avec salade composée",
               "price": "Fr. 14.50",
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Escalope de poulet provençale",
-              "description": "avec salade ou frites mélangées",
+              "title": "Pain à l’escalope de poulet à la provençale",
+              "description": "avec salade composée ou frites",
               "price": "Fr. 13.50",
               "tags": []
             },
             {
               "title": "Soupe du jour",
-              "description": "variable en fonction de l'offre",
+              "description": "variable selon l’offre",
               "price": "Fr. 6.00",
               "tags": []
             }
