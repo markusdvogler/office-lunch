@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T14:24:46+00:00",
-  "date": "2026-11-13",
-  "weekday": "friday",
+  "generated_at": "2026-11-16T15:28:16+00:00",
+  "date": "2026-11-16",
+  "weekday": "monday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Harissa-Halloumi-Bowl",
-              "description": "Gebratener Halloumi, Couscous, Kichererbsen, Geröstete Kapija-Paprika, Granatapfel, Minz-Joghurt",
+              "title": "BBQ-Miso-Aubergine (vegan)",
+              "description": "Hausgemachte Dattel-BBQ, Lauwarmer Quinoa, Gazpacho, Kräutersalat, Haus-Nuss-Mix",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Harissa Halloumi Bowl",
-              "description": "Fried Halloumi, Couscous, Chickpeas, Roasted Kapija Peppers, Pomegranate, Mint Yogurt",
+              "title": "BBQ Miso Eggplant (vegan)",
+              "description": "Homemade Date BBQ Sauce, Warm Quinoa, Gazpacho, Herb Salad, House Nut Mix",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Bowl harissa-halloumi",
-              "description": "Halloumi grillé, couscous, pois chiches, poivrons kapija rôtis, grenade, yaourt à la menthe",
+              "title": "Aubergine au miso barbecue (vegan)",
+              "description": "Sauce barbecue aux dattes maison, quinoa tiède, gaspacho, salade d’herbes, mélange de noix maison",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,7 +88,7 @@
         "de": {
           "items": [
             {
-              "title": "Spanische Tortilla mit Dörrtomaten-Vinaigrette & Lauch-Gemüse",
+              "title": "Tagliatelle mit Tomaten-Pesto Oliven, Kapern & jungem Spinat",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +98,7 @@
         "en": {
           "items": [
             {
-              "title": "Spanish tortilla with sun-dried tomato vinaigrette & leek vegetables",
+              "title": "Tagliatelle with tomato pesto, olives, capers & baby spinach",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +109,7 @@
         "fr": {
           "items": [
             {
-              "title": "Tortilla espagnole avec vinaigrette aux tomates séchées et légumes au poireau",
+              "title": "Tagliatelles au pesto de tomates, olives, câpres et jeunes pousses d’épinards",
               "description": "avec salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -123,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "GEBRATENER REIS",
-              "description": "Glocal · Gemüse Samosas, Sweet Chili Dip",
+              "title": "JAPCHAE",
+              "description": "Glocal · Tofu, Champignons, Glasnudeln, Gemüse, Koriander, Sesamsamen, Sprossen, Menüsalat",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "DÖNER TELLER",
-              "description": "Traditional · Poulet Kebabfleisch, Eisberg Salat, Tomate, Gurke, Zwiebeln, Pommes frites, provenzalischer und Joghurt Dip",
+              "title": "KALBSHACKBRATEN",
+              "description": "Traditional · Rotweinsauce, Kartoffelstock, Karotten",
               "price": null,
               "tags": []
             },
@@ -141,28 +147,40 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate & warme Toppings",
               "price": null,
               "tags": []
+            },
+            {
+              "title": "FISH & CHIPS",
+              "description": "Weekly Special · Seehecht im Bierteig, grüne Erbsen, Pommes frites, Tartarsauce",
+              "price": null,
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Fried Rice / riz frit",
-              "description": "Glocal · Samosas frits, port. à 150g, Sweet Chili sauce mit pfefferminz",
+              "title": "Japchae Glasnudeln Champignons Tofu Sesam Gemüse, Port. 470g",
+              "description": "Glocal · Coriandre, frais, Pousses de haricots mungo / Pousses de soja, Sésame / Graine de sésame, Menüsalat mit Knorr",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Haut de cuisse de poulet rôti, port. à 160g",
-              "description": "Traditional · Gemüse Rohkost Salat, Sauce cocktail, Pommes frites, Sauce au yaourt kebab",
+              "title": "Kalbs Hackbraten, Port. 140g",
+              "description": "Traditional · Rotwein Sauce Basis Demi Glace, Kartoffel Stock / Kartoffel Püree, Karotten",
               "price": null,
               "tags": []
             },
             {
               "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Salade de betterave rouge, Salade de carottes, Salade de concombres, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "description": "Salate · Salade de carottes, Salade de betterave rouge, Taboulé, port. à 200g, Salade de concombres, Sauce à salade au vinaigre balsamique",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Fischknusperli Seehecht, 160g Port",
+              "description": "Weekly Special · Erbsen, Pommes frites, Tartarsauce dick",
               "price": null,
               "tags": []
             }
@@ -171,22 +189,28 @@
         "en": {
           "items": [
             {
-              "title": "Fried rice",
-              "description": "Glocal · Vegetable Samosas, Sweet Chili Dip",
+              "title": "JAPCHAE",
+              "description": "Glocal · Tofu, mushrooms, glass noodles, vegetables, cilantro, sesame seeds, sprouts, side salad",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "DÖNER PLATE",
-              "description": "Traditional · Chicken kebab meat, iceberg lettuce, tomato, cucumber, onions, French fries, Provençal and yogurt dip",
+              "title": "Veal meatloaf",
+              "description": "Traditional · Red wine sauce, mashed potatoes, carrots",
               "price": null,
               "tags": []
             },
             {
               "title": "SEASONAL SALAD BAR: Tell us",
               "description": "Salads · What you want on your plate!, leaf lettuce, homemade salads & warm toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "FISH & CHIPS",
+              "description": "Weekly Special · Hake in beer batter, green peas, French fries, tartar sauce",
               "price": null,
               "tags": []
             }
@@ -219,16 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "TOFU SWEET AND SOUR",
-              "description": "Veggie Bowl · peppers, pineapple, onions and tofu, Curry Reis",
+              "title": "JAPCHAE",
+              "description": "Veggie Bowl · Tofu, Champignons, Glasnudeln, Gemüse, Sprossen, Koriander & Sesam, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "FISCH KNUSPERLI",
-              "description": "Traditional Bowl · Seehecht im Bierteig, Tartare Sauce, Peterli Kartoffeln",
+              "title": "KALBSHACKBRATEN",
+              "description": "Traditional Bowl · Rotweinsauce, Kartoffelstock, Karotten",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "CHICKEN CASHEW NUTS",
+              "description": "Soul Food · mit Peperoni, Zwiebeln, Chilli,, Thai Sauce und Cashewnüsse, Jsminreis, Koriander",
               "price": null,
               "tags": []
             }
@@ -237,16 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "TOFU SWEET AND SOUR",
-              "description": "Veggie Bowl · peppers, pineapple, onions and tofu, Curry Reis",
+              "title": "JAPCHAE",
+              "description": "Veggie Bowl · Tofu, Champignons, Glasnudeln, Gemüse, Sprossen, Koriander & Sesam, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "FISCH KNUSPERLI",
-              "description": "Traditional Bowl · Seehecht im Bierteig, Tartare Sauce, Peterli Kartoffeln",
+              "title": "KALBSHACKBRATEN",
+              "description": "Traditional Bowl · Rotweinsauce, Kartoffelstock, Karotten",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "CHICKEN CASHEW NUTS",
+              "description": "Soul Food · mit Peperoni, Zwiebeln, Chilli,, Thai Sauce und Cashewnüsse, Jsminreis, Koriander",
               "price": null,
               "tags": []
             }
@@ -255,16 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "SWEET AND SOUR TOFU",
-              "description": "Veggie Bowl · peppers, pineapple, onions and tofu, curry rice",
+              "title": "JAPCHAE",
+              "description": "Veggie Bowl · Tofu, mushrooms, glass noodles, vegetables, sprouts, cilantro & sesame, side salad",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "CRISPY FISH BITES",
-              "description": "Traditional Bowl · Hake in beer batter, tartar sauce, parsley potatoes",
+              "title": "Veal meatloaf",
+              "description": "Traditional Bowl · Red wine sauce, mashed potatoes, carrots",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "CHICKEN WITH CASHEW NUTS",
+              "description": "Soul food · with bell peppers, onions, chili, Thai sauce and cashews, jasmine rice, cilantro",
               "price": null,
               "tags": []
             }
@@ -370,7 +412,7 @@
               ]
             },
             {
-              "title": "Chicken and Fried Noodles",
+              "title": "Chicken Fried Noodles",
               "description": "Fried noodles, chicken, egg, vegetables, soy sauce",
               "price": "CHF 17.00",
               "tags": []
@@ -383,7 +425,7 @@
             },
             {
               "title": "Yellow Curry (Chicken)",
-              "description": "Mild curry with bell peppers, pineapple, potatoes, tomatoes, rice",
+              "description": "Mild curry with pepperoni, pineapple, potatoes, tomatoes, rice",
               "price": "CHF 21.50",
               "tags": []
             },
@@ -434,7 +476,7 @@
             },
             {
               "title": "CURRY VERT AVEC TOFU",
-              "description": "Curry épicé avec piments, ananas, pommes de terre, tomates, riz",
+              "description": "Curry épicé avec poivrons, ananas, pommes de terre, tomates, riz",
               "price": "CHF 21.50",
               "tags": [
                 "vegetarian"
@@ -574,14 +616,14 @@
         "fr": {
           "items": [
             {
-              "title": "Assiette fitness avec poulet",
+              "title": "Assiette fitness au poulet",
               "description": "Blanc de poulet grillé avec salade composée en accompagnement",
               "price": "Fr. 16.50",
               "tags": []
             },
             {
               "title": "Assiette fitness au saumon",
-              "description": "Filet de saumon poêlé avec salade d’accompagnement colorée",
+              "description": "Filet de saumon poêlé avec salade composée en accompagnement",
               "price": "Fr. 18.00",
               "tags": []
             },
