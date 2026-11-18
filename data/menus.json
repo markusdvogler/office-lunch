@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T15:49:22+00:00",
-  "date": "2026-11-17",
-  "weekday": "tuesday",
+  "generated_at": "2026-11-18T15:29:13+00:00",
+  "date": "2026-11-18",
+  "weekday": "wednesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Conchiglie ai Ceci (vegan)",
-              "description": "Kichererbsen, Karotten, Zwiebeln, Petersilie, Stangensellerie, Tomatensalat, Rucola",
+              "title": "Pad Kra Pao",
+              "description": "Ackerbohnen-Hack, Schweizer Freilandei, Thai-Basilikum, Chili, Jasminreis, Limette, Frittierte Schalotte",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Conchiglie ai Ceci (vegan)",
-              "description": "Chickpeas, Carrots, Onions, Parsley, Celery, Tomato Salad, Arugula",
+              "title": "Pad Kra Pao",
+              "description": "Fava Bean Mince, Swiss Free-Range Eggs, Thai Basil, Chili, Jasmine Rice, Lime, Fried Shallots",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Conchiglie aux pois chiches (vegan)",
-              "description": "Pois chiches, carottes, oignons, persil, céleri, salade de tomates, roquette",
+              "title": "Pad Kra Pao",
+              "description": "Hachis de fèves, œuf suisse de poules élevées en plein air, basilic thaï, piment, riz au jasmin, citron vert, échalote frite",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,9 +82,17 @@
         "de": {
           "items": [
             {
-              "title": "Linseneintopf mit Ziegenkäse-Mousse gerösteten Randen & Sprossen",
+              "title": "Gefüllte Champignons mit Pommes Duchesse glasierten Rüebli & Vegi-Jus",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Schweinsbraten mit Zwetschgen mit Pommes Duchesse glasierten Rüebli & Jus",
+              "description": "inkl. Salat oder Suppe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -98,9 +100,17 @@
         "en": {
           "items": [
             {
-              "title": "Lentil stew with goat cheese mousse, roasted beets & sprouts",
+              "title": "Stuffed mushrooms with Duchess potatoes, glazed carrots & veggie jus",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Roast pork with plums, Duchess potatoes, glazed carrots & gravy",
+              "description": "incl. salad or soup",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -109,9 +119,17 @@
         "fr": {
           "items": [
             {
-              "title": "Ragoût de lentilles avec mousse de fromage de chèvre, betteraves rôties et germes",
+              "title": "Champignons farcis avec pommes Duchesse, carottes glacées et jus de légumes",
               "description": "avec salade ou soupe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Rôti de porc aux pruneaux avec pommes Duchesse, carottes glacées et jus",
+              "description": "avec salade ou soupe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -129,16 +147,16 @@
         "de": {
           "items": [
             {
-              "title": "PENNE",
-              "description": "Glocal · Kernser Edelpilz Bolognese, Federkohl, Menüsalat",
+              "title": "SOBA NOODLES",
+              "description": "Glocal · Peperoni, Weisskabis, Austernpilze, Soja Hack, Frühlingszwiebeln, Sprossen",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PORK BELLY",
-              "description": "Traditional · Schweinebauch, gebratene Pak-Choi, Radieschen Pickles, Jasminreis",
+              "title": "HIRSCHPFEFFER",
+              "description": "Traditional · Spätzli, Rotkraut",
               "price": null,
               "tags": []
             },
@@ -159,16 +177,16 @@
         "fr": {
           "items": [
             {
-              "title": "Teigwaren Penne gekocht vegan",
-              "description": "Glocal · Edelpilz Bolognese, vegan, Federkohl roh mariniert, Menüsalat mit Knorr",
+              "title": "Soba Nudeln Soya Hack, Port. 460g",
+              "description": "Glocal · Peperoni, Weisskabis, Cipolotti / Oignon de printemps, Pousses de haricots mungo / Pousses de soja",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Schweine Bauch Babi kecab manis",
-              "description": "Traditional · Jasmin Reis gedämpft, Pak Choi gebraten Soja Sesam, Radieschen Pickles, Cipolotti / Oignon de printemps",
+              "title": "Ragoût de cerf / Civet de cerf (plat cuisiné)",
+              "description": "Traditional · Spätzli, Rotkraut geschmort",
               "price": null,
               "tags": []
             },
@@ -189,16 +207,16 @@
         "en": {
           "items": [
             {
-              "title": "Penne Pasta",
-              "description": "Glocal · Kernser Edelpilz Bolognese, kale, mixed salad",
+              "title": "SOBA NOODLES",
+              "description": "Glocal · Bell peppers, white cabbage, oyster mushrooms, soy mince, spring onions, sprouts",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PORK BELLY",
-              "description": "Traditional · Pork belly, roasted pak choi, pickled radishes, jasmine rice",
+              "title": "VENISON STEW",
+              "description": "Traditional · Spätzle, red cabbage",
               "price": null,
               "tags": []
             },
@@ -243,24 +261,22 @@
         "de": {
           "items": [
             {
-              "title": "PENNE",
-              "description": "Veggie Bowl · Kernser Edelpilz Bolognese, Federkohl, Menüsalat",
+              "title": "SOBA NOODLES",
+              "description": "Veggie Bowl · Peperoni, Weisskabis, Austernpilze, Sojahack, Frühlingszwiebeln, Sprossen",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PORK BELLY",
-              "description": "Traditional Bowl · Schweinsbrust, Jasminreis, Sesam Pak Choi, Radieschen Pickles",
+              "title": "HIRSCHPFEFFER",
+              "description": "Traditional Bowl · Spätzli, Rotkraut",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             },
             {
-              "title": "POUET SCHENKEL",
-              "description": "Soul Food · Pilz Gemüse Ragout mit Rahm, Kräuter Kartoffelstock",
+              "title": "RINDS LASAGNE",
+              "description": "Soul Food · Tomaten  Sugo, Menüsalat",
               "price": null,
               "tags": []
             }
@@ -269,24 +285,22 @@
         "fr": {
           "items": [
             {
-              "title": "PENNE",
-              "description": "Veggie Bowl · Kernser Edelpilz Bolognese, Federkohl, Menüsalat",
+              "title": "SOBA NOODLES",
+              "description": "Veggie Bowl · Peperoni, Weisskabis, Austernpilze, Sojahack, Frühlingszwiebeln, Sprossen",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PORK BELLY",
-              "description": "Traditional Bowl · Schweinsbrust, Jasminreis, Sesam Pak Choi, Radieschen Pickles",
+              "title": "HIRSCHPFEFFER",
+              "description": "Traditional Bowl · Spätzli, Rotkraut",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             },
             {
-              "title": "POUET SCHENKEL",
-              "description": "Soul Food · Pilz Gemüse Ragout mit Rahm, Kräuter Kartoffelstock",
+              "title": "RINDS LASAGNE",
+              "description": "Soul Food · Tomaten  Sugo, Menüsalat",
               "price": null,
               "tags": []
             }
@@ -295,24 +309,22 @@
         "en": {
           "items": [
             {
-              "title": "Penne Pasta",
-              "description": "Veggie Bowl · Kernser Edelpilz mushroom Bolognese, kale, mixed salad",
+              "title": "SOBA NOODLES",
+              "description": "Veggie Bowl · Peppers, white cabbage, oyster mushrooms, soy mince, spring onions, sprouts",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "PORK BELLY",
-              "description": "Traditional Bowl · Pork belly, jasmine rice, sesame pak choi, pickled radishes",
+              "title": "VENISON STEW",
+              "description": "Traditional Bowl · Spätzle, red cabbage",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             },
             {
-              "title": "CHICKEN THIGHS",
-              "description": "Soul Food · Mushroom and Vegetable Ragout with Cream, Mashed Potatoes with Herbs",
+              "title": "BEEF LASAGNA",
+              "description": "Soul Food · Tomato sauce, side salad",
               "price": null,
               "tags": []
             }
@@ -419,7 +431,7 @@
             },
             {
               "title": "Chicken Fried Noodles",
-              "description": "Fried noodles, chicken, egg, vegetables, soy sauce",
+              "description": "Stir-fried noodles, chicken, egg, vegetables, soy sauce",
               "price": "CHF 17.00",
               "tags": []
             },
@@ -482,7 +494,7 @@
             },
             {
               "title": "CURRY VERT AVEC TOFU",
-              "description": "Curry épicé avec piments, ananas, pommes de terre, tomates, riz",
+              "description": "Curry épicé avec poivrons, ananas, pommes de terre, tomates, riz",
               "price": "CHF 21.50",
               "tags": [
                 "vegetarian"
@@ -623,13 +635,13 @@
           "items": [
             {
               "title": "Assiette fitness avec poulet",
-              "description": "Blanc de poulet grillé avec salade composée en accompagnement",
+              "description": "Blanc de poulet grillé avec salade d’accompagnement colorée",
               "price": "Fr. 16.50",
               "tags": []
             },
             {
               "title": "Assiette fitness au saumon",
-              "description": "Filet de saumon poêlé avec salade composée en accompagnement",
+              "description": "Filet de saumon poêlé avec salade d’accompagnement colorée",
               "price": "Fr. 18.00",
               "tags": []
             },
