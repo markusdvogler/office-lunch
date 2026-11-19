@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T15:29:13+00:00",
-  "date": "2026-11-18",
-  "weekday": "wednesday",
+  "generated_at": "2026-11-19T15:35:36+00:00",
+  "date": "2026-11-19",
+  "weekday": "thursday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Pad Kra Pao",
-              "description": "Ackerbohnen-Hack, Schweizer Freilandei, Thai-Basilikum, Chili, Jasminreis, Limette, Frittierte Schalotte",
+              "title": "Süsskartoffel-Gnocchi",
+              "description": "Meerrettichsauce, Gerösteter Paneer-Käse, Marinierter Rucola, Sprossen-Hausmischung",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Pad Kra Pao",
-              "description": "Fava Bean Mince, Swiss Free-Range Eggs, Thai Basil, Chili, Jasmine Rice, Lime, Fried Shallots",
+              "title": "Sweet Potato Gnocchi",
+              "description": "Horseradish Sauce, Roasted Paneer Cheese, Marinated Arugula, House-Blend Sprouts",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Pad Kra Pao",
-              "description": "Hachis de fèves, œuf suisse de poules élevées en plein air, basilic thaï, piment, riz au jasmin, citron vert, échalote frite",
+              "title": "Gnocchis à la patate douce",
+              "description": "Sauce au raifort, fromage paneer grillé, roquette marinée, mélange maison de germes",
               "price": null,
               "tags": []
             }
@@ -82,17 +82,9 @@
         "de": {
           "items": [
             {
-              "title": "Gefüllte Champignons mit Pommes Duchesse glasierten Rüebli & Vegi-Jus",
+              "title": "ber Gebackene Aubergine mit Kürbis-Tajine Datteln & Jogurt",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Schweinsbraten mit Zwetschgen mit Pommes Duchesse glasierten Rüebli & Jus",
-              "description": "inkl. Salat oder Suppe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -100,17 +92,9 @@
         "en": {
           "items": [
             {
-              "title": "Stuffed mushrooms with Duchess potatoes, glazed carrots & veggie jus",
+              "title": "Baked eggplant with pumpkin tagine, dates & yogurt",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Roast pork with plums, Duchess potatoes, glazed carrots & gravy",
-              "description": "incl. salad or soup",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -119,17 +103,9 @@
         "fr": {
           "items": [
             {
-              "title": "Champignons farcis avec pommes Duchesse, carottes glacées et jus de légumes",
+              "title": "Aubergine cuite au four avec tajine de potiron, dattes et yaourt",
               "description": "avec salade ou soupe",
               "price": "CHF 22.00",
-              "tags": [
-                "vegetarian"
-              ]
-            },
-            {
-              "title": "Rôti de porc aux pruneaux avec pommes Duchesse, carottes glacées et jus",
-              "description": "avec salade ou soupe",
-              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -147,22 +123,22 @@
         "de": {
           "items": [
             {
-              "title": "SOBA NOODLES",
-              "description": "Glocal · Peperoni, Weisskabis, Austernpilze, Soja Hack, Frühlingszwiebeln, Sprossen",
+              "title": "MOUSSAKA",
+              "description": "Glocal · Protaneo, Auberginen, Zucchetti, Kartoffeln, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "HIRSCHPFEFFER",
-              "description": "Traditional · Spätzli, Rotkraut",
+              "title": "SZECHUAN",
+              "description": "Traditional · Pouletgeschnetzeltes, Bambus Sprossen, Karotten, Chili, Austernsauce, Reisnudeln",
               "price": null,
               "tags": []
             },
             {
               "title": "SAISONALE SALATBAR: sagen Sie uns",
-              "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate & warme Toppings",
+              "description": "Salate · was Sie auf Ihrem Teller haben möchten!Salat, Blattsalat, hausgemachte Salate & warme Toppings",
               "price": null,
               "tags": []
             },
@@ -177,16 +153,16 @@
         "fr": {
           "items": [
             {
-              "title": "Soba Nudeln Soya Hack, Port. 460g",
-              "description": "Glocal · Peperoni, Weisskabis, Cipolotti / Oignon de printemps, Pousses de haricots mungo / Pousses de soja",
+              "title": "Brewbee Moussaka",
+              "description": "Glocal · Brewbee, Auberginen, Zucchetti, Kartoffeln, Menüsalat mit Knorr",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Ragoût de cerf / Civet de cerf (plat cuisiné)",
-              "description": "Traditional · Spätzli, Rotkraut geschmort",
+              "title": "Poulet Geschnetzeltes Szechuan",
+              "description": "Traditional · Poulet, Bambus, Sprossen, Karotten, Reis Nudeln vegan eingeweicht vorgegart",
               "price": null,
               "tags": []
             },
@@ -207,22 +183,22 @@
         "en": {
           "items": [
             {
-              "title": "SOBA NOODLES",
-              "description": "Glocal · Bell peppers, white cabbage, oyster mushrooms, soy mince, spring onions, sprouts",
+              "title": "MOUSSAKA",
+              "description": "Glocal · Protaneo, eggplants, zucchini, potatoes, salad",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "VENISON STEW",
-              "description": "Traditional · Spätzle, red cabbage",
+              "title": "SZECHUAN",
+              "description": "Traditional · Sliced chicken, bamboo shoots, carrots, chili, oyster sauce, rice noodles",
               "price": null,
               "tags": []
             },
             {
               "title": "SEASONAL SALAD BAR: Tell us",
-              "description": "Salads · What you want on your plate!, leaf salad, homemade salads & warm toppings",
+              "description": "Salads · What you want on your plate!Salad, leafy salad, homemade salads & warm toppings",
               "price": null,
               "tags": []
             },
@@ -261,22 +237,22 @@
         "de": {
           "items": [
             {
-              "title": "SOBA NOODLES",
-              "description": "Veggie Bowl · Peperoni, Weisskabis, Austernpilze, Sojahack, Frühlingszwiebeln, Sprossen",
+              "title": "MOUSSAKA",
+              "description": "Veggie Bowl · Protaneo, Auberginen, Zucchetti, Kartoffeln, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "HIRSCHPFEFFER",
-              "description": "Traditional Bowl · Spätzli, Rotkraut",
+              "title": "SZECHUAN",
+              "description": "Traditional Bowl · Poulet, Bambus, Sprossen, Karotten, Chili, Austernsauce, Reisnudeln",
               "price": null,
               "tags": []
             },
             {
-              "title": "RINDS LASAGNE",
-              "description": "Soul Food · Tomaten  Sugo, Menüsalat",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -285,22 +261,22 @@
         "fr": {
           "items": [
             {
-              "title": "SOBA NOODLES",
-              "description": "Veggie Bowl · Peperoni, Weisskabis, Austernpilze, Sojahack, Frühlingszwiebeln, Sprossen",
+              "title": "MOUSSAKA",
+              "description": "Veggie Bowl · Protaneo, Auberginen, Zucchetti, Kartoffeln, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "HIRSCHPFEFFER",
-              "description": "Traditional Bowl · Spätzli, Rotkraut",
+              "title": "SZECHUAN",
+              "description": "Traditional Bowl · Poulet, Bambus, Sprossen, Karotten, Chili, Austernsauce, Reisnudeln",
               "price": null,
               "tags": []
             },
             {
-              "title": "RINDS LASAGNE",
-              "description": "Soul Food · Tomaten  Sugo, Menüsalat",
+              "title": "BEEFBURGER",
+              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
               "price": null,
               "tags": []
             }
@@ -309,22 +285,22 @@
         "en": {
           "items": [
             {
-              "title": "SOBA NOODLES",
-              "description": "Veggie Bowl · Peppers, white cabbage, oyster mushrooms, soy mince, spring onions, sprouts",
+              "title": "MOUSSAKA",
+              "description": "Veggie Bowl · Protaneo, eggplant, zucchini, potatoes, salad",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "VENISON STEW",
-              "description": "Traditional Bowl · Spätzle, red cabbage",
+              "title": "SZECHUAN",
+              "description": "Traditional Bowl · Chicken, bamboo, bean sprouts, carrots, chili, oyster sauce, rice noodles",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEF LASAGNA",
-              "description": "Soul Food · Tomato sauce, side salad",
+              "title": "BEEF BURGER",
+              "description": "Soul food · with bacon and cheddar, French fries",
               "price": null,
               "tags": []
             }
@@ -431,7 +407,7 @@
             },
             {
               "title": "Chicken Fried Noodles",
-              "description": "Stir-fried noodles, chicken, egg, vegetables, soy sauce",
+              "description": "Fried noodles, chicken, egg, vegetables, soy sauce",
               "price": "CHF 17.00",
               "tags": []
             },
@@ -494,7 +470,7 @@
             },
             {
               "title": "CURRY VERT AVEC TOFU",
-              "description": "Curry épicé avec poivrons, ananas, pommes de terre, tomates, riz",
+              "description": "Curry épicé avec piments, ananas, pommes de terre, tomates, riz",
               "price": "CHF 21.50",
               "tags": [
                 "vegetarian"
@@ -624,7 +600,7 @@
             },
             {
               "title": "Soup of the day",
-              "description": "Varies according to the offer",
+              "description": "Varies according to offer",
               "price": "Fr. 6.00",
               "tags": []
             }
@@ -634,14 +610,14 @@
         "fr": {
           "items": [
             {
-              "title": "Assiette fitness avec poulet",
-              "description": "Blanc de poulet grillé avec salade d’accompagnement colorée",
+              "title": "Assiette fitness au poulet",
+              "description": "Blanc de poulet grillé avec salade composée en accompagnement",
               "price": "Fr. 16.50",
               "tags": []
             },
             {
               "title": "Assiette fitness au saumon",
-              "description": "Filet de saumon poêlé avec salade d’accompagnement colorée",
+              "description": "Filet de saumon poêlé avec salade composée en accompagnement",
               "price": "Fr. 18.00",
               "tags": []
             },
