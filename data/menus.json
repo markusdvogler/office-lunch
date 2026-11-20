@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T15:35:36+00:00",
-  "date": "2026-11-19",
-  "weekday": "thursday",
+  "generated_at": "2026-11-20T15:14:46+00:00",
+  "date": "2026-11-20",
+  "weekday": "friday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Süsskartoffel-Gnocchi",
-              "description": "Meerrettichsauce, Gerösteter Paneer-Käse, Marinierter Rucola, Sprossen-Hausmischung",
+              "title": "Daal (vegan)",
+              "description": "Rote Linsen, Gelbe Erbsen, Gerösteter Blumenkohl, Marinierter Rotkabis, Kokosjoghurt, Kokoschips",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Sweet Potato Gnocchi",
-              "description": "Horseradish Sauce, Roasted Paneer Cheese, Marinated Arugula, House-Blend Sprouts",
+              "title": "Daal (vegan)",
+              "description": "Red Lentils, Yellow Peas, Roasted Cauliflower, Marinated Red Cabbage, Coconut Yogurt, Coconut Chips",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Gnocchis à la patate douce",
-              "description": "Sauce au raifort, fromage paneer grillé, roquette marinée, mélange maison de germes",
+              "title": "Dahl (végétalien)",
+              "description": "Lentilles corail, pois jaunes, chou-fleur rôti, chou rouge mariné, yaourt à la noix de coco, chips de noix de coco",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,7 +88,7 @@
         "de": {
           "items": [
             {
-              "title": "ber Gebackene Aubergine mit Kürbis-Tajine Datteln & Jogurt",
+              "title": "Kartoffel-Küchlein mit Kürbispürée Spinat-Pistou & Federkohl",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +98,7 @@
         "en": {
           "items": [
             {
-              "title": "Baked eggplant with pumpkin tagine, dates & yogurt",
+              "title": "Potato fritters with pumpkin purée, spinach pistou & kale",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +109,7 @@
         "fr": {
           "items": [
             {
-              "title": "Aubergine cuite au four avec tajine de potiron, dattes et yaourt",
+              "title": "Galettes de pommes de terre avec purée de potiron, pistou aux épinards et chou kale",
               "description": "avec salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -112,7 +118,7 @@
           "translated_from": "de"
         }
       },
-      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-47.pdf",
+      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-48.pdf",
       "error": null
     },
     {
@@ -123,28 +129,22 @@
         "de": {
           "items": [
             {
-              "title": "MOUSSAKA",
-              "description": "Glocal · Protaneo, Auberginen, Zucchetti, Kartoffeln, Menüsalat",
+              "title": "VEGGIE WRAP",
+              "description": "Glocal · Gemüse Ragout, Kartoffel Chips, pikante Salsa, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SZECHUAN",
-              "description": "Traditional · Pouletgeschnetzeltes, Bambus Sprossen, Karotten, Chili, Austernsauce, Reisnudeln",
+              "title": "FISH & CHIPS",
+              "description": "Traditional · Seehecht im Bierteig, grüne Erbsen, Pommes frites, Tartarsauce",
               "price": null,
               "tags": []
             },
             {
               "title": "SAISONALE SALATBAR: sagen Sie uns",
-              "description": "Salate · was Sie auf Ihrem Teller haben möchten!Salat, Blattsalat, hausgemachte Salate & warme Toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "FISH & CHIPS",
-              "description": "Weekly Special · Seehecht im Bierteig, grüne Erbsen, Pommes frites, Tartarsauce",
+              "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate & warme Toppings",
               "price": null,
               "tags": []
             }
@@ -153,16 +153,16 @@
         "fr": {
           "items": [
             {
-              "title": "Brewbee Moussaka",
-              "description": "Glocal · Brewbee, Auberginen, Zucchetti, Kartoffeln, Menüsalat mit Knorr",
+              "title": "Burrito mit Gemüsefüllung / Port. 400gr.",
+              "description": "Glocal · Karottenchips, Pikante Salsa, Menüsalat mit Knorr",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Poulet Geschnetzeltes Szechuan",
-              "description": "Traditional · Poulet, Bambus, Sprossen, Karotten, Reis Nudeln vegan eingeweicht vorgegart",
+              "title": "Fischknusperli Seehecht, 160g Port",
+              "description": "Traditional · Erbsen, Pommes frites, Tartarsauce dick",
               "price": null,
               "tags": []
             },
@@ -171,40 +171,28 @@
               "description": "Salate · Salade de carottes, Salade de betterave rouge, Taboulé, port. à 200g, Salade de concombres, Sauce à salade au vinaigre balsamique",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Fischknusperli Seehecht, 160g Port",
-              "description": "Weekly Special · Erbsen, Pommes frites, Tartarsauce dick",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "MOUSSAKA",
-              "description": "Glocal · Protaneo, eggplants, zucchini, potatoes, salad",
+              "title": "Breakfast burritos",
+              "description": "Glocal · Vegetable ragout, potato chips, spicy salsa, side salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SZECHUAN",
-              "description": "Traditional · Sliced chicken, bamboo shoots, carrots, chili, oyster sauce, rice noodles",
+              "title": "FISH & CHIPS",
+              "description": "Traditional · Hake in beer batter, green peas, French fries, tartar sauce",
               "price": null,
               "tags": []
             },
             {
               "title": "SEASONAL SALAD BAR: Tell us",
-              "description": "Salads · What you want on your plate!Salad, leafy salad, homemade salads & warm toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "FISH & CHIPS",
-              "description": "Weekly Special · Hake in beer batter, green peas, French fries, tartar sauce",
+              "description": "Salads · What you want on your plate!, leaf lettuce, homemade salads & warm toppings",
               "price": null,
               "tags": []
             }
@@ -237,22 +225,16 @@
         "de": {
           "items": [
             {
-              "title": "MOUSSAKA",
-              "description": "Veggie Bowl · Protaneo, Auberginen, Zucchetti, Kartoffeln, Menüsalat",
+              "title": "GEMÜSE SAMOSA",
+              "description": "Veggie Bowl · Auberginen Curry & Kartoffeln, Sweet Chili Sauce",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SZECHUAN",
-              "description": "Traditional Bowl · Poulet, Bambus, Sprossen, Karotten, Chili, Austernsauce, Reisnudeln",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
+              "title": "TONKATSU",
+              "description": "Traditional Bowl · Schweinsschnitzel, paniert, Jasminreis, Kabissalat, Radieschen, Menüsalat",
               "price": null,
               "tags": []
             }
@@ -261,22 +243,16 @@
         "fr": {
           "items": [
             {
-              "title": "MOUSSAKA",
-              "description": "Veggie Bowl · Protaneo, Auberginen, Zucchetti, Kartoffeln, Menüsalat",
+              "title": "GEMÜSE SAMOSA",
+              "description": "Veggie Bowl · Auberginen Curry & Kartoffeln, Sweet Chili Sauce",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SZECHUAN",
-              "description": "Traditional Bowl · Poulet, Bambus, Sprossen, Karotten, Chili, Austernsauce, Reisnudeln",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Speck und Cheddar, Pommes frites",
+              "title": "TONKATSU",
+              "description": "Traditional Bowl · Schweinsschnitzel, paniert, Jasminreis, Kabissalat, Radieschen, Menüsalat",
               "price": null,
               "tags": []
             }
@@ -285,22 +261,16 @@
         "en": {
           "items": [
             {
-              "title": "MOUSSAKA",
-              "description": "Veggie Bowl · Protaneo, eggplant, zucchini, potatoes, salad",
+              "title": "VEGETABLE SAMOSA",
+              "description": "Veggie Bowl · Eggplant Curry & Potatoes, Sweet Chili Sauce",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "SZECHUAN",
-              "description": "Traditional Bowl · Chicken, bamboo, bean sprouts, carrots, chili, oyster sauce, rice noodles",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "BEEF BURGER",
-              "description": "Soul food · with bacon and cheddar, French fries",
+              "title": "TONKATSU",
+              "description": "Traditional Bowl · Breaded pork schnitzel, jasmine rice, cabbage salad, radishes, mixed salad",
               "price": null,
               "tags": []
             }
@@ -470,7 +440,7 @@
             },
             {
               "title": "CURRY VERT AVEC TOFU",
-              "description": "Curry épicé avec piments, ananas, pommes de terre, tomates, riz",
+              "description": "Curry épicé avec poivrons, ananas, pommes de terre, tomates, riz",
               "price": "CHF 21.50",
               "tags": [
                 "vegetarian"
@@ -617,7 +587,7 @@
             },
             {
               "title": "Assiette fitness au saumon",
-              "description": "Filet de saumon poêlé avec salade composée en accompagnement",
+              "description": "Filet de saumon poêlé avec salade d’accompagnement colorée",
               "price": "Fr. 18.00",
               "tags": []
             },
