@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-20T15:14:46+00:00",
-  "date": "2026-11-20",
-  "weekday": "friday",
+  "generated_at": "2026-11-23T17:51:40+00:00",
+  "date": "2026-11-23",
+  "weekday": "monday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Daal (vegan)",
-              "description": "Rote Linsen, Gelbe Erbsen, Gerösteter Blumenkohl, Marinierter Rotkabis, Kokosjoghurt, Kokoschips",
+              "title": "Massaman Curry (vegan)",
+              "description": "Kichererbsen, Kartoffeln, Erdnüsse, Kokosmilch, Basmatireis, Limette, Koriander, Marinierter Chinakohl",
               "price": null,
               "tags": [
                 "vegan"
@@ -37,8 +37,8 @@
         "en": {
           "items": [
             {
-              "title": "Daal (vegan)",
-              "description": "Red Lentils, Yellow Peas, Roasted Cauliflower, Marinated Red Cabbage, Coconut Yogurt, Coconut Chips",
+              "title": "Massaman Curry (vegan)",
+              "description": "Chickpeas, Potatoes, Peanuts, Coconut Milk, Basmati Rice, Lime, Cilantro, Marinated Chinese Cabbage",
               "price": null,
               "tags": [
                 "vegan"
@@ -49,8 +49,8 @@
         "fr": {
           "items": [
             {
-              "title": "Dahl (végétalien)",
-              "description": "Lentilles corail, pois jaunes, chou-fleur rôti, chou rouge mariné, yaourt à la noix de coco, chips de noix de coco",
+              "title": "Curry massaman (vegan)",
+              "description": "Pois chiches, pommes de terre, cacahuètes, lait de coco, riz basmati, citron vert, coriandre, chou chinois mariné",
               "price": null,
               "tags": [
                 "vegan"
@@ -88,7 +88,7 @@
         "de": {
           "items": [
             {
-              "title": "Kartoffel-Küchlein mit Kürbispürée Spinat-Pistou & Federkohl",
+              "title": "Randen-Risotto mit Meerrettich-Apfelkren Wirz-Chips & Haselnüssen",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -98,7 +98,7 @@
         "en": {
           "items": [
             {
-              "title": "Potato fritters with pumpkin purée, spinach pistou & kale",
+              "title": "Beet Risotto with Horseradish-Apple Relish, Savoy Cabbage Chips & Hazelnuts",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -109,7 +109,7 @@
         "fr": {
           "items": [
             {
-              "title": "Galettes de pommes de terre avec purée de potiron, pistou aux épinards et chou kale",
+              "title": "Risotto aux betteraves rouges avec chips de chou frisé au raifort et à la pomme et noisettes",
               "description": "avec salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -129,16 +129,16 @@
         "de": {
           "items": [
             {
-              "title": "VEGGIE WRAP",
-              "description": "Glocal · Gemüse Ragout, Kartoffel Chips, pikante Salsa, Menüsalat",
+              "title": "KUNG PAO TOFU",
+              "description": "Glocal · Peperoni, Broccoli, Sesamsamen, Ingwer, Frühlingszwiebeln, Cashewnüsse, Jasminreis",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "FISH & CHIPS",
-              "description": "Traditional · Seehecht im Bierteig, grüne Erbsen, Pommes frites, Tartarsauce",
+              "title": "RINDSHACKSTEAK",
+              "description": "Traditional · grüne Pfeffersauce, Nudeln, Wirsing",
               "price": null,
               "tags": []
             },
@@ -147,28 +147,40 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate & warme Toppings",
               "price": null,
               "tags": []
+            },
+            {
+              "title": "TACOS",
+              "description": "Weekly Special · Chili con carne, geriebener Cheddar, Langkornreis, Guacamole",
+              "price": null,
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Burrito mit Gemüsefüllung / Port. 400gr.",
-              "description": "Glocal · Karottenchips, Pikante Salsa, Menüsalat mit Knorr",
+              "title": "Tofu Kung Pao, Port. 280g",
+              "description": "Glocal · Jasmin Reis gedämpft, Ingwer, Frühlingszwiebeln, Cashew & Jasminreis",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "Fischknusperli Seehecht, 160g Port",
-              "description": "Traditional · Erbsen, Pommes frites, Tartarsauce dick",
+              "title": "Rinds Burger Hamburger Patty 120gr",
+              "description": "Traditional · Grüne Pfeffer Sauce, Teigwaren Nudeln gekocht vegan, Wirsing geschmort",
               "price": null,
               "tags": []
             },
             {
               "title": "Mélange de feuilles de salade, Salad Bowl",
-              "description": "Salate · Salade de carottes, Salade de betterave rouge, Taboulé, port. à 200g, Salade de concombres, Sauce à salade au vinaigre balsamique",
+              "description": "Salate · Salade de carottes, Salade de betterave rouge, Salade de concombres, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "Weizentortilla mit Chili con Carne",
+              "description": "Weekly Special · Riz long grain étuvé, Guacamole, Sauce au fromage cheddar",
               "price": null,
               "tags": []
             }
@@ -177,22 +189,28 @@
         "en": {
           "items": [
             {
-              "title": "Breakfast burritos",
-              "description": "Glocal · Vegetable ragout, potato chips, spicy salsa, side salad",
+              "title": "KUNG PAO TOFU",
+              "description": "Glocal · Peppers, broccoli, sesame seeds, ginger, spring onions, cashews, jasmine rice",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "FISH & CHIPS",
-              "description": "Traditional · Hake in beer batter, green peas, French fries, tartar sauce",
+              "title": "GROUND BEEF STEAK",
+              "description": "Traditional · green peppercorn sauce, pasta, savoy cabbage",
               "price": null,
               "tags": []
             },
             {
               "title": "SEASONAL SALAD BAR: Tell us",
               "description": "Salads · What you want on your plate!, leaf lettuce, homemade salads & warm toppings",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "PORK TACOS",
+              "description": "Weekly Special · Chili con carne, grated cheddar, long-grain rice, guacamole",
               "price": null,
               "tags": []
             }
@@ -225,16 +243,22 @@
         "de": {
           "items": [
             {
-              "title": "GEMÜSE SAMOSA",
-              "description": "Veggie Bowl · Auberginen Curry & Kartoffeln, Sweet Chili Sauce",
+              "title": "KUNG PAO TOFU",
+              "description": "Veggie Bowl · Peperoni, Broccoli, Sesam, Ingwer, Frühlingszwiebeln, Cashew & Jasminreis",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "TONKATSU",
-              "description": "Traditional Bowl · Schweinsschnitzel, paniert, Jasminreis, Kabissalat, Radieschen, Menüsalat",
+              "title": "RINDSHACKSTEACK",
+              "description": "Traditional Bowl · Grüne Pfeffersauce, Nudeln, Wirsing",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "POULET SWEET & SOUR",
+              "description": "Soul Food · Poulet Brust Geschnetzeltes, mit Peperoni, Ananas, Zwiebeln, Mie Nudeln",
               "price": null,
               "tags": []
             }
@@ -243,16 +267,22 @@
         "fr": {
           "items": [
             {
-              "title": "GEMÜSE SAMOSA",
-              "description": "Veggie Bowl · Auberginen Curry & Kartoffeln, Sweet Chili Sauce",
+              "title": "KUNG PAO TOFU",
+              "description": "Veggie Bowl · Peperoni, Broccoli, Sesam, Ingwer, Frühlingszwiebeln, Cashew & Jasminreis",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "TONKATSU",
-              "description": "Traditional Bowl · Schweinsschnitzel, paniert, Jasminreis, Kabissalat, Radieschen, Menüsalat",
+              "title": "RINDSHACKSTEACK",
+              "description": "Traditional Bowl · Grüne Pfeffersauce, Nudeln, Wirsing",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "POULET SWEET & SOUR",
+              "description": "Soul Food · Poulet Brust Geschnetzeltes, mit Peperoni, Ananas, Zwiebeln, Mie Nudeln",
               "price": null,
               "tags": []
             }
@@ -261,16 +291,22 @@
         "en": {
           "items": [
             {
-              "title": "VEGETABLE SAMOSA",
-              "description": "Veggie Bowl · Eggplant Curry & Potatoes, Sweet Chili Sauce",
+              "title": "KUNG PAO TOFU",
+              "description": "Veggie Bowl · Peppers, broccoli, sesame, ginger, spring onions, cashews & jasmine rice",
               "price": null,
               "tags": [
-                "vegetarian"
+                "vegan"
               ]
             },
             {
-              "title": "TONKATSU",
-              "description": "Traditional Bowl · Breaded pork schnitzel, jasmine rice, cabbage salad, radishes, mixed salad",
+              "title": "GROUND BEEF STEAK",
+              "description": "Traditional Bowl · Green pepper sauce, noodles, savoy cabbage",
+              "price": null,
+              "tags": []
+            },
+            {
+              "title": "SWEET & SOUR CHICKEN",
+              "description": "Soul Food · Sliced chicken breast with bell peppers, pineapple, onions, and mie noodles",
               "price": null,
               "tags": []
             }
@@ -587,7 +623,7 @@
             },
             {
               "title": "Assiette fitness au saumon",
-              "description": "Filet de saumon poêlé avec salade d’accompagnement colorée",
+              "description": "Filet de saumon poêlé avec salade composée en accompagnement",
               "price": "Fr. 18.00",
               "tags": []
             },
