@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T17:51:40+00:00",
-  "date": "2026-11-23",
-  "weekday": "monday",
+  "generated_at": "2026-11-24T17:25:00+00:00",
+  "date": "2026-11-24",
+  "weekday": "tuesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,36 +25,30 @@
         "de": {
           "items": [
             {
-              "title": "Massaman Curry (vegan)",
-              "description": "Kichererbsen, Kartoffeln, Erdnüsse, Kokosmilch, Basmatireis, Limette, Koriander, Marinierter Chinakohl",
+              "title": "Mediterrane Polenta-Bowl",
+              "description": "Kräuterpolenta, Grillierte Aubergine, Zucchetti, Confierte Cherrytomate, Weisse Bohnen, Zitronen-Ricotta, Pinienkerne",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Massaman Curry (vegan)",
-              "description": "Chickpeas, Potatoes, Peanuts, Coconut Milk, Basmati Rice, Lime, Cilantro, Marinated Chinese Cabbage",
+              "title": "Mediterranean Polenta Bowl",
+              "description": "Herbed Polenta, Grilled Eggplant, Zucchini, Confit Cherry Tomatoes, White Beans, Lemon Ricotta, Pine Nuts",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Curry massaman (vegan)",
-              "description": "Pois chiches, pommes de terre, cacahuètes, lait de coco, riz basmati, citron vert, coriandre, chou chinois mariné",
+              "title": "Bowl de polenta méditerranéen",
+              "description": "Polenta aux herbes, aubergine grillée, courgettes, tomates cerises confites, haricots blancs, ricotta au citron, pignons de pin",
               "price": null,
-              "tags": [
-                "vegan"
-              ]
+              "tags": []
             }
           ],
           "translated_from": "de"
@@ -88,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "Randen-Risotto mit Meerrettich-Apfelkren Wirz-Chips & Haselnüssen",
+              "title": "Spätzli mit Lauch-Pilzragout Apfel-Chutney & Kräutersalat",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -98,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Beet Risotto with Horseradish-Apple Relish, Savoy Cabbage Chips & Hazelnuts",
+              "title": "Spätzle with leek and mushroom ragout, apple chutney, and herb salad",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -109,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Risotto aux betteraves rouges avec chips de chou frisé au raifort et à la pomme et noisettes",
+              "title": "Spätzle avec ragoût de poireaux et champignons, chutney aux pommes et salade d’herbes",
               "description": "avec salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -129,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "KUNG PAO TOFU",
-              "description": "Glocal · Peperoni, Broccoli, Sesamsamen, Ingwer, Frühlingszwiebeln, Cashewnüsse, Jasminreis",
+              "title": "LUYA TERIYAKI",
+              "description": "Glocal · vegane Geschnetzeltes, Karotten, Linsen-Mais-Couscous, Joghurt, Pak-Choi, Gemüse-Früchtesalsa",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "RINDSHACKSTEAK",
-              "description": "Traditional · grüne Pfeffersauce, Nudeln, Wirsing",
+              "title": "VINDALOO",
+              "description": "Traditional · Schweinefleisch Curry, Blumenkohl, Raita Sauce, Naan Brot",
               "price": null,
               "tags": []
             },
@@ -159,16 +153,16 @@
         "fr": {
           "items": [
             {
-              "title": "Tofu Kung Pao, Port. 280g",
-              "description": "Glocal · Jasmin Reis gedämpft, Ingwer, Frühlingszwiebeln, Cashew & Jasminreis",
+              "title": "Luya Teriyaki Geschnetzeltes gebraten",
+              "description": "Glocal · Linsen Mais Zitronen Couscous nature glutenfrei vegan, Karotten Orange geröstet, Grüne Gemüse Früchte Salsa, Alternative au yogourt, végétale, Pak Choi gebraten",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "Rinds Burger Hamburger Patty 120gr",
-              "description": "Traditional · Grüne Pfeffer Sauce, Teigwaren Nudeln gekocht vegan, Wirsing geschmort",
+              "title": "Schwein Vindaloo Curry, Port. 220g",
+              "description": "Traditional · Blumenkohl mariniert geröstet, Raita Sauce, Naan Brot 1 Stück",
               "price": null,
               "tags": []
             },
@@ -189,22 +183,22 @@
         "en": {
           "items": [
             {
-              "title": "KUNG PAO TOFU",
-              "description": "Glocal · Peppers, broccoli, sesame seeds, ginger, spring onions, cashews, jasmine rice",
+              "title": "LUYA TERIYAKI",
+              "description": "Glocal · Vegan stir-fry, carrots, lentil-corn couscous, yogurt, pak choi, vegetable and fruit salsa",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "GROUND BEEF STEAK",
-              "description": "Traditional · green peppercorn sauce, pasta, savoy cabbage",
+              "title": "VINDALOO",
+              "description": "Traditional · Pork curry, cauliflower, raita sauce, naan bread",
               "price": null,
               "tags": []
             },
             {
               "title": "SEASONAL SALAD BAR: Tell us",
-              "description": "Salads · What you want on your plate!, leaf lettuce, homemade salads & warm toppings",
+              "description": "Salads · What you want on your plate!, leaf salad, homemade salads & warm toppings",
               "price": null,
               "tags": []
             },
@@ -243,22 +237,22 @@
         "de": {
           "items": [
             {
-              "title": "KUNG PAO TOFU",
-              "description": "Veggie Bowl · Peperoni, Broccoli, Sesam, Ingwer, Frühlingszwiebeln, Cashew & Jasminreis",
+              "title": "TERIYAKI LUYA",
+              "description": "Veggie Bowl · Linsen Mais Couscous, Karotte, Pak Choi, Gemüse Früchtesalsa, Joghurt",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "RINDSHACKSTEACK",
-              "description": "Traditional Bowl · Grüne Pfeffersauce, Nudeln, Wirsing",
+              "title": "VINDALOO",
+              "description": "Traditional Bowl · Schweinefleisch, Curry, Blumenkohl, Raita , Naan",
               "price": null,
               "tags": []
             },
             {
-              "title": "POULET SWEET & SOUR",
-              "description": "Soul Food · Poulet Brust Geschnetzeltes, mit Peperoni, Ananas, Zwiebeln, Mie Nudeln",
+              "title": "RIND STROGANOFF",
+              "description": "Soul Food · mit Peperoni & Essiggurken, Spätzli CF, Sauerrahm Dip",
               "price": null,
               "tags": []
             }
@@ -267,22 +261,22 @@
         "fr": {
           "items": [
             {
-              "title": "KUNG PAO TOFU",
-              "description": "Veggie Bowl · Peperoni, Broccoli, Sesam, Ingwer, Frühlingszwiebeln, Cashew & Jasminreis",
+              "title": "TERIYAKI LUYA",
+              "description": "Veggie Bowl · Linsen Mais Couscous, Karotte, Pak Choi, Gemüse Früchtesalsa, Joghurt",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "RINDSHACKSTEACK",
-              "description": "Traditional Bowl · Grüne Pfeffersauce, Nudeln, Wirsing",
+              "title": "VINDALOO",
+              "description": "Traditional Bowl · Schweinefleisch, Curry, Blumenkohl, Raita , Naan",
               "price": null,
               "tags": []
             },
             {
-              "title": "POULET SWEET & SOUR",
-              "description": "Soul Food · Poulet Brust Geschnetzeltes, mit Peperoni, Ananas, Zwiebeln, Mie Nudeln",
+              "title": "RIND STROGANOFF",
+              "description": "Soul Food · mit Peperoni & Essiggurken, Spätzli CF, Sauerrahm Dip",
               "price": null,
               "tags": []
             }
@@ -291,22 +285,22 @@
         "en": {
           "items": [
             {
-              "title": "KUNG PAO TOFU",
-              "description": "Veggie Bowl · Peppers, broccoli, sesame, ginger, spring onions, cashews & jasmine rice",
+              "title": "TERIYAKI LUYA",
+              "description": "Veggie Bowl · Lentils, Corn, Couscous, Carrot, Pak Choi, Vegetable and Fruit Salsa, Yogurt",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "GROUND BEEF STEAK",
-              "description": "Traditional Bowl · Green pepper sauce, noodles, savoy cabbage",
+              "title": "VINDALOO",
+              "description": "Traditional Bowl · Pork, Curry, Cauliflower, Raita, Naan",
               "price": null,
               "tags": []
             },
             {
-              "title": "SWEET & SOUR CHICKEN",
-              "description": "Soul Food · Sliced chicken breast with bell peppers, pineapple, onions, and mie noodles",
+              "title": "BEEF STROGANOFF",
+              "description": "Soul Food · with pepperoni & pickles, Spätzle CF, sour cream dip",
               "price": null,
               "tags": []
             }
@@ -606,7 +600,7 @@
             },
             {
               "title": "Soup of the day",
-              "description": "Varies according to offer",
+              "description": "Varies according to the offer",
               "price": "Fr. 6.00",
               "tags": []
             }
@@ -616,7 +610,7 @@
         "fr": {
           "items": [
             {
-              "title": "Assiette fitness au poulet",
+              "title": "Assiette fitness avec poulet",
               "description": "Blanc de poulet grillé avec salade composée en accompagnement",
               "price": "Fr. 16.50",
               "tags": []
