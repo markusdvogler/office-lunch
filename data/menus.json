@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T17:25:00+00:00",
-  "date": "2026-11-24",
-  "weekday": "tuesday",
+  "generated_at": "2026-11-25T17:01:46+00:00",
+  "date": "2026-11-25",
+  "weekday": "wednesday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,30 +25,36 @@
         "de": {
           "items": [
             {
-              "title": "Mediterrane Polenta-Bowl",
-              "description": "Kräuterpolenta, Grillierte Aubergine, Zucchetti, Confierte Cherrytomate, Weisse Bohnen, Zitronen-Ricotta, Pinienkerne",
+              "title": "Baingan Bharta (vegan)",
+              "description": "Gehackte Auberginen, Tomaten, Knoblauch, Erbsen, Koriander, Roti Paratha, Jasminreis, Sprossen, Limette",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "Mediterranean Polenta Bowl",
-              "description": "Herbed Polenta, Grilled Eggplant, Zucchini, Confit Cherry Tomatoes, White Beans, Lemon Ricotta, Pine Nuts",
+              "title": "Baingan Bharta (vegan)",
+              "description": "Minced Eggplant, Tomatoes, Garlic, Peas, Cilantro, Roti Paratha, Jasmine Rice, Sprouts, Lime",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Bowl de polenta méditerranéen",
-              "description": "Polenta aux herbes, aubergine grillée, courgettes, tomates cerises confites, haricots blancs, ricotta au citron, pignons de pin",
+              "title": "Baingan Bharta (végétalien)",
+              "description": "Aubergines hachées, tomates, ail, petits pois, coriandre, roti paratha, riz au jasmin, germes de soja, citron vert",
               "price": null,
-              "tags": []
+              "tags": [
+                "vegan"
+              ]
             }
           ],
           "translated_from": "de"
@@ -82,9 +88,17 @@
         "de": {
           "items": [
             {
-              "title": "Spätzli mit Lauch-Pilzragout Apfel-Chutney & Kräutersalat",
+              "title": "Gemüse Lasagne mit Sonnenblumenkern-Bolo Bergkäse & Spinat",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Rindfleisch Lasagne mit Oliven Bergkäse & Spinat",
+              "description": "inkl. Salat oder Suppe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ]
@@ -92,9 +106,17 @@
         "en": {
           "items": [
             {
-              "title": "Spätzle with leek and mushroom ragout, apple chutney, and herb salad",
+              "title": "Vegetable lasagna with sunflower seed bolognese, mountain cheese & spinach",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Beef lasagna with olives, mountain cheese & spinach",
+              "description": "incl. salad or soup",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -103,9 +125,17 @@
         "fr": {
           "items": [
             {
-              "title": "Spätzle avec ragoût de poireaux et champignons, chutney aux pommes et salade d’herbes",
+              "title": "Lasagnes aux légumes avec sauce bolognaise aux graines de tournesol, fromage de montagne et épinards",
               "description": "avec salade ou soupe",
               "price": "CHF 22.00",
+              "tags": [
+                "vegetarian"
+              ]
+            },
+            {
+              "title": "Lasagnes au bœuf, olives, fromage de montagne et épinards",
+              "description": "avec salade ou soupe",
+              "price": "CHF 25.00",
               "tags": []
             }
           ],
@@ -123,16 +153,16 @@
         "de": {
           "items": [
             {
-              "title": "LUYA TERIYAKI",
-              "description": "Glocal · vegane Geschnetzeltes, Karotten, Linsen-Mais-Couscous, Joghurt, Pak-Choi, Gemüse-Früchtesalsa",
+              "title": "KÜRBIS RAVIOLI",
+              "description": "Glocal · Randen-Rahmsauce, Baumnüsse, Rucola, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "VINDALOO",
-              "description": "Traditional · Schweinefleisch Curry, Blumenkohl, Raita Sauce, Naan Brot",
+              "title": "AYAM BAKAR",
+              "description": "Traditional · Pouletschenkel, Kurkuma-Kokos-Reis, Tomatensambal, Gurkensalat, Chinakohl",
               "price": null,
               "tags": []
             },
@@ -153,16 +183,16 @@
         "fr": {
           "items": [
             {
-              "title": "Luya Teriyaki Geschnetzeltes gebraten",
-              "description": "Glocal · Linsen Mais Zitronen Couscous nature glutenfrei vegan, Karotten Orange geröstet, Grüne Gemüse Früchte Salsa, Alternative au yogourt, végétale, Pak Choi gebraten",
+              "title": "Kürbis Ravioli",
+              "description": "Glocal · Randen  Rahm Sauce, Roquette, Noix transformée, Menüsalat mit Knorr",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "Schwein Vindaloo Curry, Port. 220g",
-              "description": "Traditional · Blumenkohl mariniert geröstet, Raita Sauce, Naan Brot 1 Stück",
+              "title": "Poulet Schenkel Ayam Bakar, Port. 180g",
+              "description": "Traditional · Kokosreis gelb Nasi Kuning, Sambal Tomat, Gurken Salat Reis Essig, Chou chinois, Peperoncini / Piment fort / Jalapeno",
               "price": null,
               "tags": []
             },
@@ -183,16 +213,16 @@
         "en": {
           "items": [
             {
-              "title": "LUYA TERIYAKI",
-              "description": "Glocal · Vegan stir-fry, carrots, lentil-corn couscous, yogurt, pak choi, vegetable and fruit salsa",
+              "title": "PUMPKIN RAVIOLI",
+              "description": "Glocal · Beetroot cream sauce, walnuts, arugula, mixed salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "VINDALOO",
-              "description": "Traditional · Pork curry, cauliflower, raita sauce, naan bread",
+              "title": "AYAM BAKAR",
+              "description": "Traditional · Chicken thighs, turmeric and coconut rice, tomato sambal, cucumber salad, Chinese cabbage",
               "price": null,
               "tags": []
             },
@@ -237,22 +267,22 @@
         "de": {
           "items": [
             {
-              "title": "TERIYAKI LUYA",
-              "description": "Veggie Bowl · Linsen Mais Couscous, Karotte, Pak Choi, Gemüse Früchtesalsa, Joghurt",
+              "title": "KÜRBIS RAVIOLI",
+              "description": "Veggie Bowl · Randenrahmsauce, Rucola, Baumnüsse, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "VINDALOO",
-              "description": "Traditional Bowl · Schweinefleisch, Curry, Blumenkohl, Raita , Naan",
+              "title": "AYAM BAKAR",
+              "description": "Traditional Bowl · Pouletschenkel, Kurkuma Kokos Reis, Tomatensambal, Gurkensalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "RIND STROGANOFF",
-              "description": "Soul Food · mit Peperoni & Essiggurken, Spätzli CF, Sauerrahm Dip",
+              "title": "KALBSBRATWURST",
+              "description": "Soul Food · Bratkartoffeln Brätler, Karotten glasiert, Zwiebel Sauce",
               "price": null,
               "tags": []
             }
@@ -261,22 +291,22 @@
         "fr": {
           "items": [
             {
-              "title": "TERIYAKI LUYA",
-              "description": "Veggie Bowl · Linsen Mais Couscous, Karotte, Pak Choi, Gemüse Früchtesalsa, Joghurt",
+              "title": "KÜRBIS RAVIOLI",
+              "description": "Veggie Bowl · Randenrahmsauce, Rucola, Baumnüsse, Menüsalat",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "VINDALOO",
-              "description": "Traditional Bowl · Schweinefleisch, Curry, Blumenkohl, Raita , Naan",
+              "title": "AYAM BAKAR",
+              "description": "Traditional Bowl · Pouletschenkel, Kurkuma Kokos Reis, Tomatensambal, Gurkensalat",
               "price": null,
               "tags": []
             },
             {
-              "title": "RIND STROGANOFF",
-              "description": "Soul Food · mit Peperoni & Essiggurken, Spätzli CF, Sauerrahm Dip",
+              "title": "KALBSBRATWURST",
+              "description": "Soul Food · Bratkartoffeln Brätler, Karotten glasiert, Zwiebel Sauce",
               "price": null,
               "tags": []
             }
@@ -285,22 +315,22 @@
         "en": {
           "items": [
             {
-              "title": "TERIYAKI LUYA",
-              "description": "Veggie Bowl · Lentils, Corn, Couscous, Carrot, Pak Choi, Vegetable and Fruit Salsa, Yogurt",
+              "title": "PUMPKIN RAVIOLI",
+              "description": "Veggie Bowl · Beetroot cream sauce, arugula, walnuts, side salad",
               "price": null,
               "tags": [
                 "vegetarian"
               ]
             },
             {
-              "title": "VINDALOO",
-              "description": "Traditional Bowl · Pork, Curry, Cauliflower, Raita, Naan",
+              "title": "AYAM BAKAR",
+              "description": "Traditional Bowl · Chicken thighs, turmeric coconut rice, tomato sambal, cucumber salad",
               "price": null,
               "tags": []
             },
             {
-              "title": "BEEF STROGANOFF",
-              "description": "Soul Food · with pepperoni & pickles, Spätzle CF, sour cream dip",
+              "title": "VEAL BRATWURST",
+              "description": "Soul Food · Fried potatoes, glazed carrots, onion sauce",
               "price": null,
               "tags": []
             }
@@ -407,7 +437,7 @@
             },
             {
               "title": "Chicken Fried Noodles",
-              "description": "Fried noodles, chicken, egg, vegetables, soy sauce",
+              "description": "Stir-fried noodles, chicken, egg, vegetables, soy sauce",
               "price": "CHF 17.00",
               "tags": []
             },
@@ -600,7 +630,7 @@
             },
             {
               "title": "Soup of the day",
-              "description": "Varies according to the offer",
+              "description": "Varies according to offer",
               "price": "Fr. 6.00",
               "tags": []
             }
