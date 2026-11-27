@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T16:43:09+00:00",
-  "date": "2026-11-26",
-  "weekday": "thursday",
+  "generated_at": "2026-11-27T16:29:02+00:00",
+  "date": "2026-11-27",
+  "weekday": "friday",
   "restaurants": [
     {
       "id": "hortus",
@@ -25,8 +25,8 @@
         "de": {
           "items": [
             {
-              "title": "Kürbislasagne",
-              "description": "Tomatensugo, Bechamel, Butternuss, JUMI-Käse, Basilikum, Rucola, Hausdressing",
+              "title": "Shakshuka",
+              "description": "Aubergine, Tomate, Kapija-Paprika, Schweizer Freilandeier, Petersilien-Feta-Crumble, Fladenbrot",
               "price": null,
               "tags": []
             }
@@ -35,8 +35,8 @@
         "en": {
           "items": [
             {
-              "title": "Pumpkin Lasagna",
-              "description": "Tomato Sauce, Béchamel Sauce, Butternut Squash, JUMI Cheese, Basil, Arugula, House Dressing",
+              "title": "Shakshuka",
+              "description": "Eggplant, Tomato, Kapija Peppers, Swiss Free-Range Eggs, Parsley Feta Crumble, Flatbread",
               "price": null,
               "tags": []
             }
@@ -45,8 +45,8 @@
         "fr": {
           "items": [
             {
-              "title": "Lasagnes au potiron",
-              "description": "Sauce tomate, béchamel, courge butternut, fromage JUMI, basilic, roquette, vinaigrette maison",
+              "title": "Chakchouka",
+              "description": "Aubergine, tomate, poivron Kapija, œufs suisses de poules élevées en plein air, crumble de feta et de persil, pain plat",
               "price": null,
               "tags": []
             }
@@ -82,7 +82,7 @@
         "de": {
           "items": [
             {
-              "title": "ber Polenta-Roulade im Lauchmantel mit Krautstiel & Parmesan-Schaum",
+              "title": "Asia Gemüse-Pfanne mit Tofu, Sesam Reisnudeln & Mungosprossen",
               "description": "inkl. Salat oder Suppe",
               "price": "CHF 22.00",
               "tags": []
@@ -92,7 +92,7 @@
         "en": {
           "items": [
             {
-              "title": "Polenta roulade wrapped in leek with Swiss chard and Parmesan foam",
+              "title": "Asian stir-fried vegetables with tofu, sesame rice noodles & mung bean sprouts",
               "description": "incl. salad or soup",
               "price": "CHF 22.00",
               "tags": []
@@ -103,7 +103,7 @@
         "fr": {
           "items": [
             {
-              "title": "Roulade de polenta en croûte de poireau avec blette et mousse au parmesan",
+              "title": "Poêlée de légumes asiatiques avec tofu, nouilles de riz au sésame et germes de soja mungo",
               "description": "avec salade ou soupe",
               "price": "CHF 22.00",
               "tags": []
@@ -112,7 +112,7 @@
           "translated_from": "de"
         }
       },
-      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-48.pdf",
+      "pdf_url": "https://biobistro.bsb.ch/volumes/resources/Gastronomie_Restaurants_Menueplan/Bio-Bistro/26KW-49.pdf",
       "error": null
     },
     {
@@ -123,16 +123,16 @@
         "de": {
           "items": [
             {
-              "title": "PAD KRA PAO",
-              "description": "Glocal · Pflanzenhack, Basmati Reis, Koriander, Erbsensprossen, Sesamsamen, Menüsalat",
+              "title": "PLANTED GESCHNETZETES",
+              "description": "Glocal · Kichererbsen, Quinoa mit Grünerbsen, Menüsalat",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "BRITAIN BOWL",
-              "description": "Traditional · Fish Nuggets, Tartarsauce, Pommes frites, Erbsenpüree, Karotten Julienne, Mixed Pickles, Curry Granola",
+              "title": "TACOS",
+              "description": "Traditional · Chili con carne, geriebener Cheddar, Langkornreis, Guacamole",
               "price": null,
               "tags": []
             },
@@ -141,28 +141,22 @@
               "description": "Salate · was Sie auf Ihrem Teller haben möchten!, Blattsalat, hausgemachte Salate & warme Toppings",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "TACOS",
-              "description": "Weekly Special · Chili con carne, geriebener Cheddar, Langkornreis, Guacamole",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "fr": {
           "items": [
             {
-              "title": "Pad kra pao vegan",
-              "description": "Glocal · Basmati Reis gedämpft Steamer, Frisee Koriander Sprossen Mischung Dekoration, Menüsalat mit Knorr, Sésame / Graine de sésame, Citron vert / Limette",
+              "title": "Planted Mexikanisch mariniert",
+              "description": "Glocal · Quinoa gekocht, Menüsalat mit Knorr",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "Pommes frites",
-              "description": "Traditional · Erbsen Püree, Salzwasser Fisch Knusperli, Port. 120g, Alternative au tartare, végétale, Roots / Gewürz Crunch, Mixed Pickles / Légumes au vinaigre, conserve, Carottes pelées, parées",
+              "title": "Weizentortilla mit Chili con Carne",
+              "description": "Traditional · Riz long grain étuvé, Guacamole, Sauce au fromage cheddar",
               "price": null,
               "tags": []
             },
@@ -171,40 +165,28 @@
               "description": "Salate · Salade de carottes, Salade de betterave rouge, Salade de concombres, Taboulé, port. à 200g, Sauce à salade au vinaigre balsamique",
               "price": null,
               "tags": []
-            },
-            {
-              "title": "Weizentortilla mit Chili con Carne",
-              "description": "Weekly Special · Riz long grain étuvé, Guacamole, Sauce au fromage cheddar",
-              "price": null,
-              "tags": []
             }
           ]
         },
         "en": {
           "items": [
             {
-              "title": "PAD KRA PAO",
-              "description": "Glocal · Plant-based mince, basmati rice, cilantro, pea shoots, sesame seeds, mixed salad",
+              "title": "PLANTED STRIPS OF MEAT",
+              "description": "Glocal · Chickpeas, quinoa with green peas, mixed salad",
               "price": null,
               "tags": [
                 "vegan"
               ]
             },
             {
-              "title": "BRITAIN BOWL",
-              "description": "Traditional · Fish nuggets, tartar sauce, French fries, mashed peas, julienned carrots, mixed pickles, curry granola",
+              "title": "PORK TACOS",
+              "description": "Traditional · Chili con carne, grated cheddar, long-grain rice, guacamole",
               "price": null,
               "tags": []
             },
             {
               "title": "SEASONAL SALAD BAR: Tell us",
-              "description": "Salads · What you want on your plate!, leaf lettuce, homemade salads & warm toppings",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "PORK TACOS",
-              "description": "Weekly Special · Chili con carne, grated cheddar, long-grain rice, guacamole",
+              "description": "Salads · What you want on your plate!, leaf salad, homemade salads & warm toppings",
               "price": null,
               "tags": []
             }
@@ -237,22 +219,16 @@
         "de": {
           "items": [
             {
-              "title": "PAD KRA PAO",
-              "description": "Veggie Bowl · Pflanzenhack, Basmatireis, Koriander & Erbsensprossen, Menüsalat",
+              "title": "TORTELLINI",
+              "description": "Veggie Bowl · Basilikum Rahm Sauce, frische Kräuter, Reibkäse, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "BRITAIN BOWL",
-              "description": "Traditional Bowl · Kartoffeln, Erbsen Püree, Fisch Knusperli, Tatare sauce, Gewürz Crunch, Mixed pickles, Karotten",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Cheddar und Speck, Pommes frites",
+              "title": "SCHWEINSSCHNITZEL",
+              "description": "Traditional Bowl · Paniert, Ketchup, Mayo, Pommes rissolées, gemischtes Gemüse",
               "price": null,
               "tags": []
             }
@@ -261,22 +237,16 @@
         "fr": {
           "items": [
             {
-              "title": "PAD KRA PAO",
-              "description": "Veggie Bowl · Pflanzenhack, Basmatireis, Koriander & Erbsensprossen, Menüsalat",
+              "title": "TORTELLINI",
+              "description": "Veggie Bowl · Basilikum Rahm Sauce, frische Kräuter, Reibkäse, Menüsalat",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "BRITAIN BOWL",
-              "description": "Traditional Bowl · Kartoffeln, Erbsen Püree, Fisch Knusperli, Tatare sauce, Gewürz Crunch, Mixed pickles, Karotten",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "BEEFBURGER",
-              "description": "Soul Food · mit Cheddar und Speck, Pommes frites",
+              "title": "SCHWEINSSCHNITZEL",
+              "description": "Traditional Bowl · Paniert, Ketchup, Mayo, Pommes rissolées, gemischtes Gemüse",
               "price": null,
               "tags": []
             }
@@ -285,22 +255,16 @@
         "en": {
           "items": [
             {
-              "title": "PAD KRA PAO",
-              "description": "Veggie Bowl · Plant-based mince, basmati rice, cilantro & pea shoots, side salad",
+              "title": "TORTELLINI",
+              "description": "Veggie Bowl · Creamy basil sauce, fresh herbs, grated cheese, side salad",
               "price": null,
               "tags": [
-                "vegan"
+                "vegetarian"
               ]
             },
             {
-              "title": "BRITAIN BOWL",
-              "description": "Traditional Bowl · Potatoes, pea purée, crispy fish, tartar sauce, seasoned crunch, mixed pickles, carrots",
-              "price": null,
-              "tags": []
-            },
-            {
-              "title": "BEEF BURGER",
-              "description": "Soul food · with cheddar and bacon, French fries",
+              "title": "Pork escalope",
+              "description": "Traditional Bowl · Breaded, ketchup, mayo, rissoles, mixed vegetables",
               "price": null,
               "tags": []
             }
@@ -407,7 +371,7 @@
             },
             {
               "title": "Chicken Fried Noodles",
-              "description": "Stir-fried noodles, chicken, egg, vegetables, soy sauce",
+              "description": "Fried noodles, chicken, egg, vegetables, soy sauce",
               "price": "CHF 17.00",
               "tags": []
             },
@@ -470,7 +434,7 @@
             },
             {
               "title": "CURRY VERT AVEC TOFU",
-              "description": "Curry épicé avec piments, ananas, pommes de terre, tomates, riz",
+              "description": "Curry épicé avec poivrons, ananas, pommes de terre, tomates, riz",
               "price": "CHF 21.50",
               "tags": [
                 "vegetarian"
@@ -600,7 +564,7 @@
             },
             {
               "title": "Soup of the day",
-              "description": "Varies according to the offer",
+              "description": "Varies according to offer",
               "price": "Fr. 6.00",
               "tags": []
             }
@@ -610,14 +574,14 @@
         "fr": {
           "items": [
             {
-              "title": "Assiette fitness avec poulet",
+              "title": "Assiette fitness au poulet",
               "description": "Blanc de poulet grillé avec salade composée en accompagnement",
               "price": "Fr. 16.50",
               "tags": []
             },
             {
               "title": "Assiette fitness au saumon",
-              "description": "Filet de saumon poêlé avec salade composée en accompagnement",
+              "description": "Filet de saumon poêlé avec salade d’accompagnement colorée",
               "price": "Fr. 18.00",
               "tags": []
             },
